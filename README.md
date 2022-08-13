@@ -16,6 +16,6 @@ Gathered data of top 1000 paid players each year over the past 10 years via web 
 3.How much has each position increased or decreased? \
 4.What year had the highest increase in total salary? \
 5.What position had the highest increase in a single year? \
-6.Are there any correlations between positions being paid more and individual teams? What about by division? \
+6.Are there any correlations between positions being paid more and individual teams? What about by division? 
 
 ## Hypothesis
