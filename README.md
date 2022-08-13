@@ -13,9 +13,17 @@ Gathered data of top 1000 paid players each year over the past 10 years via web 
 ## Objectives
 1.What position has been paid the most and least over the 10 year span? \
 2.How much has the total player market increased or decreased? \
-3.How much has each position increased or decreased? \
-4.What year had the highest increase in total salary? \
-5.What position had the highest increase in a single year? \
-6.Are there any correlations between positions being paid more and individual teams? What about by division? 
+3.What year had the highest increase/decrease in total salary? \
+4.Are there any correlations between positions being paid more and individual teams? What about by division? 
 
 ## Hypothesis
+1. \
+2. \
+3. \
+4.
+
+## Findings
+1. \
+2. \
+3. \
+4.There are multiple correlations after analyzing the data, for example the AFC North division has been known for signing strong defensive line players which is shown by being top 3 in Total salary in the DT, DE, ILB, OLB position despite not paying the most amount of players in those categories respectively.
