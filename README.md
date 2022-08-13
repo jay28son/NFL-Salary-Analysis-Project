@@ -10,6 +10,6 @@ Gathered data of top 1000 paid players each year over the past 10 years via web 
 4.Tableau \
 5.Jupyter Notebook
 
-##Objectives
+## Objectives
 
-##Hypothesis
+## Hypothesis
