@@ -35,10 +35,13 @@ Gathered data of top 1000 paid players each year over the past 10 years via web 
 
 
 # Process
+## Web Scraping
 [Python Web Scraping Jupyter Notebook](https://github.com/jay28son/NFL-Salary-Analysis-Project/blob/main/NFL%20Salary%20Project/Jupyter%20Documentation/Jupyter%20Notebook%202013%20Data%20.ipynb)
 
+## SQL Queries/Pandas
 [Jupyter SQL Documentation](https://github.com/jay28son/NFL-Salary-Analysis-Project/blob/main/NFL%20Salary%20Project/Jupyter%20Notebook%20SQL.ipynb)
 
+## Visualization
 [Tableau Dashboard 2013-2022 Player Market Change](https://public.tableau.com/app/profile/jayson1569/viz/NFLSalaryAnalysis-2013-2022TotalDashboard/2013-2022Dashboard)
 
 [Tableau Dashboard Salary Per Position](https://public.tableau.com/app/profile/jayson1569/viz/NFLSalaryAnalysis-2013-2022TotalDashboard/2013-2022Dashboard)
