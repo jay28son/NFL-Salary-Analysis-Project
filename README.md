@@ -1,5 +1,4 @@
-# NFL-Salary-Analysis-Project (IN PROGRESS)
-
+# NFL-Salary-Analysis-Project 
 ## Overview
 Gathered data of top 1000 paid players each year over the past 10 years via web scraping with python. Organized, formatted, and cleaned data using Microsoft Excel. Analyzed data using Mysql and used pandas on python to document sql queries with Jupyter Notebook.
 
