@@ -40,7 +40,7 @@ Gathered data of top 1000 paid players each year over the past 10 years via web 
 ![2013-2022 Total Dashboard](https://user-images.githubusercontent.com/100823027/184520651-ad72f10f-f3d6-4d63-87e3-d5ed370bcd6b.PNG)
 
 
-## Visualization 2              [Tableau Dashboard Salary Per Position](https://public.tableau.com/app/profile/jayson1569/viz/NFLSalaryAnalysis-2013-2022TotalDashboard/2013-2022Dashboard)
+## Visualization 2              [Tableau Dashboard Salary Per Position](https://public.tableau.com/app/profile/jayson1569/viz/NFLSalaryAnalysis-PositionChangesDashboard/2013-2022PerPosition)
 ![2013-2022 Position Changes](https://user-images.githubusercontent.com/100823027/184520653-99a07de6-99d5-4b44-83d3-486fad436bcc.PNG)
 
 ## Findings
