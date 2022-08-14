@@ -45,3 +45,6 @@ Gathered data of top 1000 paid players each year over the past 10 years via web 
 [Tableau Dashboard 2013-2022 Player Market Change](https://public.tableau.com/app/profile/jayson1569/viz/NFLSalaryAnalysis-2013-2022TotalDashboard/2013-2022Dashboard)
 
 [Tableau Dashboard Salary Per Position](https://public.tableau.com/app/profile/jayson1569/viz/NFLSalaryAnalysis-2013-2022TotalDashboard/2013-2022Dashboard)
+
+# Future Goals
+1. Create SQL queries to see if theres any correlation between divisions/teams paying a certain position more.
