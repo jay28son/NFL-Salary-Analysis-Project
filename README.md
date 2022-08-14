@@ -29,5 +29,10 @@ Gathered data of top 1000 paid players each year over the past 10 years via web 
 4. There are multiple correlations after analyzing the data, for example the AFC North division has been known for signing strong defensive line players which is shown by being top 3 in Total salary in the DT, DE, ILB, OLB position despite not paying the most amount of players in those categories respectively.
 
 ## Process
+[Python Web Scraping Jupyter Notebook](https://github.com/jay28son/NFL-Salary-Analysis-Project/blob/main/NFL%20Salary%20Project/Jupyter%20Documentation/Jupyter%20Notebook%202013%20Data%20.ipynb)
 
 [Jupyter SQL Documentation](https://github.com/jay28son/NFL-Salary-Analysis-Project/blob/main/NFL%20Salary%20Project/Jupyter%20Notebook%20SQL.ipynb)
+
+[Tableau Dashboard 2013-2022 Player Market Change](https://public.tableau.com/app/profile/jayson1569/viz/NFLSalaryAnalysis-2013-2022TotalDashboard/2013-2022Dashboard)
+
+[Tableau Dashboard Salary Per Position](https://public.tableau.com/app/profile/jayson1569/viz/NFLSalaryAnalysis-2013-2022TotalDashboard/2013-2022Dashboard)
