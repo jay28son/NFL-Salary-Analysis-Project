@@ -1,0 +1,1001 @@
+id,Year,Name,POS,Salary,Team Abbv.,Team Name,Division
+1,2015,Eli Manning,QB,"$37,010,004",NYG,New  York Giants,NFC East
+2,2015,Ben Roethlisberger,QB,"$35,257,482",PIT,Pittsburgh Steelers,AFC North
+3,2015,Philip Rivers,QB,"$32,007,656",SD,San Diego Chargers,AFC West
+4,2015,Russell Wilson,QB,"$31,722,469",SEA,Seattle Seahawks,NFC West
+5,2015,A.J. Green,WR,"$26,750,000",CIN,Cincinnati Bengals,AFC North
+6,2015,Ndamukong Suh,DT,"$26,500,000",MIA,Miami Dolphins,AFC East
+7,2015,Marcell Dareus,DT,"$25,176,470",BUF,Buffalo Bills,AFC East
+8,2015,Cam Newton,QB,"$24,000,000",CAR,Carolina Panthers,NFC South
+9,2015,Julio Jones,WR,"$22,010,829",ATL,Atlanta Falcons,NFC South
+10,2015,Jay Cutler,QB,"$20,506,780",CHI,Chicago Bears,NFC North
+11,2015,Luke Kuechly,ILB,"$20,000,000",CAR,Carolina Panthers,NFC South
+12,2015,J.J. Watt,DE,"$19,969,000",HOU,Houston Texans,AFC South
+13,2015,Ryan Kerrigan,OLB,"$19,057,176",WAS,Washington Commanders,NFC East
+14,2015,Drew Brees,QB,"$19,005,422",NO,New Orleans Saints,NFC South
+15,2015,Peyton Manning,QB,"$19,000,000",DEN,Denver Broncos,AFC West
+16,2015,Anthony Castonzo,LT,"$18,000,000",IND,Indianapolis Colts,AFC South
+17,2015,Tony Romo,QB,"$17,002,458",DAL,Dallas Cowboys,NFC East
+18,2015,Cameron Jordan,DE,"$17,001,067",NO,New Orleans Saints,NFC South
+19,2015,Marcus Mariota,QB,"$16,330,324",TEN,Tennessee Titans,AFC South
+20,2015,Cameron Heyward,DT,"$16,027,707",PIT,Pittsburgh Steelers,AFC North
+21,2015,Darrelle Revis,CB,"$16,011,630",NYJ,New York Jets,AFC East
+22,2015,Dez Bryant,WR,"$16,000,000",DAL,Dallas Cowboys,NFC East
+23,2015,LeSean McCoy,RB,"$16,000,000",BUF,Buffalo Bills,AFC East
+24,2015,Robert Quinn,OLB,"$15,792,100",STL,St. Louis Rams,NFC West
+25,2015,Dante Fowler Jr.,DE,"$15,661,820",JAC,Jacksonville Jaguars,AFC South
+26,2015,Amari Cooper,WR,"$15,208,644",OAK,Oakland Raiders,AFC West
+27,2015,Randall Cobb,WR,"$15,127,948",GB,Green Bay Packers,NFC North
+28,2015,Trent Williams,LT,"$15,111,383",WAS,Washington Commanders,NFC East
+29,2015,Julius Thomas,TE,"$15,100,000",JAC,Jacksonville Jaguars,AFC South
+30,2015,Rob Gronkowski,TE,"$15,014,803",NE,New England Patriots,AFC East
+31,2015,Demaryius Thomas,WR,"$15,000,000",DEN,Denver Broncos,AFC West
+32,2015,Kareem Jackson,CB,"$14,187,500",HOU,Houston Texans,AFC South
+33,2015,Brandon Scherff,G,"$14,161,626",WAS,Washington Commanders,NFC East
+34,2015,Gerald McCoy,DT,"$14,008,033",TB,Tampa Bay Buccaneers,NFC South
+35,2015,Mario Williams,DE,"$14,000,000",BUF,Buffalo Bills,AFC East
+36,2015,Nate Solder,LT,"$13,938,000",NE,New England Patriots,AFC East
+37,2015,Corey Liuget,DT,"$13,633,112",SD,San Diego Chargers,AFC West
+38,2015,Mike Daniels,DT,"$13,576,475",GB,Green Bay Packers,NFC North
+39,2015,Byron Maxwell,CB,"$13,517,403",PHI,Philadelphia Eagles,NFC East
+40,2015,Jimmy Smith,CB,"$13,388,235",BAL,Baltimore Ravens,AFC North
+41,2015,Tom Brady,QB,"$13,010,663",NE,New England Patriots,AFC East
+42,2015,Rodney Hudson,C,"$13,008,716",OAK,Oakland Raiders,AFC West
+43,2015,DeAndre Levy,OLB,"$13,000,591",DET,Detroit Lions,NFC North
+44,2015,Greg Olsen,TE,"$13,000,000",CAR,Carolina Panthers,NFC South
+45,2015,Justin Houston,OLB,"$13,000,000",KC,Kansas City Chiefs,AFC West
+46,2015,Jeremy Maclin,WR,"$13,000,000",KC,Kansas City Chiefs,AFC West
+47,2015,Adrian Peterson,RB,"$13,000,000",MIN,Minnesota Vikings,NFC North
+48,2015,Charles Clay,TE,"$13,000,000",BUF,Buffalo Bills,AFC East
+49,2015,Sam Bradford,QB,"$12,998,119",PHI,Philadelphia Eagles,NFC East
+50,2015,Devin McCourty,FS,"$12,937,500",NE,New England Patriots,AFC East
+51,2015,Calvin Johnson,WR,"$12,500,000",DET,Detroit Lions,NFC North
+52,2015,Leonard Williams,DE,"$12,296,300",NYJ,New York Jets,AFC East
+53,2015,Ryan Tannehill,QB,"$12,160,000",MIA,Miami Dolphins,AFC East
+54,2015,Colin Kaepernick,QB,"$12,054,920",SF,San Francisco 49ers,NFC West
+55,2015,Marshawn Lynch,RB,"$12,005,467",SEA,Seattle Seahawks,NFC West
+56,2015,Alex Smith,QB,"$12,000,000",KC,Kansas City Chiefs,AFC West
+57,2015,Jerry Hughes,DE,"$11,775,000",BUF,Buffalo Bills,AFC East
+58,2015,Patrick Peterson,CB,"$11,731,541",ARI,Arizona Cardinals,NFC West
+59,2015,Aaron Rodgers,QB,"$11,608,773",GB,Green Bay Packers,NFC North
+60,2015,Carson Palmer,QB,"$11,521,480",ARI,Arizona Cardinals,NFC West
+61,2015,Mike Iupati,G,"$11,519,857",ARI,Arizona Cardinals,NFC West
+62,2015,Matt Ryan,QB,"$11,507,925",ATL,Atlanta Falcons,NFC South
+63,2015,Jameis Winston,QB,"$11,320,269",TB,Tampa Bay Buccaneers,NFC South
+64,2015,Marshal Yanda,G,"$11,231,764",BAL,Baltimore Ravens,AFC North
+65,2015,Joe Staley,LT,"$11,219,138",SF,San Francisco 49ers,NFC West
+66,2015,Tyron Smith,LT,"$11,039,000",DAL,Dallas Cowboys,NFC East
+67,2015,Orlando Franklin,G,"$11,019,588",SD,San Diego Chargers,AFC West
+68,2015,Larry Fitzgerald,WR,"$11,013,887",ARI,Arizona Cardinals,NFC West
+69,2015,Joe Flacco,QB,"$11,000,000",BAL,Baltimore Ravens,AFC North
+70,2015,T.Y. Hilton,WR,"$11,000,000",IND,Indianapolis Colts,AFC South
+71,2015,Mike Pouncey,C,"$11,000,000",MIA,Miami Dolphins,AFC East
+72,2015,Kevin White,WR,"$10,740,852",CHI,Chicago Bears,NFC North
+73,2015,Tyrone Crawford,DE,"$10,685,000",DAL,Dallas Cowboys,NFC East
+74,2015,Brandon Flowers,CB,"$10,273,068",SD,San Diego Chargers,AFC West
+75,2015,Thomas Davis,OLB,"$10,250,000",CAR,Carolina Panthers,NFC South
+76,2015,Torrey Smith,WR,"$10,030,450",SF,San Francisco 49ers,NFC West
+77,2015,Richard Sherman,CB,"$10,014,191",SEA,Seattle Seahawks,NFC West
+78,2015,Chris Long,DE,"$10,006,160",STL,St. Louis Rams,NFC West
+79,2015,Charles Johnson,DE,"$10,002,843",CAR,Carolina Panthers,NFC South
+80,2015,Vontae Davis,CB,"$10,000,000",IND,Indianapolis Colts,AFC South
+81,2015,Ryan Clady,LT,"$10,000,000",DEN,Denver Broncos,AFC West
+82,2015,Bryan Bulaga,RT,"$9,909,293",GB,Green Bay Packers,NFC North
+83,2015,Mike Wallace,WR,"$9,900,000",MIN,Minnesota Vikings,NFC North
+84,2015,Vincent Jackson,WR,"$9,783,664",TB,Tampa Bay Buccaneers,NFC South
+85,2015,Von Miller,OLB,"$9,754,000",DEN,Denver Broncos,AFC West
+86,2015,Julius Peppers,DE,"$9,509,906",GB,Green Bay Packers,NFC North
+87,2015,Matthew Stafford,QB,"$9,500,000",DET,Detroit Lions,NFC North
+88,2015,Vic Beasley,DE,"$9,267,846",ATL,Atlanta Falcons,NFC South
+89,2015,Calais Campbell,DE,"$9,260,378",ARI,Arizona Cardinals,NFC West
+90,2015,Ereck Flowers,RT,"$9,212,450",NYG,New  York Giants,NFC East
+91,2015,Cameron Wake,DE,"$9,050,000",MIA,Miami Dolphins,AFC East
+92,2015,Mychal Kendricks,OLB,"$9,033,302",PHI,Philadelphia Eagles,NFC East
+93,2015,Bobby Wagner,ILB,"$9,028,070",SEA,Seattle Seahawks,NFC West
+94,2015,Brandon Graham,DE,"$9,025,925",PHI,Philadelphia Eagles,NFC East
+95,2015,Branden Albert,LT,"$9,025,000",MIA,Miami Dolphins,AFC East
+96,2015,Brandon Marshall,WR,"$9,022,441",NYJ,New York Jets,AFC East
+97,2015,DeMarco Murray,RB,"$9,016,609",PHI,Philadelphia Eagles,NFC East
+98,2015,Joe Thomas,LT,"$9,000,000",CLE,Cleveland Browns,AFC North
+99,2015,Kyle Williams,DT,"$9,000,000",BUF,Buffalo Bills,AFC East
+100,2015,Jared Odrick,DE,"$9,000,000",JAC,Jacksonville Jaguars,AFC South
+101,2015,Todd Gurley,RB,"$8,779,938",STL,St. Louis Rams,NFC West
+102,2015,King Dunlap,LT,"$8,730,526",SD,San Diego Chargers,AFC West
+103,2015,Pernell McPhee,OLB,"$8,685,944",CHI,Chicago Bears,NFC North
+104,2015,Clay Matthews Jr.,OLB,"$8,612,789",GB,Green Bay Packers,NFC North
+105,2015,Derrick Morgan,OLB,"$8,520,835",TEN,Tennessee Titans,AFC South
+106,2015,Joe Haden,CB,"$8,500,000",CLE,Cleveland Browns,AFC North
+107,2015,Haloti Ngata,DT,"$8,500,000",DET,Detroit Lions,NFC North
+108,2015,Brent Grimes,CB,"$8,500,000",MIA,Miami Dolphins,AFC East
+109,2015,Brian Orakpo,OLB,"$8,250,275",TEN,Tennessee Titans,AFC South
+110,2015,Lardarius Webb,CB,"$8,250,000",BAL,Baltimore Ravens,AFC North
+111,2015,Matt Forte,RB,"$8,207,521",CHI,Chicago Bears,NFC North
+112,2015,Jairus Byrd,FS,"$8,118,854",NO,New Orleans Saints,NFC South
+113,2015,Trae Waynes,CB,"$8,109,086",MIN,Minnesota Vikings,NFC North
+114,2015,Stephen Gostkowski,K,"$8,100,000",NE,New England Patriots,AFC East
+115,2015,Jason Peters,LT,"$8,064,598",PHI,Philadelphia Eagles,NFC East
+116,2015,Blake Bortles,QB,"$8,029,691",JAC,Jacksonville Jaguars,AFC South
+117,2015,Jimmy Graham,TE,"$8,011,031",SEA,Seattle Seahawks,NFC West
+118,2015,Dan Williams,DT,"$8,010,908",OAK,Oakland Raiders,AFC West
+119,2015,Stephen Paea,DT,"$8,007,249",WAS,Washington Commanders,NFC East
+120,2015,DeSean Jackson,WR,"$8,005,251",WAS,Washington Commanders,NFC East
+121,2015,Alex Mack,C,"$8,000,000",CLE,Cleveland Browns,AFC North
+122,2015,Brandon Carr,CB,"$8,000,000",DAL,Dallas Cowboys,NFC East
+123,2015,Johnathan Joseph,CB,"$8,000,000",HOU,Houston Texans,AFC South
+124,2015,Jermey Parnell,RT,"$8,000,000",JAC,Jacksonville Jaguars,AFC South
+125,2015,Trent Cole,OLB,"$7,953,125",IND,Indianapolis Colts,AFC South
+126,2015,Chris Culliver,CB,"$7,833,948",WAS,Washington Commanders,NFC East
+127,2015,Leon Hall,CB,"$7,800,000",CIN,Cincinnati Bengals,AFC North
+128,2015,D'Brickashaw Ferguson,LT,"$7,719,221",NYJ,New York Jets,AFC East
+129,2015,David Harris,ILB,"$7,527,608",NYJ,New York Jets,AFC East
+130,2015,Lawrence Timmons,ILB,"$7,519,288",PIT,Pittsburgh Steelers,AFC North
+131,2015,Cliff Avril,DE,"$7,516,497",SEA,Seattle Seahawks,NFC West
+132,2015,Eric Weddle,FS,"$7,513,039",SD,San Diego Chargers,AFC West
+133,2015,Pierre Garcon,WR,"$7,510,524",WAS,Washington Commanders,NFC East
+134,2015,Andre Johnson,WR,"$7,500,000",IND,Indianapolis Colts,AFC South
+135,2015,Derek Newton,RT,"$7,500,000",HOU,Houston Texans,AFC South
+136,2015,Tramon Williams,CB,"$7,481,250",CLE,Cleveland Browns,AFC North
+137,2015,Nick Mangold,C,"$7,417,030",NYJ,New York Jets,AFC East
+138,2015,Jason Pierre-Paul,DE,"$7,358,245",NYG,New  York Giants,NFC East
+139,2015,Jared Veldheer,RT,"$7,270,813",ARI,Arizona Cardinals,NFC West
+140,2015,Rodger Saffold,G,"$7,255,175",STL,St. Louis Rams,NFC West
+141,2015,Danny Shelton,DT,"$7,206,758",CLE,Cleveland Browns,AFC North
+142,2015,Andy Dalton,QB,"$7,200,000",CIN,Cincinnati Bengals,AFC North
+143,2015,Andrew Whitworth,LT,"$7,200,000",CIN,Cincinnati Bengals,AFC North
+144,2015,Rey Maualuga,ILB,"$7,184,375",CIN,Cincinnati Bengals,AFC North
+145,2015,Jahri Evans,G,"$7,114,474",NO,New Orleans Saints,NFC South
+146,2015,Clint Boling,G,"$7,100,000",CIN,Cincinnati Bengals,AFC North
+147,2015,Andy Levitre,G,"$7,056,277",ATL,Atlanta Falcons,NFC South
+148,2015,Da'Norris Searcy,SS,"$7,039,559",TEN,Tennessee Titans,AFC South
+149,2015,Antonio Cromartie,CB,"$7,027,926",NYJ,New York Jets,AFC East
+150,2015,Logan Mankins,G,"$7,020,996",TB,Tampa Bay Buccaneers,NFC South
+151,2015,Jared Cook,TE,"$7,014,235",STL,St. Louis Rams,NFC West
+152,2015,Andrus Peat,G,"$7,008,250",NO,New Orleans Saints,NFC South
+153,2015,Nate Allen,FS,"$7,004,713",OAK,Oakland Raiders,AFC West
+154,2015,Paul Kruger,OLB,"$7,000,000",CLE,Cleveland Browns,AFC North
+155,2015,DeMarcus Ware,OLB,"$7,000,000",DEN,Denver Broncos,AFC West
+156,2015,Everson Griffen,DE,"$7,000,000",MIN,Minnesota Vikings,NFC North
+157,2015,John Sullivan,C,"$7,000,000",MIN,Minnesota Vikings,NFC North
+158,2015,Duane Brown,LT,"$7,000,000",HOU,Houston Texans,AFC South
+159,2015,Muhammad Wilkerson,DE,"$6,997,604",NYJ,New York Jets,AFC East
+160,2015,Brooks Reed,DE,"$6,916,189",ATL,Atlanta Falcons,NFC South
+161,2015,Prince Amukamara,CB,"$6,913,549",NYG,New  York Giants,NFC East
+162,2015,Jarius Wright,WR,"$6,842,000",MIN,Minnesota Vikings,NFC North
+163,2015,Jason McCourty,CB,"$6,803,817",TEN,Tennessee Titans,AFC South
+164,2015,Reshad Jones,SS,"$6,760,000",MIA,Miami Dolphins,AFC East
+165,2015,DeVante Parker,WR,"$6,605,213",MIA,Miami Dolphins,AFC East
+166,2015,Ben Grubbs,G,"$6,600,000",KC,Kansas City Chiefs,AFC West
+167,2015,Jordan Cameron,TE,"$6,562,500",MIA,Miami Dolphins,AFC East
+168,2015,Buster Skrine,CB,"$6,558,413",NYJ,New York Jets,AFC East
+169,2015,Curtis Lofton,ILB,"$6,513,678",OAK,Oakland Raiders,AFC West
+170,2015,Davon House,CB,"$6,500,000",JAC,Jacksonville Jaguars,AFC South
+171,2015,Melvin Gordon,RB,"$6,469,722",SD,San Diego Chargers,AFC West
+172,2015,Connor Barwin,OLB,"$6,425,075",PHI,Philadelphia Eagles,NFC East
+173,2015,Michael Griffin,FS,"$6,318,973",TEN,Tennessee Titans,AFC South
+174,2015,Dwayne Bowe,WR,"$6,250,000",CLE,Cleveland Browns,AFC North
+175,2015,Victor Cruz,WR,"$6,225,000",NYG,New  York Giants,NFC East
+176,2015,Whitney Mercilus,OLB,"$6,181,012",HOU,Houston Texans,AFC South
+177,2015,Julian Edelman,WR,"$6,171,875",NE,New England Patriots,AFC East
+178,2015,Arian Foster,RB,"$6,125,000",HOU,Houston Texans,AFC South
+179,2015,T.J. Ward,SS,"$6,117,646",DEN,Denver Broncos,AFC West
+180,2015,Kevin Johnson,CB,"$6,076,223",HOU,Houston Texans,AFC South
+181,2015,Josh Sitton,G,"$6,074,224",GB,Green Bay Packers,NFC North
+182,2015,Nick Foles,QB,"$6,069,952",STL,St. Louis Rams,NFC West
+183,2015,Malcolm Smith,OLB,"$6,037,979",OAK,Oakland Raiders,AFC West
+184,2015,Michael Bennett,DE,"$6,016,742",SEA,Seattle Seahawks,NFC West
+185,2015,Anquan Boldin,WR,"$6,015,679",SF,San Francisco 49ers,NFC West
+186,2015,Jamaal Charles,RB,"$6,012,500",KC,Kansas City Chiefs,AFC West
+187,2015,Lamarr Houston,OLB,"$6,007,167",CHI,Chicago Bears,NFC North
+188,2015,Desmond Bryant,DE,"$6,000,000",CLE,Cleveland Browns,AFC North
+189,2015,Arthur Jones,DT,"$6,000,000",IND,Indianapolis Colts,AFC South
+190,2015,Tamba Hali,OLB,"$6,000,000",KC,Kansas City Chiefs,AFC West
+191,2015,Ron Parker,FS,"$6,000,000",KC,Kansas City Chiefs,AFC West
+192,2015,Doug Free,RT,"$6,000,000",DAL,Dallas Cowboys,NFC East
+193,2015,Geno Atkins,DT,"$6,000,000",CIN,Cincinnati Bengals,AFC North
+194,2015,Percy Harvin,WR,"$6,000,000",BUF,Buffalo Bills,AFC East
+195,2015,Michael Johnson,DE,"$5,975,000",CIN,Cincinnati Bengals,AFC North
+196,2015,Aaron Williams,SS,"$5,975,000",BUF,Buffalo Bills,AFC East
+197,2015,Aqib Talib,CB,"$5,968,750",DEN,Denver Broncos,AFC West
+198,2015,Lavonte David,OLB,"$5,889,443",TB,Tampa Bay Buccaneers,NFC South
+199,2015,Arik Armstead,DE,"$5,888,257",SF,San Francisco 49ers,NFC West
+200,2015,Sam Shields,CB,"$5,887,511",GB,Green Bay Packers,NFC North
+201,2015,Jermon Bushrod,G,"$5,853,866",CHI,Chicago Bears,NFC North
+202,2015,Jabaal Sheard,OLB,"$5,812,500",NE,New England Patriots,AFC East
+203,2015,C.J. Spiller,RB,"$5,763,471",NO,New Orleans Saints,NFC South
+204,2015,Marcus Peters,CB,"$5,665,296",KC,Kansas City Chiefs,AFC West
+205,2015,Cortez Allen,CB,"$5,631,730",PIT,Pittsburgh Steelers,AFC North
+206,2015,Lance Kendricks,TE,"$5,619,639",STL,St. Louis Rams,NFC West
+207,2015,Ryan Kalil,C,"$5,616,000",CAR,Carolina Panthers,NFC South
+208,2015,Nelson Agholor,WR,"$5,582,836",PHI,Philadelphia Eagles,NFC East
+209,2015,Cameron Erving,G,"$5,552,502",CLE,Cleveland Browns,AFC North
+210,2015,William Beatty,LT,"$5,550,000",NYG,New  York Giants,NFC East
+211,2015,Earl Thomas,FS,"$5,522,386",SEA,Seattle Seahawks,NFC West
+212,2015,Brandon Mebane,DT,"$5,514,996",SEA,Seattle Seahawks,NFC West
+213,2015,Eddie Royal,WR,"$5,509,619",CHI,Chicago Bears,NFC North
+214,2015,Marcus Gilbert,RT,"$5,507,251",PIT,Pittsburgh Steelers,AFC North
+215,2015,Eugene Monroe,LT,"$5,500,000",BAL,Baltimore Ravens,AFC North
+216,2015,Greg Toler,CB,"$5,500,000",IND,Indianapolis Colts,AFC South
+217,2015,D'Qwell Jackson,ILB,"$5,500,000",IND,Indianapolis Colts,AFC South
+218,2015,Maurkice Pouncey,C,"$5,500,000",PIT,Pittsburgh Steelers,AFC North
+219,2015,Cedric Ogbuehi,LT,"$5,477,310",CIN,Cincinnati Bengals,AFC North
+220,2015,Bud Dupree,OLB,"$5,464,411",PIT,Pittsburgh Steelers,AFC North
+221,2015,Eric Berry,FS,"$5,455,000",KC,Kansas City Chiefs,AFC West
+222,2015,Donald Penn,LT,"$5,428,737",OAK,Oakland Raiders,AFC West
+223,2015,Andre Smith,G,"$5,362,500",CIN,Cincinnati Bengals,AFC North
+224,2015,Shane Ray,OLB,"$5,326,923",DEN,Denver Broncos,AFC West
+225,2015,Dominique Rodgers-Cromartie,CB,"$5,267,704",NYG,New  York Giants,NFC East
+226,2015,Josh McCown,QB,"$5,250,000",CLE,Cleveland Browns,AFC North
+227,2015,Derrick Johnson,ILB,"$5,250,000",KC,Kansas City Chiefs,AFC West
+228,2015,Ahmad Brooks,OLB,"$5,229,596",SF,San Francisco 49ers,NFC West
+229,2015,Sen'Derrick Marks,DT,"$5,225,000",JAC,Jacksonville Jaguars,AFC South
+230,2015,D.J. Humphries,LT,"$5,176,536",ARI,Arizona Cardinals,NFC West
+231,2015,Kyle Rudolph,TE,"$5,140,625",MIN,Minnesota Vikings,NFC North
+232,2015,Shaq Thompson,OLB,"$5,101,344",CAR,Carolina Panthers,NFC South
+233,2015,Jason Witten,TE,"$5,100,000",DAL,Dallas Cowboys,NFC East
+234,2015,James Carpenter,G,"$5,094,241",NYJ,New York Jets,AFC East
+235,2015,Brian Cushing,ILB,"$5,093,750",HOU,Houston Texans,AFC South
+236,2015,Brian Hoyer,QB,"$5,093,750",HOU,Houston Texans,AFC South
+237,2015,Marcus Gilchrist,SS,"$5,071,095",NYJ,New York Jets,AFC East
+238,2015,Jadeveon Clowney,OLB,"$5,062,045",HOU,Houston Texans,AFC South
+239,2015,Byron Jones,CB,"$5,058,212",DAL,Dallas Cowboys,NFC East
+240,2015,Dwayne Harris,WR,"$5,058,107",NYG,New  York Giants,NFC East
+241,2015,Brandon Browner,CB,"$5,048,601",NO,New Orleans Saints,NFC South
+242,2015,Perrish Cox,CB,"$5,033,542",TEN,Tennessee Titans,AFC South
+243,2015,Eric Decker,WR,"$5,026,693",NYJ,New York Jets,AFC East
+244,2015,Austin Howard,RT,"$5,019,053",OAK,Oakland Raiders,AFC West
+245,2015,Russell Okung,LT,"$5,018,838",SEA,Seattle Seahawks,NFC West
+246,2015,Martellus Bennett,TE,"$5,013,937",CHI,Chicago Bears,NFC North
+247,2015,Antrel Rolle,SS,"$5,009,220",CHI,Chicago Bears,NFC North
+248,2015,Andrew Hawkins,WR,"$5,000,000",CLE,Cleveland Browns,AFC North
+249,2015,Elvis Dumervil,OLB,"$5,000,000",BAL,Baltimore Ravens,AFC North
+250,2015,Kendall Langford,DE,"$5,000,000",IND,Indianapolis Colts,AFC South
+251,2015,Louis Vasquez,G,"$5,000,000",DEN,Denver Broncos,AFC West
+252,2015,Sam Koch,P,"$5,000,000",BAL,Baltimore Ravens,AFC North
+253,2015,Phillip Loadholt,RT,"$5,000,000",MIN,Minnesota Vikings,NFC North
+254,2015,Cole Beasley,WR,"$5,000,000",DAL,Dallas Cowboys,NFC East
+255,2015,Vince Wilfork,DT,"$5,000,000",HOU,Houston Texans,AFC South
+256,2015,Rahim Moore,FS,"$5,000,000",HOU,Houston Texans,AFC South
+257,2015,Zane Beadles,G,"$5,000,000",JAC,Jacksonville Jaguars,AFC South
+258,2015,Chris Clemons,DE,"$5,000,000",JAC,Jacksonville Jaguars,AFC South
+259,2015,Breshad Perriman,WR,"$4,977,962",BAL,Baltimore Ravens,AFC North
+260,2015,Justin Tuck,DE,"$4,976,463",OAK,Oakland Raiders,AFC West
+261,2015,Paul Posluszny,OLB,"$4,937,500",JAC,Jacksonville Jaguars,AFC South
+262,2015,Sebastian Vollmer,RT,"$4,937,500",NE,New England Patriots,AFC East
+263,2015,Laken Tomlinson,G,"$4,913,359",DET,Detroit Lions,NFC North
+264,2015,Shane Vereen,RB,"$4,874,120",NYG,New  York Giants,NFC East
+265,2015,Emmanuel Sanders,WR,"$4,850,000",DEN,Denver Broncos,AFC West
+266,2015,Eric Wood,C,"$4,850,000",BUF,Buffalo Bills,AFC East
+267,2015,Rob Ninkovich,OLB,"$4,838,235",NE,New England Patriots,AFC East
+268,2015,Keenan Lewis,CB,"$4,802,975",NO,New Orleans Saints,NFC South
+269,2015,Nick Fairley,DT,"$4,762,851",STL,St. Louis Rams,NFC West
+270,2015,Mark Sanchez,QB,"$4,758,332",PHI,Philadelphia Eagles,NFC East
+271,2015,Owen Daniels,TE,"$4,750,000",DEN,Denver Broncos,AFC West
+272,2015,Sean Smith,CB,"$4,750,000",KC,Kansas City Chiefs,AFC West
+273,2015,Navorro Bowman,ILB,"$4,718,856",SF,San Francisco 49ers,NFC West
+274,2015,T.J. Lang,G,"$4,707,260",GB,Green Bay Packers,NFC North
+275,2015,Brian Robison,DE,"$4,650,000",MIN,Minnesota Vikings,NFC North
+276,2015,Jurrell Casey,DT,"$4,619,775",TEN,Tennessee Titans,AFC South
+277,2015,Phillip Dorsett,WR,"$4,611,665",IND,Indianapolis Colts,AFC South
+278,2015,Dan Skuta,OLB,"$4,600,000",JAC,Jacksonville Jaguars,AFC South
+279,2015,Max Unger,C,"$4,546,984",NO,New Orleans Saints,NFC South
+280,2015,Breno Giacomini,RT,"$4,543,722",NYJ,New York Jets,AFC East
+281,2015,Damarious Randall,FS,"$4,542,582",GB,Green Bay Packers,NFC North
+282,2015,Mark Ingram,RB,"$4,519,906",NO,New Orleans Saints,NFC South
+283,2015,Antonio Gates,TE,"$4,518,942",SD,San Diego Chargers,AFC West
+284,2015,Jonathan Stewart,RB,"$4,510,506",CAR,Carolina Panthers,NFC South
+285,2015,Donte Whitner,SS,"$4,500,000",CLE,Cleveland Browns,AFC North
+286,2015,Frank Gore,RB,"$4,500,000",IND,Indianapolis Colts,AFC South
+287,2015,Stephen Tulloch,ILB,"$4,500,000",DET,Detroit Lions,NFC North
+288,2015,Jerod Mayo,ILB,"$4,500,000",NE,New England Patriots,AFC East
+289,2015,Charles Woodson,SS,"$4,481,369",OAK,Oakland Raiders,AFC West
+290,2015,Gary Barnidge,TE,"$4,450,000",CLE,Cleveland Browns,AFC North
+291,2015,Stephone Anthony,OLB,"$4,415,645",NO,New Orleans Saints,NFC South
+292,2015,Blair Walsh,K,"$4,410,000",MIN,Minnesota Vikings,NFC North
+293,2015,Vontaze Burfict,OLB,"$4,400,000",CIN,Cincinnati Bengals,AFC North
+294,2015,Delanie Walker,TE,"$4,394,903",TEN,Tennessee Titans,AFC South
+295,2015,Jerraud Powers,CB,"$4,375,818",ARI,Arizona Cardinals,NFC West
+296,2015,Kenny Britt,WR,"$4,326,890",STL,St. Louis Rams,NFC West
+297,2015,Alterraun Verner,CB,"$4,272,598",TB,Tampa Bay Buccaneers,NFC South
+298,2015,Bruce Carter,ILB,"$4,266,389",TB,Tampa Bay Buccaneers,NFC South
+299,2015,Malcom Brown,DT,"$4,231,894",NE,New England Patriots,AFC East
+300,2015,Ryan Mathews,RB,"$4,211,111",PHI,Philadelphia Eagles,NFC East
+301,2015,Will Hill,SS,"$4,166,045",BAL,Baltimore Ravens,AFC North
+302,2015,Reggie Nelson,FS,"$4,150,000",CIN,Cincinnati Bengals,AFC North
+303,2015,Stevie Johnson,WR,"$4,139,377",SD,San Diego Chargers,AFC West
+304,2015,Kam Chancellor,SS,"$4,138,463",SEA,Seattle Seahawks,NFC West
+305,2015,Michael Crabtree,WR,"$4,127,809",OAK,Oakland Raiders,AFC West
+306,2015,Mike Mitchell,FS,"$4,070,220",PIT,Pittsburgh Steelers,AFC North
+307,2015,Malcolm Jenkins,FS,"$4,039,960",PHI,Philadelphia Eagles,NFC East
+308,2015,Heath Miller,TE,"$4,037,256",PIT,Pittsburgh Steelers,AFC North
+309,2015,Dashon Goldson,FS,"$4,034,624",WAS,Washington Commanders,NFC East
+310,2015,J.T. Thomas,OLB,"$4,033,999",NYG,New  York Giants,NFC East
+311,2015,DeMeco Ryans,ILB,"$4,033,435",PHI,Philadelphia Eagles,NFC East
+312,2015,Ricky Jean Francois,DT,"$4,029,837",WAS,Washington Commanders,NFC East
+313,2015,Riley Cooper,WR,"$4,027,083",PHI,Philadelphia Eagles,NFC East
+314,2015,DeAngelo Hall,CB,"$4,011,624",WAS,Washington Commanders,NFC East
+315,2015,Brett Kern,P,"$4,010,424",TEN,Tennessee Titans,AFC South
+316,2015,Sammie Lee Hill,DT,"$4,007,119",TEN,Tennessee Titans,AFC South
+317,2015,Karlos Dansby,ILB,"$4,000,000",CLE,Cleveland Browns,AFC North
+318,2015,Robert Mathis,OLB,"$4,000,000",IND,Indianapolis Colts,AFC South
+319,2015,Dennis Pitta,TE,"$4,000,000",BAL,Baltimore Ravens,AFC North
+320,2015,Erik Walden,OLB,"$4,000,000",IND,Indianapolis Colts,AFC South
+321,2015,Terrell Suggs,OLB,"$4,000,000",BAL,Baltimore Ravens,AFC North
+322,2015,Corey Peters,DT,"$4,000,000",ARI,Arizona Cardinals,NFC West
+323,2015,Linval Joseph,DT,"$4,000,000",MIN,Minnesota Vikings,NFC North
+324,2015,Captain Munnerlyn,CB,"$4,000,000",MIN,Minnesota Vikings,NFC North
+325,2015,Orlando Scandrick,CB,"$4,000,000",DAL,Dallas Cowboys,NFC East
+326,2015,Glover Quin,FS,"$4,000,000",DET,Detroit Lions,NFC North
+327,2015,Earl Mitchell,DT,"$4,000,000",MIA,Miami Dolphins,AFC East
+328,2015,Greg Jennings,WR,"$4,000,000",MIA,Miami Dolphins,AFC East
+329,2015,Terrance Knighton,DT,"$3,985,315",WAS,Washington Commanders,NFC East
+330,2015,Leodis McKelvin,CB,"$3,900,000",BUF,Buffalo Bills,AFC East
+331,2015,Chad Greenway,OLB,"$3,875,000",MIN,Minnesota Vikings,NFC North
+332,2015,Koa Misi,OLB,"$3,860,000",MIA,Miami Dolphins,AFC East
+333,2015,Sean Weatherspoon,ILB,"$3,859,722",ARI,Arizona Cardinals,NFC West
+334,2015,Jah Reid,RT,"$3,845,000",KC,Kansas City Chiefs,AFC West
+335,2015,Marques Colston,WR,"$3,810,458",NO,New Orleans Saints,NFC South
+336,2015,Chase Daniel,QB,"$3,800,000",KC,Kansas City Chiefs,AFC West
+337,2015,Harry Douglas,WR,"$3,798,852",TEN,Tennessee Titans,AFC South
+338,2015,K.J. Wright,OLB,"$3,784,594",SEA,Seattle Seahawks,NFC West
+339,2015,Henry Melton,DT,"$3,768,358",TB,Tampa Bay Buccaneers,NFC South
+340,2015,Evan Smith,C,"$3,763,774",TB,Tampa Bay Buccaneers,NFC South
+341,2015,Golden Tate,WR,"$3,750,000",DET,Detroit Lions,NFC North
+342,2015,Roy Miller,DT,"$3,750,000",JAC,Jacksonville Jaguars,AFC South
+343,2015,Justin Bethel,CB,"$3,747,268",ARI,Arizona Cardinals,NFC West
+344,2015,William Moore,SS,"$3,732,196",ATL,Atlanta Falcons,NFC South
+345,2015,Domata Peko,DT,"$3,700,000",CIN,Cincinnati Bengals,AFC North
+346,2015,Jerome Felton,FB,"$3,700,000",BUF,Buffalo Bills,AFC East
+347,2015,Roddy White,WR,"$3,692,029",ATL,Atlanta Falcons,NFC South
+348,2015,Michael Oher,RT,"$3,671,875",CAR,Carolina Panthers,NFC South
+349,2015,James Laurinaitis,ILB,"$3,666,297",STL,St. Louis Rams,NFC West
+350,2015,Erik Pears,RT,"$3,600,000",SF,San Francisco 49ers,NFC West
+351,2015,Randy Starks,DE,"$3,593,750",CLE,Cleveland Browns,AFC North
+352,2015,Kory Lichtensteiger,C,"$3,589,299",WAS,Washington Commanders,NFC East
+353,2015,Patrick Chung,SS,"$3,587,500",NE,New England Patriots,AFC East
+354,2015,Malcom Floyd,WR,"$3,574,774",SD,San Diego Chargers,AFC West
+355,2015,Mike Scifres,P,"$3,567,057",SD,San Diego Chargers,AFC West
+356,2015,Doug Baldwin,WR,"$3,550,519",SEA,Seattle Seahawks,NFC West
+357,2015,Justin Durant,OLB,"$3,539,869",ATL,Atlanta Falcons,NFC South
+358,2015,Chad Henne,QB,"$3,500,000",JAC,Jacksonville Jaguars,AFC South
+359,2015,Matt Bryant,K,"$3,496,401",ATL,Atlanta Falcons,NFC South
+360,2015,Corey Graham,FS,"$3,450,000",BUF,Buffalo Bills,AFC East
+361,2015,Alex Boone,G,"$3,430,208",SF,San Francisco 49ers,NFC West
+362,2015,Morgan Burnett,SS,"$3,428,073",GB,Green Bay Packers,NFC North
+363,2015,Andrew Luck,QB,"$3,404,727",IND,Indianapolis Colts,AFC South
+364,2015,Lee Smith,TE,"$3,377,110",OAK,Oakland Raiders,AFC West
+365,2015,John Hughes,DE,"$3,360,000",CLE,Cleveland Browns,AFC North
+366,2015,Ryan Fitzpatrick,QB,"$3,310,848",NYJ,New York Jets,AFC East
+367,2015,Walter Thurmond,FS,"$3,302,649",PHI,Philadelphia Eagles,NFC East
+368,2015,Carlos Dunlap,DE,"$3,300,000",CIN,Cincinnati Bengals,AFC North
+369,2015,Antoine Bethea,SS,"$3,288,661",SF,San Francisco 49ers,NFC West
+370,2015,Landon Collins,FS,"$3,278,706",NYG,New  York Giants,NFC East
+371,2015,Robert Griffin III,QB,"$3,269,877",WAS,Washington Commanders,NFC East
+372,2015,Donald Butler,ILB,"$3,269,750",SD,San Diego Chargers,AFC West
+373,2015,Clinton McDonald,DT,"$3,260,981",TB,Tampa Bay Buccaneers,NFC South
+374,2015,David Hawthorne,ILB,"$3,260,252",NO,New Orleans Saints,NFC South
+375,2015,Sebastian Janikowski,K,"$3,255,637",OAK,Oakland Raiders,AFC West
+376,2015,William Hayes,DE,"$3,251,656",STL,St. Louis Rams,NFC West
+377,2015,Donovan Smith,LT,"$3,251,594",TB,Tampa Bay Buccaneers,NFC South
+378,2015,Shaun Hill,QB,"$3,250,000",MIN,Minnesota Vikings,NFC North
+379,2015,Scott Chandler,TE,"$3,250,000",NE,New England Patriots,AFC East
+380,2015,Jason Kelce,C,"$3,245,313",PHI,Philadelphia Eagles,NFC East
+381,2015,Josh Mauga,ILB,"$3,225,000",KC,Kansas City Chiefs,AFC West
+382,2015,Drew Stanton,QB,"$3,202,569",ARI,Arizona Cardinals,NFC West
+383,2015,Virgil Green,TE,"$3,200,000",DEN,Denver Broncos,AFC West
+384,2015,Jason Jones,DE,"$3,150,000",DET,Detroit Lions,NFC North
+385,2015,Jermaine Gresham,TE,"$3,146,049",ARI,Arizona Cardinals,NFC West
+386,2015,Phil Dawson,K,"$3,135,891",SF,San Francisco 49ers,NFC West
+387,2015,Mario Edwards,DE,"$3,132,133",OAK,Oakland Raiders,AFC West
+388,2015,Garrett Graham,TE,"$3,125,000",HOU,Houston Texans,AFC South
+389,2015,Darren Sproles,RB,"$3,120,465",PHI,Philadelphia Eagles,NFC East
+390,2015,Perry Riley,ILB,"$3,114,822",WAS,Washington Commanders,NFC East
+391,2015,Mike Adams,SS,"$3,100,000",IND,Indianapolis Colts,AFC South
+392,2015,Vincent Rey,ILB,"$3,100,000",CIN,Cincinnati Bengals,AFC North
+393,2015,Shaun Suisham,K,"$3,095,000",PIT,Pittsburgh Steelers,AFC North
+394,2015,Matt Kalil,LT,"$3,085,989",MIN,Minnesota Vikings,NFC North
+395,2015,Jonathan Casillas,OLB,"$3,069,144",NYG,New  York Giants,NFC East
+396,2015,Joe Reitz,G,"$3,062,500",IND,Indianapolis Colts,AFC South
+397,2015,Greg Hardy,DE,"$3,041,379",DAL,Dallas Cowboys,NFC East
+398,2015,Michael Neal,OLB,"$3,028,974",GB,Green Bay Packers,NFC North
+399,2015,Antonio Brown,WR,"$3,024,795",PIT,Pittsburgh Steelers,AFC North
+400,2015,Aldon Smith,OLB,"$3,020,600",OAK,Oakland Raiders,AFC West
+401,2015,Devin Smith,WR,"$3,015,405",NYJ,New York Jets,AFC East
+402,2015,Cory Redding,DE,"$3,014,856",ARI,Arizona Cardinals,NFC West
+403,2015,Paul Soliai,DT,"$3,013,804",ATL,Atlanta Falcons,NFC South
+404,2015,Alan Ball,CB,"$3,011,923",CHI,Chicago Bears,NFC North
+405,2015,Donald Brown,RB,"$3,005,849",SD,San Diego Chargers,AFC West
+406,2015,Shawn Lauvao,G,"$3,004,933",WAS,Washington Commanders,NFC East
+407,2015,Robbie Gould,K,"$3,004,778",CHI,Chicago Bears,NFC North
+408,2015,Brian Hartline,WR,"$3,000,000",CLE,Cleveland Browns,AFC North
+409,2015,Steve Smith,WR,"$3,000,000",BAL,Baltimore Ravens,AFC North
+410,2015,Pat McAfee,P,"$3,000,000",IND,Indianapolis Colts,AFC South
+411,2015,Matt Hasselbeck,QB,"$3,000,000",IND,Indianapolis Colts,AFC South
+412,2015,Daryl Smith,ILB,"$3,000,000",BAL,Baltimore Ravens,AFC North
+413,2015,Darius Butler,FS,"$3,000,000",IND,Indianapolis Colts,AFC South
+414,2015,Jeremy Zuttah,C,"$3,000,000",BAL,Baltimore Ravens,AFC North
+415,2015,Dustin Colquitt,P,"$3,000,000",KC,Kansas City Chiefs,AFC West
+416,2015,Justin Forsett,RB,"$3,000,000",BAL,Baltimore Ravens,AFC North
+417,2015,Manuel Ramirez,G,"$3,000,000",DET,Detroit Lions,NFC North
+418,2015,Tyson Alualu,DE,"$3,000,000",JAC,Jacksonville Jaguars,AFC South
+419,2015,Brice McCain,CB,"$3,000,000",MIA,Miami Dolphins,AFC East
+420,2015,Toby Gerhart,RB,"$3,000,000",JAC,Jacksonville Jaguars,AFC South
+421,2015,T.J. Yeldon,RB,"$2,995,927",JAC,Jacksonville Jaguars,AFC South
+422,2015,Preston Smith,OLB,"$2,980,046",WAS,Washington Commanders,NFC East
+423,2015,Jonathan Babineaux,DT,"$2,975,072",ATL,Atlanta Falcons,NFC South
+424,2015,Jason Hatcher,DE,"$2,967,342",WAS,Washington Commanders,NFC East
+425,2015,Mason Crosby,K,"$2,955,767",GB,Green Bay Packers,NFC North
+426,2015,Akeem Ayers,OLB,"$2,948,765",STL,St. Louis Rams,NFC West
+427,2015,Nolan Carroll,CB,"$2,948,500",PHI,Philadelphia Eagles,NFC East
+428,2015,Evan Mathis,G,"$2,921,875",DEN,Denver Broncos,AFC West
+429,2015,Cecil Shorts,WR,"$2,921,875",HOU,Houston Texans,AFC South
+430,2015,Eddie Goldman,DT,"$2,890,111",CHI,Chicago Bears,NFC North
+431,2015,Ropati Pitoitua,DE,"$2,888,813",TEN,Tennessee Titans,AFC South
+432,2015,Devin Hester,WR,"$2,876,605",ATL,Atlanta Falcons,NFC South
+433,2015,Matt Bosher,P,"$2,863,290",ATL,Atlanta Falcons,NFC South
+434,2015,Chris Chester,G,"$2,859,286",ATL,Atlanta Falcons,NFC South
+435,2015,Dorial Green-Beckham,WR,"$2,858,988",TEN,Tennessee Titans,AFC South
+436,2015,John Greco,G,"$2,825,000",CLE,Cleveland Browns,AFC North
+437,2015,Arthur Moats,OLB,"$2,817,878",PIT,Pittsburgh Steelers,AFC North
+438,2015,Kyle Arrington,CB,"$2,800,000",BAL,Baltimore Ravens,AFC North
+439,2015,Brandon Pettigrew,TE,"$2,800,000",DET,Detroit Lions,NFC North
+440,2015,Wesley Woodyard,ILB,"$2,779,895",TEN,Tennessee Titans,AFC South
+441,2015,George Johnson,DE,"$2,774,824",TB,Tampa Bay Buccaneers,NFC South
+442,2015,Andre Roberts,WR,"$2,759,081",WAS,Washington Commanders,NFC East
+443,2015,Ryan Succop,K,"$2,758,904",TEN,Tennessee Titans,AFC South
+444,2015,Barry Church,SS,"$2,750,000",DAL,Dallas Cowboys,NFC East
+445,2015,Devin Funchess,WR,"$2,710,190",CAR,Carolina Panthers,NFC South
+446,2015,Ted Ginn Jr.,WR,"$2,700,000",CAR,Carolina Panthers,NFC South
+447,2015,Jon Beason,ILB,"$2,692,273",NYG,New  York Giants,NFC East
+448,2015,Brandon Fusco,G,"$2,685,000",MIN,Minnesota Vikings,NFC North
+449,2015,Nick Folk,K,"$2,660,074",NYJ,New York Jets,AFC East
+450,2015,Benardrick McKinney,ILB,"$2,657,888",HOU,Houston Texans,AFC South
+451,2015,Anthony Fasano,TE,"$2,634,407",TEN,Tennessee Titans,AFC South
+452,2015,Ahtyba Rubin,DT,"$2,630,168",SEA,Seattle Seahawks,NFC West
+453,2015,Marcus Easley,WR,"$2,625,000",BUF,Buffalo Bills,AFC East
+454,2015,Rolando McClain,ILB,"$2,624,534",DAL,Dallas Cowboys,NFC East
+455,2015,Hau'oli Kikaha,OLB,"$2,611,844",NO,New Orleans Saints,NFC South
+456,2015,Morris Claiborne,CB,"$2,607,887",DAL,Dallas Cowboys,NFC East
+457,2015,Emmanuel Lamur,OLB,"$2,605,334",CIN,Cincinnati Bengals,AFC North
+458,2015,Matt Moore,QB,"$2,600,000",MIA,Miami Dolphins,AFC East
+459,2015,Ryan Allen,P,"$2,585,000",NE,New England Patriots,AFC East
+460,2015,Marcel Reece,FB,"$2,566,256",OAK,Oakland Raiders,AFC West
+461,2015,Derek Anderson,QB,"$2,566,053",CAR,Carolina Panthers,NFC South
+462,2015,Sean Richardson,SS,"$2,555,772",GB,Green Bay Packers,NFC North
+463,2015,Gosder Cherilus,RT,"$2,551,685",TB,Tampa Bay Buccaneers,NFC South
+464,2015,Paul Fanaika,G,"$2,550,000",KC,Kansas City Chiefs,AFC West
+465,2015,Willie Young,OLB,"$2,520,642",CHI,Chicago Bears,NFC North
+466,2015,Demar Dotson,RT,"$2,513,034",TB,Tampa Bay Buccaneers,NFC South
+467,2015,Steven Hauschka,K,"$2,507,543",SEA,Seattle Seahawks,NFC West
+468,2015,Letroy Guion,DE,"$2,506,870",GB,Green Bay Packers,NFC North
+469,2015,Niles Paul,TE,"$2,500,000",WAS,Washington Commanders,NFC East
+470,2015,Adam Vinatieri,K,"$2,500,000",IND,Indianapolis Colts,AFC South
+471,2015,Darian Stewart,FS,"$2,500,000",DEN,Denver Broncos,AFC West
+472,2015,Vance Walker,DE,"$2,500,000",DEN,Denver Broncos,AFC West
+473,2015,Chris Canty,DE,"$2,500,000",BAL,Baltimore Ravens,AFC North
+474,2015,Sean Lee,OLB,"$2,500,000",DAL,Dallas Cowboys,NFC East
+475,2015,Joique Bell,RB,"$2,500,000",DET,Detroit Lions,NFC North
+476,2015,Stefen Wisniewski,C,"$2,500,000",JAC,Jacksonville Jaguars,AFC South
+477,2015,Sergio Brown,FS,"$2,500,000",JAC,Jacksonville Jaguars,AFC South
+478,2015,Brandon LaFell,WR,"$2,500,000",NE,New England Patriots,AFC East
+479,2015,Alan Branch,DT,"$2,500,000",NE,New England Patriots,AFC East
+480,2015,Jaquiski Tartt,FS,"$2,485,598",SF,San Francisco 49ers,NFC West
+481,2015,Vernon Davis,TE,"$2,477,941",DEN,Denver Broncos,AFC West
+482,2015,Thomas Morstead,P,"$2,454,097",NO,New Orleans Saints,NFC South
+483,2015,Terence Newman,CB,"$2,453,125",MIN,Minnesota Vikings,NFC North
+484,2015,Kevin Huber,P,"$2,450,000",CIN,Cincinnati Bengals,AFC North
+485,2015,Marcedes Lewis,TE,"$2,450,000",JAC,Jacksonville Jaguars,AFC South
+486,2015,Eric Kendricks,ILB,"$2,444,760",MIN,Minnesota Vikings,NFC North
+487,2015,Rodney McLeod,FS,"$2,437,928",STL,St. Louis Rams,NFC West
+488,2015,Mark Barron,ILB,"$2,426,659",STL,St. Louis Rams,NFC West
+489,2015,Mike Tolbert,FB,"$2,425,000",CAR,Carolina Panthers,NFC South
+490,2015,Eric Fisher,LT,"$2,422,318",KC,Kansas City Chiefs,AFC West
+491,2015,Reggie Bush,RB,"$2,409,535",SF,San Francisco 49ers,NFC West
+492,2015,Jermaine Kearse,WR,"$2,408,295",SEA,Seattle Seahawks,NFC West
+493,2015,Damon Harrison,DT,"$2,404,993",NYJ,New York Jets,AFC East
+494,2015,Cedric Thornton,DT,"$2,393,652",PHI,Philadelphia Eagles,NFC East
+495,2015,Geoff Schwartz,G,"$2,385,013",NYG,New  York Giants,NFC East
+496,2015,Eric Rowe,CB,"$2,372,210",PHI,Philadelphia Eagles,NFC East
+497,2015,Dexter McCluster,RB,"$2,366,942",TEN,Tennessee Titans,AFC South
+498,2015,Graham Gano,K,"$2,359,251",CAR,Carolina Panthers,NFC South
+499,2015,Rod Streater,WR,"$2,356,598",OAK,Oakland Raiders,AFC West
+500,2015,Tashaun Gipson,FS,"$2,356,000",CLE,Cleveland Browns,AFC North
+501,2015,Craig Robertson,ILB,"$2,356,000",CLE,Cleveland Browns,AFC North
+502,2015,Jerrell Freeman,ILB,"$2,356,000",IND,Indianapolis Colts,AFC South
+503,2015,Justin Tucker,K,"$2,356,000",BAL,Baltimore Ravens,AFC North
+504,2015,Derrick Shelby,DT,"$2,356,000",MIA,Miami Dolphins,AFC East
+505,2015,Manny Lawson,OLB,"$2,350,000",BUF,Buffalo Bills,AFC East
+506,2015,Danny Amendola,WR,"$2,337,500",NE,New England Patriots,AFC East
+507,2015,Luke Joeckel,G,"$2,332,418",JAC,Jacksonville Jaguars,AFC South
+508,2015,Eugene Sims,DE,"$2,316,299",STL,St. Louis Rams,NFC West
+509,2015,Jordy Nelson,WR,"$2,300,000",GB,Green Bay Packers,NFC North
+510,2015,Tom Johnson,DT,"$2,300,000",MIN,Minnesota Vikings,NFC North
+511,2015,Adam-Pacman Jones,CB,"$2,300,000",CIN,Cincinnati Bengals,AFC North
+512,2015,Louis Delmas,FS,"$2,297,375",MIA,Miami Dolphins,AFC East
+513,2015,Dion Jordan,DE,"$2,275,209",MIA,Miami Dolphins,AFC East
+514,2015,Steve McLendon,DT,"$2,274,824",PIT,Pittsburgh Steelers,AFC North
+515,2015,Rashad Jennings,RB,"$2,272,917",NYG,New  York Giants,NFC East
+516,2015,Tyson Jackson,DE,"$2,271,592",ATL,Atlanta Falcons,NFC South
+517,2015,Denzel Perryman,ILB,"$2,257,443",SD,San Diego Chargers,AFC West
+518,2015,Ted Larsen,G,"$2,250,527",ARI,Arizona Cardinals,NFC West
+519,2015,Dwan Edwards,DT,"$2,250,000",CAR,Carolina Panthers,NFC South
+520,2015,Lane Johnson,RT,"$2,248,483",PHI,Philadelphia Eagles,NFC East
+521,2015,Johnny Hekker,P,"$2,234,314",STL,St. Louis Rams,NFC West
+522,2015,Kendrick Lewis,FS,"$2,200,000",BAL,Baltimore Ravens,AFC North
+523,2015,Andrew Gachkar,OLB,"$2,200,000",DAL,Dallas Cowboys,NFC East
+524,2015,Calvin Pace,OLB,"$2,176,519",NYJ,New York Jets,AFC East
+525,2015,Joe Barksdale,RT,"$2,174,016",SD,San Diego Chargers,AFC West
+526,2015,Ed Dickson,TE,"$2,150,000",CAR,Carolina Panthers,NFC South
+527,2015,Zach Strief,RT,"$2,142,193",NO,New Orleans Saints,NFC South
+528,2015,Jalen Collins,CB,"$2,131,019",ATL,Atlanta Falcons,NFC South
+529,2015,Frostee Rucker,DT,"$2,125,199",ARI,Arizona Cardinals,NFC West
+530,2015,Al Woods,DT,"$2,124,822",TEN,Tennessee Titans,AFC South
+531,2015,Roy Helu,RB,"$2,109,700",OAK,Oakland Raiders,AFC West
+532,2015,Ezekiel Ansah,DE,"$2,095,414",DET,Detroit Lions,NFC North
+533,2015,Mitch Morse,C,"$2,093,598",KC,Kansas City Chiefs,AFC West
+534,2015,Adrian Clayborn,DE,"$2,091,522",ATL,Atlanta Falcons,NFC South
+535,2015,Tramaine Brock,CB,"$2,089,715",SF,San Francisco 49ers,NFC West
+536,2015,Akeem Dent,ILB,"$2,084,375",HOU,Houston Texans,AFC South
+537,2015,DeAngelo Williams,RB,"$2,079,195",PIT,Pittsburgh Steelers,AFC North
+538,2015,Patrick Robinson,CB,"$2,057,960",SD,San Diego Chargers,AFC West
+539,2015,Andy Lee,P,"$2,050,000",CLE,Cleveland Browns,AFC North
+540,2015,Lyle Sendlein,C,"$2,048,332",ARI,Arizona Cardinals,NFC West
+541,2015,Karl Klug,DT,"$2,046,788",TEN,Tennessee Titans,AFC South
+542,2015,Blaine Gabbert,QB,"$2,040,205",SF,San Francisco 49ers,NFC West
+543,2015,Bilal Powell,RB,"$2,038,829",NYJ,New York Jets,AFC East
+544,2015,Stephon Gilmore,CB,"$2,037,839",BUF,Buffalo Bills,AFC East
+545,2015,Chris Ivory,RB,"$2,036,916",NYJ,New York Jets,AFC East
+546,2015,Jeremy Kerley,WR,"$2,022,683",NYJ,New York Jets,AFC East
+547,2015,Ronald Darby,CB,"$2,018,412",BUF,Buffalo Bills,AFC East
+548,2015,Cam Thomas,DT,"$2,012,545",PIT,Pittsburgh Steelers,AFC North
+549,2015,Chris Baker,DT,"$2,008,247",WAS,Washington Commanders,NFC East
+550,2015,Antonio Smith,DE,"$2,000,000",DEN,Denver Broncos,AFC West
+551,2015,Matt Schaub,QB,"$2,000,000",BAL,Baltimore Ravens,AFC North
+552,2015,Jeremy Mincey,DE,"$2,000,000",DAL,Dallas Cowboys,NFC East
+553,2015,Rashean Mathis,CB,"$2,000,000",DET,Detroit Lions,NFC North
+554,2015,Kelvin Sheppard,ILB,"$2,000,000",MIA,Miami Dolphins,AFC East
+555,2015,Tarell Brown,CB,"$2,000,000",NE,New England Patriots,AFC East
+556,2015,Kurt Coleman,FS,"$1,995,570",CAR,Carolina Panthers,NFC South
+557,2015,Kroy Biermann,OLB,"$1,989,768",ATL,Atlanta Falcons,NFC South
+558,2015,Ryan Wendell,C,"$1,975,000",NE,New England Patriots,AFC East
+559,2015,Rashad Johnson,FS,"$1,974,891",ARI,Arizona Cardinals,NFC West
+560,2015,Robert Ayers,DE,"$1,967,329",NYG,New  York Giants,NFC East
+561,2015,Jeff Cumberland,TE,"$1,952,459",NYJ,New York Jets,AFC East
+562,2015,Rafael Bush,FS,"$1,951,420",NO,New Orleans Saints,NFC South
+563,2015,Mike Nugent,K,"$1,950,000",CIN,Cincinnati Bengals,AFC North
+564,2015,Nate Orchard,OLB,"$1,943,220",CLE,Cleveland Browns,AFC North
+565,2015,Matt Prater,K,"$1,937,500",DET,Detroit Lions,NFC North
+566,2015,Dontari Poe,DT,"$1,933,640",KC,Kansas City Chiefs,AFC West
+567,2015,Barkevious Mingo,OLB,"$1,891,091",CLE,Cleveland Browns,AFC North
+568,2015,Nickell Robey-Coleman,CB,"$1,885,000",BUF,Buffalo Bills,AFC East
+569,2015,Jordan Phillips,DT,"$1,868,024",MIA,Miami Dolphins,AFC East
+570,2015,John Jerry,G,"$1,867,467",NYG,New  York Giants,NFC East
+571,2015,Ramon Foster,G,"$1,850,000",PIT,Pittsburgh Steelers,AFC North
+572,2015,Wallace Gilberry,DE,"$1,850,000",CIN,Cincinnati Bengals,AFC North
+573,2015,A.J. Hawk,OLB,"$1,850,000",CIN,Cincinnati Bengals,AFC North
+574,2015,Fletcher Cox,DT,"$1,836,593",PHI,Philadelphia Eagles,NFC East
+575,2015,Dan Carpenter,K,"$1,825,000",BUF,Buffalo Bills,AFC East
+576,2015,George Iloka,FS,"$1,815,612",CIN,Cincinnati Bengals,AFC North
+577,2015,Marshall Newhouse,RT,"$1,797,514",NYG,New  York Giants,NFC East
+578,2015,Jake Fisher,LT,"$1,792,833",CIN,Cincinnati Bengals,AFC North
+579,2015,Michael Floyd,WR,"$1,781,306",ARI,Arizona Cardinals,NFC West
+580,2015,B.J. Raji,DT,"$1,776,158",GB,Green Bay Packers,NFC North
+581,2015,Rob Havenstein,G,"$1,770,035",STL,St. Louis Rams,NFC West
+582,2015,Khalif Barnes,LT,"$1,765,749",OAK,Oakland Raiders,AFC West
+583,2015,Matt Cassel,QB,"$1,764,705",DAL,Dallas Cowboys,NFC East
+584,2015,Donnie Jones,P,"$1,763,321",PHI,Philadelphia Eagles,NFC East
+585,2015,Jonathan Cooper,G,"$1,755,185",ARI,Arizona Cardinals,NFC West
+586,2015,Logan Paulsen,TE,"$1,750,000",WAS,Washington Commanders,NFC East
+587,2015,Nate Irving,ILB,"$1,750,000",IND,Indianapolis Colts,AFC South
+588,2015,Shane Lechler,P,"$1,750,000",HOU,Houston Texans,AFC South
+589,2015,Tyrunn Walker,DT,"$1,750,000",DET,Detroit Lions,NFC North
+590,2015,O'Brien Schofield,OLB,"$1,748,639",ATL,Atlanta Falcons,NFC South
+591,2015,Michael Brockers,DT,"$1,727,126",STL,St. Louis Rams,NFC West
+592,2015,Ameer Abdullah,RB,"$1,717,637",DET,Detroit Lions,NFC North
+593,2015,Bruce Irvin,OLB,"$1,704,647",SEA,Seattle Seahawks,NFC West
+594,2015,Dan Bailey,K,"$1,700,000",DAL,Dallas Cowboys,NFC East
+595,2015,Markus Golden,OLB,"$1,691,817",ARI,Arizona Cardinals,NFC West
+596,2015,Charles Tillman,CB,"$1,687,500",CAR,Carolina Panthers,NFC South
+597,2015,Glenn Dorsey,DE,"$1,670,990",SF,San Francisco 49ers,NFC West
+598,2015,Jacob Tamme,TE,"$1,665,389",ATL,Atlanta Falcons,NFC South
+599,2015,Demario Davis,ILB,"$1,654,011",NYJ,New York Jets,AFC East
+600,2015,Kraig Urbik,G,"$1,650,000",BUF,Buffalo Bills,AFC East
+601,2015,Coty Sensabaugh,CB,"$1,647,838",TEN,Tennessee Titans,AFC South
+602,2015,Antwon Blake,CB,"$1,646,049",PIT,Pittsburgh Steelers,AFC North
+603,2015,J.R. Sweezy,G,"$1,645,763",SEA,Seattle Seahawks,NFC West
+604,2015,Josh Norman,CB,"$1,645,448",CAR,Carolina Panthers,NFC South
+605,2015,Maxx Williams,TE,"$1,642,446",BAL,Baltimore Ravens,AFC North
+606,2015,Ben Jones,C,"$1,640,135",HOU,Houston Texans,AFC South
+607,2015,Trumaine Johnson,CB,"$1,628,753",STL,St. Louis Rams,NFC West
+608,2015,James Ihedigbo,SS,"$1,625,000",DET,Detroit Lions,NFC North
+609,2015,Brandon Brooks,G,"$1,621,798",HOU,Houston Texans,AFC South
+610,2015,Jared Crick,DE,"$1,616,187",HOU,Houston Texans,AFC South
+611,2015,Robert Golden,FS,"$1,614,310",PIT,Pittsburgh Steelers,AFC North
+612,2015,Ali Marpet,C,"$1,612,748",TB,Tampa Bay Buccaneers,NFC South
+613,2015,William Gay,CB,"$1,607,605",PIT,Pittsburgh Steelers,AFC North
+614,2015,Cory Harkey,FB,"$1,606,775",STL,St. Louis Rams,NFC West
+615,2015,Tavon Austin,WR,"$1,605,835",STL,St. Louis Rams,NFC West
+616,2015,Jim Dray,TE,"$1,600,000",CLE,Cleveland Browns,AFC North
+617,2015,Britton Colquitt,P,"$1,600,000",DEN,Denver Broncos,AFC West
+618,2015,Andre Holmes,WR,"$1,598,100",OAK,Oakland Raiders,AFC West
+619,2015,Larry Asante,SS,"$1,595,959",OAK,Oakland Raiders,AFC West
+620,2015,Melvin Ingram,OLB,"$1,595,917",SD,San Diego Chargers,AFC West
+621,2015,Sterling Moore,CB,"$1,595,417",TB,Tampa Bay Buccaneers,NFC South
+622,2015,Brandon Boykin,CB,"$1,591,229",PIT,Pittsburgh Steelers,AFC North
+623,2015,Don Barclay,RT,"$1,590,170",GB,Green Bay Packers,NFC North
+624,2015,Andrew Quarless,TE,"$1,585,157",GB,Green Bay Packers,NFC North
+625,2015,James Harrison,OLB,"$1,584,613",PIT,Pittsburgh Steelers,AFC North
+626,2015,Byron Bell,RT,"$1,582,817",TEN,Tennessee Titans,AFC South
+627,2015,Kelvin Beachum,LT,"$1,578,065",PIT,Pittsburgh Steelers,AFC North
+628,2015,Will Johnson,FB,"$1,574,537",PIT,Pittsburgh Steelers,AFC North
+629,2015,Alfred Morris,RB,"$1,573,489",WAS,Washington Commanders,NFC East
+630,2015,Bobby Rainey,RB,"$1,568,335",TB,Tampa Bay Buccaneers,NFC South
+631,2015,Benjamin Watson,TE,"$1,566,299",NO,New Orleans Saints,NFC South
+632,2015,Dre Kirkpatrick,CB,"$1,565,862",CIN,Cincinnati Bengals,AFC North
+633,2015,Dee Milliner,CB,"$1,558,687",NYJ,New York Jets,AFC East
+634,2015,Marquette King,P,"$1,556,072",OAK,Oakland Raiders,AFC West
+635,2015,Christopher Conte,FS,"$1,554,233",TB,Tampa Bay Buccaneers,NFC South
+636,2015,Jaiquawn Jarrett,FS,"$1,552,689",NYJ,New York Jets,AFC East
+637,2015,Luke Stocker,TE,"$1,550,812",TB,Tampa Bay Buccaneers,NFC South
+638,2015,Chance Warmack,G,"$1,550,490",TEN,Tennessee Titans,AFC South
+639,2015,Bruce Gradkowski,QB,"$1,550,000",PIT,Pittsburgh Steelers,AFC North
+640,2015,Marcus Cannon,RT,"$1,550,000",NE,New England Patriots,AFC East
+641,2015,Shea McClellin,OLB,"$1,549,811",CHI,Chicago Bears,NFC North
+642,2015,Johnnie Troutman,G,"$1,542,000",SD,San Diego Chargers,AFC West
+643,2015,Johnson Bademosi,CB,"$1,542,000",CLE,Cleveland Browns,AFC North
+644,2015,Dwayne Allen,TE,"$1,542,000",IND,Indianapolis Colts,AFC South
+645,2015,Billy Winn,DE,"$1,542,000",IND,Indianapolis Colts,AFC South
+646,2015,Malik Jackson,DT,"$1,542,000",DEN,Denver Broncos,AFC West
+647,2015,Danny Trevathan,ILB,"$1,542,000",DEN,Denver Broncos,AFC West
+648,2015,Josh Robinson,CB,"$1,542,000",MIN,Minnesota Vikings,NFC North
+649,2015,Rhett Ellison,TE,"$1,542,000",MIN,Minnesota Vikings,NFC North
+650,2015,Robert Blanton,SS,"$1,542,000",MIN,Minnesota Vikings,NFC North
+651,2015,Mike Harris,G,"$1,542,000",MIN,Minnesota Vikings,NFC North
+652,2015,Lance Dunbar,RB,"$1,542,000",DAL,Dallas Cowboys,NFC East
+653,2015,Mohamed Sanu,WR,"$1,542,000",CIN,Cincinnati Bengals,AFC North
+654,2015,Nigel Bradham,OLB,"$1,542,000",BUF,Buffalo Bills,AFC East
+655,2015,Olivier Vernon,DE,"$1,542,000",MIA,Miami Dolphins,AFC East
+656,2015,Lamar Miller,RB,"$1,542,000",MIA,Miami Dolphins,AFC East
+657,2015,Antonio Allen,CB,"$1,542,000",NYJ,New York Jets,AFC East
+658,2015,Gino Gradkowski,C,"$1,542,000",ATL,Atlanta Falcons,NFC South
+659,2015,Kevin Williams,DT,"$1,538,133",NO,New Orleans Saints,NFC South
+660,2015,Danny Woodhead,RB,"$1,537,454",SD,San Diego Chargers,AFC West
+661,2015,Tony McDaniel,DT,"$1,534,861",TB,Tampa Bay Buccaneers,NFC South
+662,2015,Trumaine McBride,CB,"$1,534,689",NYG,New  York Giants,NFC East
+663,2015,Kendall Wright,WR,"$1,534,516",TEN,Tennessee Titans,AFC South
+664,2015,Daniel Kilgore,C,"$1,533,404",SF,San Francisco 49ers,NFC West
+665,2015,Quinten Rollins,CB,"$1,533,008",GB,Green Bay Packers,NFC North
+666,2015,David DeCastro,G,"$1,530,966",PIT,Pittsburgh Steelers,AFC North
+667,2015,Beau Brinkley,LS,"$1,525,066",TEN,Tennessee Titans,AFC South
+668,2015,James Starks,RB,"$1,515,604",GB,Green Bay Packers,NFC North
+669,2015,Jon Ryan,P,"$1,514,488",SEA,Seattle Seahawks,NFC West
+670,2015,Chandler Jones,OLB,"$1,504,568",NE,New England Patriots,AFC East
+671,2015,Tarvaris Jackson,QB,"$1,503,027",SEA,Seattle Seahawks,NFC West
+672,2015,Kellen Clemens,QB,"$1,501,154",SD,San Diego Chargers,AFC West
+673,2015,Ryan Mundy,SS,"$1,500,000",CHI,Chicago Bears,NFC North
+674,2015,Jerricho Cotchery,WR,"$1,500,000",CAR,Carolina Panthers,NFC South
+675,2015,Roman Harper,SS,"$1,500,000",CAR,Carolina Panthers,NFC South
+676,2015,Mackenzy Bernadeau,C,"$1,500,000",DAL,Dallas Cowboys,NFC East
+677,2015,Chris Jones,P,"$1,500,000",DAL,Dallas Cowboys,NFC East
+678,2015,Isa Abdul-Quddus,FS,"$1,500,000",DET,Detroit Lions,NFC North
+679,2015,Clay Harbor,TE,"$1,500,000",JAC,Jacksonville Jaguars,AFC South
+680,2015,Jonathan Freeny,OLB,"$1,500,000",NE,New England Patriots,AFC East
+681,2015,Jamize Olawale,FB,"$1,491,702",OAK,Oakland Raiders,AFC West
+682,2015,Senquez Golson,CB,"$1,487,848",PIT,Pittsburgh Steelers,AFC North
+683,2015,Frank Clark,DE,"$1,487,258",SEA,Seattle Seahawks,NFC West
+684,2015,D.J. Fluker,G,"$1,480,891",SD,San Diego Chargers,AFC West
+685,2015,Riley Reiff,LT,"$1,480,050",DET,Detroit Lions,NFC North
+686,2015,Josh Kline,G,"$1,479,718",NE,New England Patriots,AFC East
+687,2015,Cullen Jenkins,DE,"$1,467,021",NYG,New  York Giants,NFC East
+688,2015,Mark Herzlich,OLB,"$1,461,366",NYG,New  York Giants,NFC East
+689,2015,Bobby Massie,RT,"$1,457,938",ARI,Arizona Cardinals,NFC West
+690,2015,Allen Barbre,G,"$1,446,038",PHI,Philadelphia Eagles,NFC East
+691,2015,A.J. Cann,G,"$1,443,543",JAC,Jacksonville Jaguars,AFC South
+692,2015,Dont'a Hightower,OLB,"$1,443,273",NE,New England Patriots,AFC East
+693,2015,Nick Perry,OLB,"$1,435,474",GB,Green Bay Packers,NFC North
+694,2015,Jeron Johnson,SS,"$1,431,795",WAS,Washington Commanders,NFC East
+695,2015,Ty Sambrailo,LT,"$1,430,116",DEN,Denver Broncos,AFC West
+696,2015,Greg Robinson,LT,"$1,423,612",STL,St. Louis Rams,NFC West
+697,2015,Ryan Harris,LT,"$1,420,000",DEN,Denver Broncos,AFC West
+698,2015,Kevin Zeitler,G,"$1,418,754",CIN,Cincinnati Bengals,AFC North
+699,2015,Tyler Lockett,WR,"$1,417,057",SEA,Seattle Seahawks,NFC West
+700,2015,Randy Gregory,OLB,"$1,408,646",DAL,Dallas Cowboys,NFC East
+701,2015,Aaron Brewer,LS,"$1,400,000",DEN,Denver Broncos,AFC West
+702,2015,Chris Clark,LT,"$1,400,000",HOU,Houston Texans,AFC South
+703,2015,Jordan Richards,SS,"$1,394,307",NE,New England Patriots,AFC East
+704,2015,Michael Person,G,"$1,392,417",ATL,Atlanta Falcons,NFC South
+705,2015,D.J. Hayden,CB,"$1,389,344",OAK,Oakland Raiders,AFC West
+706,2015,Joe Hawley,C,"$1,386,011",TB,Tampa Bay Buccaneers,NFC South
+707,2015,Eric Weems,WR,"$1,379,090",ATL,Atlanta Falcons,NFC South
+708,2015,Colt McCoy,QB,"$1,378,677",WAS,Washington Commanders,NFC East
+709,2015,Josh Brown,K,"$1,366,667",NYG,New  York Giants,NFC East
+710,2015,Harrison Smith,FS,"$1,363,437",MIN,Minnesota Vikings,NFC North
+711,2015,Doug Martin,RB,"$1,354,551",TB,Tampa Bay Buccaneers,NFC South
+712,2015,Andre Caldwell,WR,"$1,350,000",DEN,Denver Broncos,AFC West
+713,2015,Bruce Miller,FB,"$1,348,657",SF,San Francisco 49ers,NFC West
+714,2015,Andrew Gardner,G,"$1,335,207",PHI,Philadelphia Eagles,NFC East
+715,2015,Jeremiah Poutasi,RT,"$1,334,298",TEN,Tennessee Titans,AFC South
+716,2015,Clive Walford,TE,"$1,333,765",OAK,Oakland Raiders,AFC West
+717,2015,Sammy Watkins,WR,"$1,326,164",BUF,Buffalo Bills,AFC East
+718,2015,T.J. Clemmings,RT,"$1,319,351",MIN,Minnesota Vikings,NFC North
+719,2015,Kenny Vaccaro,SS,"$1,318,347",NO,New Orleans Saints,NFC South
+720,2015,Khalil Mack,DE,"$1,302,909",OAK,Oakland Raiders,AFC West
+721,2015,Austin Davis,QB,"$1,300,000",CLE,Cleveland Browns,AFC North
+722,2015,Matt Overton,LS,"$1,300,000",IND,Indianapolis Colts,AFC South
+723,2015,Lawrence Guy,DE,"$1,300,000",BAL,Baltimore Ravens,AFC North
+724,2015,Craig Stevens,TE,"$1,296,653",TEN,Tennessee Titans,AFC South
+725,2015,Hroniss Grasu,C,"$1,296,611",CHI,Chicago Bears,NFC North
+726,2015,Sean Lissemore,DT,"$1,288,690",SD,San Diego Chargers,AFC West
+727,2015,Tyvon Branch,SS,"$1,287,500",KC,Kansas City Chiefs,AFC West
+728,2015,Kyle Nelson,LS,"$1,284,386",SF,San Francisco 49ers,NFC West
+729,2015,Chris Maragos,FS,"$1,281,983",PHI,Philadelphia Eagles,NFC East
+730,2015,Star Lotulelei,DT,"$1,278,136",CAR,Carolina Panthers,NFC South
+731,2015,Jamon Brown,RT,"$1,277,716",STL,St. Louis Rams,NFC West
+732,2015,Jake Long,LT,"$1,276,943",ATL,Atlanta Falcons,NFC South
+733,2015,Leger Douzable,DT,"$1,273,652",NYJ,New York Jets,AFC East
+734,2015,Will Allen,SS,"$1,262,140",PIT,Pittsburgh Steelers,AFC North
+735,2015,Jaelen Strong,WR,"$1,262,002",HOU,Houston Texans,AFC South
+736,2015,Matt Spaeth,TE,"$1,261,216",PIT,Pittsburgh Steelers,AFC North
+737,2015,Bryan Braman,OLB,"$1,261,011",PHI,Philadelphia Eagles,NFC East
+738,2015,Akiem Hicks,DE,"$1,259,588",NE,New England Patriots,AFC East
+739,2015,David Bruton,SS,"$1,250,000",DEN,Denver Broncos,AFC West
+740,2015,Major Wright,S,"$1,250,000",TB,Tampa Bay Buccaneers,NFC South
+741,2015,Darren McFadden,RB,"$1,250,000",DAL,Dallas Cowboys,NFC East
+742,2015,George Selvie,DE,"$1,247,645",NYG,New  York Giants,NFC East
+743,2015,Eric Reid,SS,"$1,247,138",SF,San Francisco 49ers,NFC West
+744,2015,Ramon Humber,OLB,"$1,246,708",NO,New Orleans Saints,NFC South
+745,2015,Eli Harold,OLB,"$1,240,889",SF,San Francisco 49ers,NFC West
+746,2015,Cody Wallace,C,"$1,238,810",PIT,Pittsburgh Steelers,AFC North
+747,2015,Tevin Coleman,RB,"$1,234,914",ATL,Atlanta Falcons,NFC South
+748,2015,Jarvis Jones,OLB,"$1,234,427",PIT,Pittsburgh Steelers,AFC North
+749,2015,Darrel Young,FB,"$1,234,398",WAS,Washington Commanders,NFC East
+750,2015,Nick Bellore,ILB,"$1,228,362",SF,San Francisco 49ers,NFC West
+751,2015,Lorenzo Mauldin,OLB,"$1,224,561",NYJ,New York Jets,AFC East
+752,2015,Justin Pugh,G,"$1,220,755",NYG,New  York Giants,NFC East
+753,2015,Desmond Trufant,CB,"$1,220,541",ATL,Atlanta Falcons,NFC South
+754,2015,Mike DeVito,DE,"$1,220,000",KC,Kansas City Chiefs,AFC West
+755,2015,Ian Williams,DT,"$1,218,255",SF,San Francisco 49ers,NFC West
+756,2015,Dannell Ellerbe,OLB,"$1,216,619",NO,New Orleans Saints,NFC South
+757,2015,Kyle Long,G,"$1,216,516",CHI,Chicago Bears,NFC North
+758,2015,E.J. Manuel,QB,"$1,212,755",BUF,Buffalo Bills,AFC East
+759,2015,Allen Bailey,DE,"$1,212,500",KC,Kansas City Chiefs,AFC West
+760,2015,Jake Matthews,LT,"$1,210,944",ATL,Atlanta Falcons,NFC South
+761,2015,David Johnson,RB,"$1,209,812",ARI,Arizona Cardinals,NFC West
+762,2015,Dwight Freeney,OLB,"$1,207,743",ARI,Arizona Cardinals,NFC West
+763,2015,Scott Tolzien,QB,"$1,201,045",GB,Green Bay Packers,NFC North
+764,2015,Anthony Levine,ILB,"$1,200,000",BAL,Baltimore Ravens,AFC North
+765,2015,Jarius Wynn,OLB,"$1,200,000",BUF,Buffalo Bills,AFC East
+766,2015,Louis Murphy,WR,"$1,194,048",TB,Tampa Bay Buccaneers,NFC South
+767,2015,D'Joun Smith,CB,"$1,188,787",IND,Indianapolis Colts,AFC South
+768,2015,Taiwan Jones,RB,"$1,185,426",OAK,Oakland Raiders,AFC West
+769,2015,Dion Lewis,RB,"$1,185,000",NE,New England Patriots,AFC East
+770,2015,Brandon Bolden,RB,"$1,185,000",NE,New England Patriots,AFC East
+771,2015,Jordan Hicks,ILB,"$1,181,900",PHI,Philadelphia Eagles,NFC East
+772,2015,Craig Mager,CB,"$1,180,665",SD,San Diego Chargers,AFC West
+773,2015,Janoris Jenkins,CB,"$1,180,366",STL,St. Louis Rams,NFC West
+774,2015,Chris Givens,WR,"$1,179,176",BAL,Baltimore Ravens,AFC North
+775,2015,DeAndre Hopkins,WR,"$1,170,644",HOU,Houston Texans,AFC South
+776,2015,Garrett Grayson,QB,"$1,168,167",NO,New Orleans Saints,NFC South
+777,2015,Nate Washington,WR,"$1,167,372",HOU,Houston Texans,AFC South
+778,2015,Owamagbe Odighizuwa,DE,"$1,161,920",NYG,New  York Giants,NFC East
+779,2015,Brian Quick,WR,"$1,160,226",STL,St. Louis Rams,NFC West
+780,2015,Jamison Crowder,WR,"$1,159,066",WAS,Washington Commanders,NFC East
+781,2015,Tyler Eifert,TE,"$1,155,546",CIN,Cincinnati Bengals,AFC North
+782,2015,Tyrod Taylor,QB,"$1,150,000",BUF,Buffalo Bills,AFC East
+783,2015,Chris Conley,WR,"$1,147,434",KC,Kansas City Chiefs,AFC West
+784,2015,Duke Johnson,RB,"$1,145,092",CLE,Cleveland Browns,AFC North
+785,2015,Darrin Walls,CB,"$1,139,879",NYJ,New York Jets,AFC East
+786,2015,Sharrif Floyd,DT,"$1,139,200",MIN,Minnesota Vikings,NFC North
+787,2015,Bjoern Werner,OLB,"$1,122,854",IND,Indianapolis Colts,AFC South
+788,2015,James Jones,WR,"$1,121,736",GB,Green Bay Packers,NFC North
+789,2015,Mike Evans,WR,"$1,120,154",TB,Tampa Bay Buccaneers,NFC South
+790,2015,Joe Berger,G,"$1,120,000",MIN,Minnesota Vikings,NFC North
+791,2015,Coby Fleener,TE,"$1,118,406",IND,Indianapolis Colts,AFC South
+792,2015,Matt Jones,RB,"$1,118,356",WAS,Washington Commanders,NFC East
+793,2015,Tim Masthay,P,"$1,115,699",GB,Green Bay Packers,NFC North
+794,2015,Tre' Jackson,G,"$1,115,692",NE,New England Patriots,AFC East
+795,2015,John Miller,G,"$1,115,120",BUF,Buffalo Bills,AFC East
+796,2015,Xavier Rhodes,CB,"$1,114,682",MIN,Minnesota Vikings,NFC North
+797,2015,Kedric Golston,DT,"$1,113,845",WAS,Washington Commanders,NFC East
+798,2015,Kellen Davis,TE,"$1,113,737",NYJ,New York Jets,AFC East
+799,2015,Courtney Upshaw,DT,"$1,112,277",BAL,Baltimore Ravens,AFC North
+800,2015,Derek Wolfe,DE,"$1,100,018",DEN,Denver Broncos,AFC West
+801,2015,Marcus Sherels,CB,"$1,100,000",MIN,Minnesota Vikings,NFC North
+802,2015,Anthony Dixon,RB,"$1,100,000",BUF,Buffalo Bills,AFC East
+803,2015,Richie Incognito,G,"$1,100,000",BUF,Buffalo Bills,AFC East
+804,2015,Matthew Slater,WR,"$1,100,000",NE,New England Patriots,AFC East
+805,2015,Angelo Blackson,DE,"$1,098,596",TEN,Tennessee Titans,AFC South
+806,2015,Mitchell Schwartz,RT,"$1,095,114",CLE,Cleveland Browns,AFC North
+807,2015,Sylvester Williams,DT,"$1,094,250",DEN,Denver Broncos,AFC West
+808,2015,Josh Bynes,OLB,"$1,091,802",DET,Detroit Lions,NFC North
+809,2015,Ty Montgomery,RB,"$1,090,839",GB,Green Bay Packers,NFC North
+810,2015,Mike Leach,LS,"$1,084,430",ARI,Arizona Cardinals,NFC West
+811,2015,Andre Branch,DE,"$1,084,083",JAC,Jacksonville Jaguars,AFC South
+812,2015,Jalston Fowler,FB,"$1,083,953",TEN,Tennessee Titans,AFC South
+813,2015,Greg Warren,LS,"$1,083,500",PIT,Pittsburgh Steelers,AFC North
+814,2015,Tyler Kroft,TE,"$1,082,776",CIN,Cincinnati Bengals,AFC North
+815,2015,Sammie Coates,WR,"$1,081,081",PIT,Pittsburgh Steelers,AFC North
+816,2015,John Denney,LS,"$1,080,000",MIA,Miami Dolphins,AFC East
+817,2015,Garrett Reynolds,G,"$1,078,890",STL,St. Louis Rams,NFC West
+818,2015,Shaq Mason,G,"$1,077,873",NE,New England Patriots,AFC East
+819,2015,Rodney Gunter,DT,"$1,076,886",ARI,Arizona Cardinals,NFC West
+820,2015,Datone Jones,DE,"$1,075,730",GB,Green Bay Packers,NFC North
+821,2015,Jon Weeks,LS,"$1,075,000",HOU,Houston Texans,AFC South
+822,2015,Quintin Demps,SS,"$1,073,302",HOU,Houston Texans,AFC South
+823,2015,Jeremy Langford,RB,"$1,073,176",CHI,Chicago Bears,NFC North
+824,2015,Justin Hardy,WR,"$1,072,836",ATL,Atlanta Falcons,NFC South
+825,2015,Clint Gresham,LS,"$1,070,441",SEA,Seattle Seahawks,NFC West
+826,2015,Luke McCown,QB,"$1,069,334",NO,New Orleans Saints,NFC South
+827,2015,Alex Carter,S,"$1,068,688",DET,Detroit Lions,NFC North
+828,2015,Alec Ogletree,ILB,"$1,064,839",STL,St. Louis Rams,NFC West
+829,2015,Amini Silatolu,G,"$1,063,242",CAR,Carolina Panthers,NFC South
+830,2015,Sean Mannion,QB,"$1,062,861",STL,St. Louis Rams,NFC West
+831,2015,Danielle Hunter,DE,"$1,062,223",MIN,Minnesota Vikings,NFC North
+832,2015,Cordarrelle Patterson,WR,"$1,061,459",MIN,Minnesota Vikings,NFC North
+833,2015,Carl Davis,DT,"$1,060,084",BAL,Baltimore Ravens,AFC North
+834,2015,Michael Morgan,OLB,"$1,059,707",SEA,Seattle Seahawks,NFC West
+835,2015,Brandon Myers,TE,"$1,057,082",TB,Tampa Bay Buccaneers,NFC South
+836,2015,Sheldon Richardson,DT,"$1,055,044",NYJ,New York Jets,AFC East
+837,2015,Willie Colon,G,"$1,053,651",NYJ,New York Jets,AFC East
+838,2015,Cordy Glenn,LT,"$1,053,434",BUF,Buffalo Bills,AFC East
+839,2015,Lance Moore,WR,"$1,050,000",DET,Detroit Lions,NFC North
+840,2015,Don Muhlbach,LS,"$1,050,000",DET,Detroit Lions,NFC North
+841,2015,Dan Orlovsky,QB,"$1,050,000",DET,Detroit Lions,NFC North
+842,2015,C.J. Wilson,DT,"$1,050,000",DET,Detroit Lions,NFC North
+843,2015,Alshon Jeffery,WR,"$1,049,416",CHI,Chicago Bears,NFC North
+844,2015,Kendall Reyes,DE,"$1,048,666",SD,San Diego Chargers,AFC West
+845,2015,Stevan Ridley,RB,"$1,046,103",NYJ,New York Jets,AFC East
+846,2015,Cedric Peerman,RB,"$1,045,000",CIN,Cincinnati Bengals,AFC North
+847,2015,Tanner Purdum,LS,"$1,043,942",NYJ,New York Jets,AFC East
+848,2015,Darrell Stuckey,FS,"$1,041,380",SD,San Diego Chargers,AFC West
+849,2015,Tracy Porter,CB,"$1,039,473",CHI,Chicago Bears,NFC North
+850,2015,Za'Darius Smith,OLB,"$1,036,376",BAL,Baltimore Ravens,AFC North
+851,2015,Blake Bell,TE,"$1,029,551",SF,San Francisco 49ers,NFC West
+852,2015,Travis Frederick,C,"$1,029,548",DAL,Dallas Cowboys,NFC East
+853,2015,Xavier Cooper,DE,"$1,027,284",CLE,Cleveland Browns,AFC North
+854,2015,John Kuhn,FB,"$1,026,706",GB,Green Bay Packers,NFC North
+855,2015,Chris Watt,C,"$1,025,743",SD,San Diego Chargers,AFC West
+856,2015,P.J. Williams,CB,"$1,024,619",NO,New Orleans Saints,NFC South
+857,2015,Jeff Allen,G,"$1,023,249",KC,Kansas City Chiefs,AFC West
+858,2015,Jake Ryan,ILB,"$1,021,062",GB,Green Bay Packers,NFC North
+859,2015,Matt Elam,SS,"$1,020,182",BAL,Baltimore Ravens,AFC North
+860,2015,Trevor Robinson,C,"$1,019,227",SD,San Diego Chargers,AFC West
+861,2015,LaMarr Woodley,OLB,"$1,018,206",ARI,Arizona Cardinals,NFC West
+862,2015,Chaz Green,G,"$1,018,078",DAL,Dallas Cowboys,NFC East
+863,2015,Michael Vick,QB,"$1,017,908",PIT,Pittsburgh Steelers,AFC North
+864,2015,Geno Grissom,DE,"$1,016,952",NE,New England Patriots,AFC East
+865,2015,Steven Nelson,CB,"$1,016,952",KC,Kansas City Chiefs,AFC West
+866,2015,Paul Dawson,OLB,"$1,016,952",CIN,Cincinnati Bengals,AFC North
+867,2015,Ricardo Mathews,DT,"$1,014,601",SD,San Diego Chargers,AFC West
+868,2015,Zak DeOssie,LS,"$1,012,755",NYG,New  York Giants,NFC East
+869,2015,J'Marcus Webb,RT,"$1,011,778",OAK,Oakland Raiders,AFC West
+870,2015,Justin Gilbert,CB,"$1,003,341",CLE,Cleveland Browns,AFC North
+871,2015,John Cyprien,SS,"$1,002,994",JAC,Jacksonville Jaguars,AFC South
+872,2015,Marlon Moore,WR,"$1,000,000",CLE,Cleveland Browns,AFC North
+873,2015,Chris Harris,CB,"$1,000,000",DEN,Denver Broncos,AFC West
+874,2015,Albert McClellan,OLB,"$1,000,000",BAL,Baltimore Ravens,AFC North
+875,2015,Anthony Sherman,FB,"$1,000,000",KC,Kansas City Chiefs,AFC West
+876,2015,Andrew Sendejo,SS,"$1,000,000",MIN,Minnesota Vikings,NFC North
+877,2015,L.P. Ladouceur,LS,"$1,000,000",DAL,Dallas Cowboys,NFC East
+878,2015,Terrell McClain,DE,"$1,000,000",DAL,Dallas Cowboys,NFC East
+879,2015,Michael Hoomanawanui,TE,"$999,946",NO,New Orleans Saints,NFC South
+880,2015,Anthony Barr,OLB,"$999,250",MIN,Minnesota Vikings,NFC North
+881,2015,Zach Ertz,TE,"$996,225",PHI,Philadelphia Eagles,NFC East
+882,2015,Jon Dorenbos,LS,"$995,868",PHI,Philadelphia Eagles,NFC East
+883,2015,Kwon Alexander,ILB,"$995,554",TB,Tampa Bay Buccaneers,NFC South
+884,2015,Taylor Lewan,LT,"$995,269",TEN,Tennessee Titans,AFC South
+885,2015,Henry Anderson,DE,"$993,617",IND,Indianapolis Colts,AFC South
+886,2015,Stephen Bowen,DE,"$992,282",NYJ,New York Jets,AFC East
+887,2015,Daryl Williams,RT,"$992,120",CAR,Carolina Panthers,NFC South
+888,2015,E.J. Biggers,CB,"$991,133",PHI,Philadelphia Eagles,NFC East
+889,2015,Bryce Petty,QB,"$988,697",NYJ,New York Jets,AFC East
+890,2015,Zach Brown,ILB,"$985,988",TEN,Tennessee Titans,AFC South
+891,2015,Casey Hayward,CB,"$985,546",GB,Green Bay Packers,NFC North
+892,2015,Craig Dahl,SS,"$982,408",NYG,New  York Giants,NFC East
+893,2015,Nick Hayden,DT,"$982,095",DAL,Dallas Cowboys,NFC East
+894,2015,Will Montgomery,C,"$981,705",CHI,Chicago Bears,NFC North
+895,2015,Eric Ebron,TE,"$976,780",DET,Detroit Lions,NFC North
+896,2015,Tyrann Mathieu,FS,"$973,927",ARI,Arizona Cardinals,NFC West
+897,2015,Clayton Geathers,FS,"$968,930",IND,Indianapolis Colts,AFC South
+898,2015,Kelechi Osemele,G,"$966,809",BAL,Baltimore Ravens,AFC North
+899,2015,Daniel Fells,TE,"$966,376",NYG,New  York Giants,NFC East
+900,2015,Andrew Donnal,RT,"$966,242",STL,St. Louis Rams,NFC West
+901,2015,Nick Sundberg,LS,"$966,202",WAS,Washington Commanders,NFC East
+902,2015,Tavon Wilson,SS,"$965,166",NE,New England Patriots,AFC East
+903,2015,Jon Condo,LS,"$965,097",OAK,Oakland Raiders,AFC West
+904,2015,Darrius Heyward-Bey,WR,"$964,583",PIT,Pittsburgh Steelers,AFC North
+905,2015,Rueben Randle,WR,"$963,798",NYG,New  York Giants,NFC East
+906,2015,Vladimir Ducasse,G,"$963,184",CHI,Chicago Bears,NFC North
+907,2015,Trey Flowers,DE,"$959,520",NE,New England Patriots,AFC East
+908,2015,Arie Kouandjio,G,"$956,670",WAS,Washington Commanders,NFC East
+909,2015,Gabe Wright,DT,"$956,155",DET,Detroit Lions,NFC North
+910,2015,Manti Te'o,ILB,"$956,009",SD,San Diego Chargers,AFC West
+911,2015,Max Garcia,G,"$954,153",DEN,Denver Broncos,AFC West
+912,2015,Lance Louis,G,"$953,750",IND,Indianapolis Colts,AFC South
+913,2015,Jamil Douglas,C,"$953,565",MIA,Miami Dolphins,AFC East
+914,2015,Dwight Lowery,FS,"$950,000",IND,Indianapolis Colts,AFC South
+915,2015,Nate Chandler,LT,"$950,000",CAR,Carolina Panthers,NFC South
+916,2015,Jason Avant,WR,"$950,000",KC,Kansas City Chiefs,AFC West
+917,2015,Eric Winston,RT,"$950,000",CIN,Cincinnati Bengals,AFC North
+918,2015,Pat Sims,DT,"$950,000",CIN,Cincinnati Bengals,AFC North
+919,2015,Darryl Tapp,DE,"$950,000",DET,Detroit Lions,NFC North
+920,2015,Josh Wilson,CB,"$950,000",DET,Detroit Lions,NFC North
+921,2015,LeGarrette Blount,RB,"$949,632",NE,New England Patriots,AFC East
+922,2015,Adrian Amos,FS,"$949,438",CHI,Chicago Bears,NFC North
+923,2015,Jon Feliciano,G,"$949,134",OAK,Oakland Raiders,AFC West
+924,2015,Kyle Wilson,CB,"$948,254",NO,New Orleans Saints,NFC South
+925,2015,Ibraheim Campbell,SS,"$947,010",CLE,Cleveland Browns,AFC North
+926,2015,Aaron Donald,DT,"$946,260",STL,St. Louis Rams,NFC West
+927,2015,Fred Jackson,RB,"$943,226",SEA,Seattle Seahawks,NFC West
+928,2015,Charlie Whitehurst,QB,"$941,176",IND,Indianapolis Colts,AFC South
+929,2015,Lorenzo Alexander,OLB,"$940,030",OAK,Oakland Raiders,AFC West
+930,2015,Jeff Heuerman,TE,"$938,806",DEN,Denver Broncos,AFC West
+931,2015,Justin Hunter,WR,"$936,152",TEN,Tennessee Titans,AFC South
+932,2015,Mike Davis,RB,"$935,708",SF,San Francisco 49ers,NFC West
+933,2015,James Sample,FS,"$935,405",JAC,Jacksonville Jaguars,AFC South
+934,2015,Ramik Wilson,ILB,"$935,123",KC,Kansas City Chiefs,AFC West
+935,2015,Kevin Minter,ILB,"$934,563",ARI,Arizona Cardinals,NFC West
+936,2015,Vinny Curry,DE,"$930,453",PHI,Philadelphia Eagles,NFC East
+937,2015,Josh Shaw,CB,"$928,724",CIN,Cincinnati Bengals,AFC North
+938,2015,Sherrick McManis,CB,"$924,697",CHI,Chicago Bears,NFC North
+939,2015,Jamari Lattimore,ILB,"$923,480",NYJ,New York Jets,AFC East
+940,2015,Marvin Jones,WR,"$921,457",CIN,Cincinnati Bengals,AFC North
+941,2015,Kyle Fuller,CB,"$921,015",CHI,Chicago Bears,NFC North
+942,2015,Chris Johnson,RB,"$918,388",ARI,Arizona Cardinals,NFC West
+943,2015,Jarvis Jenkins,DE,"$916,296",CHI,Chicago Bears,NFC North
+944,2015,Stefon Diggs,WR,"$914,812",MIN,Minnesota Vikings,NFC North
+945,2015,Jamarca Sanford,SS,"$911,184",NO,New Orleans Saints,NFC South
+946,2015,Garrison Sanborn,LS,"$910,000",BUF,Buffalo Bills,AFC East
+947,2015,Javorius Allen,RB,"$909,471",BAL,Baltimore Ravens,AFC North
+948,2015,Ryan Shazier,ILB,"$905,187",PIT,Pittsburgh Steelers,AFC North
+949,2015,Damien Wilson,OLB,"$901,315",DAL,Dallas Cowboys,NFC East
+950,2015,Kiko Alonso,OLB,"$900,296",PHI,Philadelphia Eagles,NFC East
+951,2015,Teddy Williams,CB,"$900,000",CAR,Carolina Panthers,NFC South
+952,2015,Clark Harris,LS,"$900,000",CIN,Cincinnati Bengals,AFC North
+953,2015,Mike Jenkins,CB,"$897,267",TB,Tampa Bay Buccaneers,NFC South
+954,2015,Erin Henderson,ILB,"$896,891",NYJ,New York Jets,AFC East
+955,2015,"Odell Beckham, Jr.",WR,"$896,230",NYG,New  York Giants,NFC East
+956,2015,Seyi Ajirotutu,WR,"$895,067",PHI,Philadelphia Eagles,NFC East
+957,2015,Brett Goode,LS,"$895,000",GB,Green Bay Packers,NFC North
+958,2015,Will Tukuafu,FB,"$892,380",SEA,Seattle Seahawks,NFC West
+959,2015,Matt Tobin,G,"$892,101",PHI,Philadelphia Eagles,NFC East
+960,2015,Adam Hayward,OLB,"$890,625",WAS,Washington Commanders,NFC East
+961,2015,Calvin Pryor,FS,"$889,077",NYJ,New York Jets,AFC East
+962,2015,HaHa Clinton-Dix,FS,"$888,535",GB,Green Bay Packers,NFC North
+963,2015,Johnthan Banks,CB,"$888,431",TB,Tampa Bay Buccaneers,NFC South
+964,2015,Darius Slay,CB,"$885,846",DET,Detroit Lions,NFC North
+965,2015,Giovani Bernard,RB,"$882,576",CIN,Cincinnati Bengals,AFC North
+966,2015,Robert Alford,CB,"$880,189",ATL,Atlanta Falcons,NFC South
+967,2015,Phillip Adams,CB,"$877,827",ATL,Atlanta Falcons,NFC South
+968,2015,Mike Remmers,RT,"$877,514",CAR,Carolina Panthers,NFC South
+969,2015,Cornellius Carradine,DE,"$876,342",SF,San Francisco 49ers,NFC West
+970,2015,Tim Barnes,C,"$875,547",STL,St. Louis Rams,NFC West
+971,2015,Demarcus Dobbs,DE,"$874,302",SEA,Seattle Seahawks,NFC West
+972,2015,Geno Smith,QB,"$870,303",NYJ,New York Jets,AFC East
+973,2015,Deshawn Shead,FS,"$870,222",SEA,Seattle Seahawks,NFC West
+974,2015,J.J. Jansen,LS,"$870,000",CAR,Carolina Panthers,NFC South
+975,2015,Brock Osweiler,QB,"$869,547",DEN,Denver Broncos,AFC West
+976,2015,Deone Bucannon,ILB,"$867,032",ARI,Arizona Cardinals,NFC West
+977,2015,Ryan Schraeder,RT,"$864,671",ATL,Atlanta Falcons,NFC South
+978,2015,Brandin Cooks,WR,"$860,798",NO,New Orleans Saints,NFC South
+979,2015,Jamie Collins,OLB,"$857,893",NE,New England Patriots,AFC East
+980,2015,Patrick DiMarco,FB,"$850,479",ATL,Atlanta Falcons,NFC South
+981,2015,Jason Verrett,CB,"$848,828",SD,San Diego Chargers,AFC West
+982,2015,Robert Woods,WR,"$847,434",BUF,Buffalo Bills,AFC East
+983,2015,Mike McGlynn,G,"$843,324",NO,New Orleans Saints,NFC South
+984,2015,Menelik Watson,RT,"$840,896",OAK,Oakland Raiders,AFC West
+985,2015,Jasper Brinkley,ILB,"$840,204",NYG,New  York Giants,NFC East
+986,2015,Garry Gilliam,RT,"$839,384",SEA,Seattle Seahawks,NFC West
+987,2015,Brandon Marshall,ILB,"$834,434",DEN,Denver Broncos,AFC West
+988,2015,J.J. Wilcox,FS,"$832,737",DAL,Dallas Cowboys,NFC East
+989,2015,Jamon Meredith,RT,"$830,728",TEN,Tennessee Titans,AFC South
+990,2015,Tyeler Davison,DT,"$830,601",NO,New Orleans Saints,NFC South
+991,2015,Chris Hairston,LT,"$830,553",SD,San Diego Chargers,AFC West
+992,2015,Malcolm Butler,CB,"$829,282",NE,New England Patriots,AFC East
+993,2015,Russell Bodine,C,"$828,612",CIN,Cincinnati Bengals,AFC North
+994,2015,Sam Acho,OLB,"$827,832",CHI,Chicago Bears,NFC North
+995,2015,Zack Martin,G,"$827,627",DAL,Dallas Cowboys,NFC East
+996,2015,Matt Paradis,C,"$826,648",DEN,Denver Broncos,AFC West
+997,2015,Kawann Short,DT,"$825,875",CAR,Carolina Panthers,NFC South
+998,2015,Tony Jefferson,SS,"$825,347",ARI,Arizona Cardinals,NFC West
+999,2015,Brandon Gibson,WR,"$825,000",NE,New England Patriots,AFC East
+1000,2015,Colt Anderson,SS,"$825,000",IND,Indianapolis Colts,AFC South

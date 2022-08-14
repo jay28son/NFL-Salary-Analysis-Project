@@ -1,0 +1,1001 @@
+Year,Name,POS,Salary,Team Abbv.,Team Name,Division
+2018,Aaron Rodgers,QB,"$66,900,000 ",GB,Green Bay Packers,NFC North
+2018,Jimmy Garoppolo,QB,"$41,950,000 ",SF,San Francisco 49ers,NFC West
+2018,Khalil Mack,OLB,"$41,000,000 ",CHI,Chicago Bears,NFC North
+2018,Aaron Donald,DT,"$40,892,000 ",LAR,Los Angeles Rams,NFC West
+2018,Alex Smith,QB,"$40,000,000 ",WAS,Washington Commanders,NFC East
+2018,Matt Ryan,QB,"$29,250,000 ",ATL,Atlanta Falcons,NFC South
+2018,Drew Brees,QB,"$27,000,000 ",NO,New Orleans Saints,NFC South
+2018,Kirk Cousins,QB,"$26,000,000 ",MIN,Minnesota Vikings,NFC North
+2018,Trumaine Johnson,CB,"$26,000,000 ",NYJ,New York Jets,AFC East
+2018,Geno Atkins,DT,"$25,500,000 ",CIN,Cincinnati Bengals,AFC North
+2018,Derek Carr,QB,"$22,500,000 ",OAK,Oakland Raiders,AFC West
+2018,Baker Mayfield,QB,"$22,329,440 ",CLE,Cleveland Browns,AFC North
+2018,Nate Solder,LT,"$22,000,000 ",NYG,New  York Giants,NFC East
+2018,Zack Martin,G,"$22,000,000 ",DAL,Dallas Cowboys,NFC East
+2018,Todd Gurley,RB,"$21,950,000 ",LAR,Los Angeles Rams,NFC West
+2018,Sammy Watkins,WR,"$21,800,000 ",KC,Kansas City Chiefs,AFC West
+2018,Jarvis Landry,WR,"$21,500,000 ",CLE,Cleveland Browns,AFC North
+2018,"Odell Beckham, Jr.",WR,"$21,459,000 ",NYG,New  York Giants,NFC East
+2018,Saquon Barkley,RB,"$21,247,092 ",NYG,New  York Giants,NFC East
+2018,Sam Darnold,QB,"$20,558,338 ",NYJ,New York Jets,AFC East
+2018,Kyle Fuller,CB,"$20,000,000 ",CHI,Chicago Bears,NFC North
+2018,Blake Bortles,QB,"$20,000,000 ",JAC,Jacksonville Jaguars,AFC South
+2018,Carlos Dunlap,DE,"$19,800,000 ",CIN,Cincinnati Bengals,AFC North
+2018,Denzel Ward,CB,"$19,771,168 ",CLE,Cleveland Browns,AFC North
+2018,Jake Matthews,LT,"$19,446,000 ",ATL,Atlanta Falcons,NFC South
+2018,Von Miller,OLB,"$19,427,315 ",DEN,Denver Broncos,AFC West
+2018,Eric Berry,SS,"$19,000,000 ",KC,Kansas City Chiefs,AFC West
+2018,Kawann Short,DT,"$19,000,000 ",CAR,Carolina Panthers,NFC South
+2018,Taylor Lewan,LT,"$18,982,352 ",TEN,Tennessee Titans,AFC South
+2018,Bradley Chubb,OLB,"$18,426,124 ",DEN,Denver Broncos,AFC West
+2018,Mike Evans,WR,"$18,258,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Case Keenum,QB,"$18,023,476 ",DEN,Denver Broncos,AFC West
+2018,Andrew Luck,QB,"$18,000,000 ",IND,Indianapolis Colts,AFC South
+2018,Ryan Tannehill,QB,"$17,500,000 ",MIA,Miami Dolphins,AFC East
+2018,Danielle Hunter,DE,"$17,407,000 ",MIN,Minnesota Vikings,NFC North
+2018,Ezekiel Ansah,DE,"$17,143,000 ",DET,Detroit Lions,NFC North
+2018,DeMarcus Lawrence,DE,"$17,143,000 ",DAL,Dallas Cowboys,NFC East
+2018,Star Lotulelei,DT,"$17,100,000 ",BUF,Buffalo Bills,AFC East
+2018,Ben Roethlisberger,QB,"$17,000,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Andrew Norwell,G,"$17,000,000 ",JAC,Jacksonville Jaguars,AFC South
+2018,Weston Richburg,C,"$16,975,000 ",SF,San Francisco 49ers,NFC West
+2018,Stefon Diggs,WR,"$16,907,000 ",MIN,Minnesota Vikings,NFC North
+2018,Antonio Brown,WR,"$16,775,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Matthew Stafford,QB,"$16,500,000 ",DET,Detroit Lions,NFC North
+2018,Eli Manning,QB,"$16,000,000 ",NYG,New  York Giants,NFC East
+2018,Tyrod Taylor,QB,"$16,000,000 ",CLE,Cleveland Browns,AFC North
+2018,Quenton Nelson,G,"$15,933,750 ",IND,Indianapolis Colts,AFC South
+2018,Allen Robinson,WR,"$15,812,500 ",CHI,Chicago Bears,NFC North
+2018,Russell Wilson,QB,"$15,500,000 ",SEA,Seattle Seahawks,NFC West
+2018,Desmond Trufant,CB,"$15,500,000 ",ATL,Atlanta Falcons,NFC South
+2018,Justin Houston,OLB,"$15,000,000 ",KC,Kansas City Chiefs,AFC West
+2018,Philip Rivers,QB,"$15,000,000 ",LAC,Los Angeles Chargers,AFC West
+2018,Cam Newton,QB,"$15,000,000 ",CAR,Carolina Panthers,NFC South
+2018,Calais Campbell,DE,"$15,000,000 ",JAC,Jacksonville Jaguars,AFC South
+2018,Tom Brady,QB,"$15,000,000 ",NE,New England Patriots,AFC East
+2018,Stephon Gilmore,CB,"$15,000,000 ",NE,New England Patriots,AFC East
+2018,Anthony Hitchens,ILB,"$14,800,000 ",KC,Kansas City Chiefs,AFC West
+2018,Ndamukong Suh,DT,"$14,500,000 ",LAR,Los Angeles Rams,NFC West
+2018,Duane Brown,LT,"$14,250,000 ",SEA,Seattle Seahawks,NFC West
+2018,Malcolm Butler,CB,"$14,000,000 ",TEN,Tennessee Titans,AFC South
+2018,Josh Allen,QB,"$13,965,846 ",BUF,Buffalo Bills,AFC East
+2018,Andy Dalton,QB,"$13,900,000 ",CIN,Cincinnati Bengals,AFC North
+2018,David Johnson,RB,"$13,882,500 ",ARI,Arizona Cardinals,NFC West
+2018,Josh Norman,CB,"$13,800,000 ",WAS,Washington Commanders,NFC East
+2018,Malik Jackson,DT,"$13,500,000 ",JAC,Jacksonville Jaguars,AFC South
+2018,A.J. Bouye,CB,"$13,406,250 ",JAC,Jacksonville Jaguars,AFC South
+2018,Julio Jones,WR,"$13,400,000 ",ATL,Atlanta Falcons,NFC South
+2018,Jadeveon Clowney,OLB,"$13,311,000 ",HOU,Houston Texans,AFC South
+2018,Jimmy Graham,TE,"$13,250,000 ",GB,Green Bay Packers,NFC North
+2018,Olivier Vernon,OLB,"$13,000,000 ",NYG,New  York Giants,NFC East
+2018,Shaq Mason,G,"$12,907,000 ",NE,New England Patriots,AFC East
+2018,Chandler Jones,DE,"$12,500,000 ",ARI,Arizona Cardinals,NFC West
+2018,Jerick McKinnon,RB,"$12,500,000 ",SF,San Francisco 49ers,NFC West
+2018,Jason Pierre-Paul,DE,"$12,500,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,DeAndre Hopkins,WR,"$12,500,000 ",HOU,Houston Texans,AFC South
+2018,Russell Okung,LT,"$12,468,750 ",LAC,Los Angeles Chargers,AFC West
+2018,Greg Olsen,TE,"$12,350,000 ",CAR,Carolina Panthers,NFC South
+2018,Anthony Barr,OLB,"$12,306,000 ",MIN,Minnesota Vikings,NFC North
+2018,Gerald McCoy,DT,"$12,250,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Eddie Goldman,DT,"$12,000,000 ",CHI,Chicago Bears,NFC North
+2018,Casey Hayward,CB,"$12,000,000 ",LAC,Los Angeles Chargers,AFC West
+2018,Larry Fitzgerald,WR,"$12,000,000 ",ARI,Arizona Cardinals,NFC West
+2018,Ryan Jensen,C,"$12,000,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Nick Foles,QB,"$12,000,000 ",PHI,Philadelphia Eagles,NFC East
+2018,Matt Kalil,LT,"$12,000,000 ",CAR,Carolina Panthers,NFC South
+2018,Dontari Poe,DT,"$12,000,000 ",CAR,Carolina Panthers,NFC South
+2018,Joe Flacco,QB,"$12,000,000 ",BAL,Baltimore Ravens,AFC North
+2018,Roquan Smith,LB,"$11,997,941 ",CHI,Chicago Bears,NFC North
+2018,Mike McGlinchey,RT,"$11,899,434 ",SF,San Francisco 49ers,NFC West
+2018,Tyron Smith,LT,"$11,745,000 ",DAL,Dallas Cowboys,NFC East
+2018,Paul Richardson,WR,"$11,718,750 ",WAS,Washington Commanders,NFC East
+2018,Eric Kendricks,ILB,"$11,638,080 ",MIN,Minnesota Vikings,NFC North
+2018,Fletcher Cox,DT,"$11,500,000 ",PHI,Philadelphia Eagles,NFC East
+2018,Robert Quinn,DE,"$11,444,412 ",MIA,Miami Dolphins,AFC East
+2018,Eric Fisher,LT,"$11,400,000 ",KC,Kansas City Chiefs,AFC West
+2018,Clay Matthews Jr.,OLB,"$11,400,000 ",GB,Green Bay Packers,NFC North
+2018,Josh Rosen,QB,"$11,358,368 ",ARI,Arizona Cardinals,NFC West
+2018,LaMarcus Joyner,FS,"$11,287,000 ",LAR,Los Angeles Rams,NFC West
+2018,Melvin Ingram,DE,"$11,250,000 ",LAC,Los Angeles Chargers,AFC West
+2018,Patrick Peterson,CB,"$11,250,000 ",ARI,Arizona Cardinals,NFC West
+2018,Justin Pugh,G,"$11,250,000 ",ARI,Arizona Cardinals,NFC West
+2018,Cordy Glenn,LT,"$11,250,000 ",CIN,Cincinnati Bengals,AFC North
+2018,Trey Burton,TE,"$11,175,000 ",CHI,Chicago Bears,NFC North
+2018,Jurrell Casey,DT,"$11,168,750 ",TEN,Tennessee Titans,AFC South
+2018,Jamie Collins,OLB,"$11,150,000 ",CLE,Cleveland Browns,AFC North
+2018,Delanie Walker,TE,"$11,135,625 ",TEN,Tennessee Titans,AFC South
+2018,Bobby Wagner,ILB,"$11,000,000 ",SEA,Seattle Seahawks,NFC West
+2018,Tyler Lockett,WR,"$11,000,000 ",SEA,Seattle Seahawks,NFC West
+2018,Janoris Jenkins,CB,"$11,000,000 ",NYG,New  York Giants,NFC East
+2018,T.Y. Hilton,WR,"$11,000,000 ",IND,Indianapolis Colts,AFC South
+2018,Stephon Tuitt,DE,"$11,000,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,DeSean Jackson,WR,"$11,000,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,J.J. Watt,DE,"$11,000,000 ",HOU,Houston Texans,AFC South
+2018,Aqib Talib,CB,"$11,000,000 ",LAR,Los Angeles Rams,NFC West
+2018,Andrew Whitworth,LT,"$11,000,000 ",LAR,Los Angeles Rams,NFC West
+2018,Brandin Cooks,WR,"$11,000,000 ",LAR,Los Angeles Rams,NFC West
+2018,Telvin Smith,OLB,"$11,000,000 ",JAC,Jacksonville Jaguars,AFC South
+2018,Jordy Nelson,WR,"$10,968,750 ",OAK,Oakland Raiders,AFC West
+2018,Xavier Rhodes,CB,"$10,937,500 ",MIN,Minnesota Vikings,NFC North
+2018,A.J. Green,WR,"$10,750,000 ",CIN,Cincinnati Bengals,AFC North
+2018,Zach Ertz,TE,"$10,680,000 ",PHI,Philadelphia Eagles,NFC East
+2018,Aaron Colvin,CB,"$10,656,250 ",HOU,Houston Texans,AFC South
+2018,Minkah Fitzpatrick,S,"$10,522,016 ",MIA,Miami Dolphins,AFC East
+2018,Gabe Jackson,G,"$10,500,000 ",OAK,Oakland Raiders,AFC West
+2018,Kelechi Osemele,G,"$10,500,000 ",OAK,Oakland Raiders,AFC West
+2018,Logan Ryan,CB,"$10,500,000 ",TEN,Tennessee Titans,AFC South
+2018,Terron Armstead,LT,"$10,300,000 ",NO,New Orleans Saints,NFC South
+2018,Michael Brockers,DE,"$10,250,000 ",LAR,Los Angeles Rams,NFC West
+2018,Demario Davis,OLB,"$10,200,000 ",NO,New Orleans Saints,NFC South
+2018,Marcell Dareus,DT,"$10,175,000 ",JAC,Jacksonville Jaguars,AFC South
+2018,Benardrick McKinney,ILB,"$10,163,880 ",HOU,Houston Texans,AFC South
+2018,John Sullivan,C,"$10,124,999 ",LAR,Los Angeles Rams,NFC West
+2018,Trent Williams,LT,"$10,053,125 ",WAS,Washington Commanders,NFC East
+2018,Kevin Zeitler,G,"$10,000,000 ",CLE,Cleveland Browns,AFC North
+2018,Alec Ogletree,ILB,"$10,000,000 ",NYG,New  York Giants,NFC East
+2018,Joe Haden,CB,"$10,000,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Everson Griffen,DE,"$10,000,000 ",MIN,Minnesota Vikings,NFC North
+2018,Josh McCown,QB,"$10,000,000 ",NYJ,New York Jets,AFC East
+2018,Travis Frederick,C,"$10,000,000 ",DAL,Dallas Cowboys,NFC East
+2018,Avery Williamson,ILB,"$10,000,000 ",NYJ,New York Jets,AFC East
+2018,Ryan Kalil,C,"$9,750,000 ",CAR,Carolina Panthers,NFC South
+2018,Reshad Jones,SS,"$9,735,000 ",MIA,Miami Dolphins,AFC East
+2018,Donte Moncrief,WR,"$9,600,000 ",JAC,Jacksonville Jaguars,AFC South
+2018,Derek Wolfe,DE,"$9,573,635 ",DEN,Denver Broncos,AFC West
+2018,Lane Johnson,RT,"$9,558,824 ",PHI,Philadelphia Eagles,NFC East
+2018,Cameron Jordan,DE,"$9,550,000 ",NO,New Orleans Saints,NFC South
+2018,Tahir Whitehead,OLB,"$9,500,000 ",OAK,Oakland Raiders,AFC West
+2018,Prince Amukamara,CB,"$9,500,000 ",CHI,Chicago Bears,NFC North
+2018,Vita Vea,DT,"$9,341,264 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Ja'Wuan James,RT,"$9,341,000 ",MIA,Miami Dolphins,AFC East
+2018,Randall Cobb,WR,"$9,281,250 ",GB,Green Bay Packers,NFC North
+2018,Brandon Linder,C,"$9,281,250 ",JAC,Jacksonville Jaguars,AFC South
+2018,Linval Joseph,DT,"$9,250,000 ",MIN,Minnesota Vikings,NFC North
+2018,Ryan Kerrigan,OLB,"$9,250,000 ",WAS,Washington Commanders,NFC East
+2018,Marqise Lee,WR,"$9,250,000 ",JAC,Jacksonville Jaguars,AFC South
+2018,Riley Reiff,LT,"$9,200,000 ",MIN,Minnesota Vikings,NFC North
+2018,Cameron Wake,DE,"$9,125,000 ",MIA,Miami Dolphins,AFC East
+2018,Da'Ron Payne,DT,"$9,046,080 ",WAS,Washington Commanders,NFC East
+2018,Chris Hubbard,RT,"$9,000,000 ",CLE,Cleveland Browns,AFC North
+2018,Robert Alford,CB,"$9,000,000 ",ATL,Atlanta Falcons,NFC South
+2018,Cameron Heyward,DT,"$9,000,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Robert Woods,WR,"$8,990,019 ",LAR,Los Angeles Rams,NFC West
+2018,Rob Gronkowski,TE,"$8,859,375 ",NE,New England Patriots,AFC East
+2018,Richard Sherman,CB,"$8,800,000 ",SF,San Francisco 49ers,NFC West
+2018,Joe Staley,LT,"$8,750,000 ",SF,San Francisco 49ers,NFC West
+2018,Lavonte David,OLB,"$8,750,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Brandon Brooks,G,"$8,750,000 ",PHI,Philadelphia Eagles,NFC East
+2018,Dee Ford,OLB,"$8,718,000 ",KC,Kansas City Chiefs,AFC West
+2018,Deone Bucannon,OLB,"$8,718,000 ",ARI,Arizona Cardinals,NFC West
+2018,Ryan Shazier,ILB,"$8,718,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,C.J. Mosley,ILB,"$8,718,000 ",BAL,Baltimore Ravens,AFC North
+2018,Doug Baldwin,WR,"$8,656,250 ",SEA,Seattle Seahawks,NFC West
+2018,Malcolm Jenkins,FS,"$8,600,000 ",PHI,Philadelphia Eagles,NFC East
+2018,Bradley Roby,CB,"$8,561,717 ",DEN,Denver Broncos,AFC West
+2018,Marcus Davenport,DE,"$8,554,105 ",NO,New Orleans Saints,NFC South
+2018,Jason Verrett,CB,"$8,526,000 ",LAC,Los Angeles Chargers,AFC West
+2018,Jimmie Ward,FS,"$8,526,000 ",SF,San Francisco 49ers,NFC West
+2018,Darqueze Dennard,CB,"$8,526,000 ",CIN,Cincinnati Bengals,AFC North
+2018,Earl Thomas,FS,"$8,500,000 ",SEA,Seattle Seahawks,NFC West
+2018,Alex Mack,C,"$8,500,000 ",ATL,Atlanta Falcons,NFC South
+2018,Taylor Gabriel,WR,"$8,500,000 ",CHI,Chicago Bears,NFC North
+2018,Brandon Williams,DT,"$8,500,000 ",BAL,Baltimore Ravens,AFC North
+2018,Jordan Reed,TE,"$8,453,125 ",WAS,Washington Commanders,NFC East
+2018,Rodney Hudson,C,"$8,450,000 ",OAK,Oakland Raiders,AFC West
+2018,Trent Murphy,DE,"$8,381,250 ",BUF,Buffalo Bills,AFC East
+2018,Kolton Miller,LT,"$8,357,326 ",OAK,Oakland Raiders,AFC West
+2018,Emmanuel Sanders,WR,"$8,269,752 ",DEN,Denver Broncos,AFC West
+2018,Justin Britt,C,"$8,250,000 ",SEA,Seattle Seahawks,NFC West
+2018,Dre Kirkpatrick,CB,"$8,153,125 ",CIN,Cincinnati Bengals,AFC North
+2018,Luke Kuechly,ILB,"$8,100,059 ",CAR,Carolina Panthers,NFC South
+2018,Akiem Hicks,DE,"$8,100,000 ",CHI,Chicago Bears,NFC North
+2018,T.J. Lang,G,"$8,093,750 ",DET,Detroit Lions,NFC North
+2018,Travis Kelce,TE,"$8,050,000 ",KC,Kansas City Chiefs,AFC West
+2018,Graham Gano,K,"$8,050,000 ",CAR,Carolina Panthers,NFC South
+2018,Chris Harris,CB,"$8,022,948 ",DEN,Denver Broncos,AFC West
+2018,Andre Branch,DE,"$8,000,000 ",MIA,Miami Dolphins,AFC East
+2018,Kenny Stills,WR,"$8,000,000 ",MIA,Miami Dolphins,AFC East
+2018,Travis Carrie,CB,"$8,000,000 ",CLE,Cleveland Browns,AFC North
+2018,DaQuan Jones,DE,"$8,000,000 ",TEN,Tennessee Titans,AFC South
+2018,Anthony Castonzo,LT,"$8,000,000 ",IND,Indianapolis Colts,AFC South
+2018,Mike Pouncey,C,"$8,000,000 ",LAC,Los Angeles Chargers,AFC West
+2018,Harrison Smith,FS,"$8,000,000 ",MIN,Minnesota Vikings,NFC North
+2018,Kelvin Beachum,LT,"$8,000,000 ",NYJ,New York Jets,AFC East
+2018,Sheldon Richardson,DT,"$8,000,000 ",MIN,Minnesota Vikings,NFC North
+2018,Brent Grimes,CB,"$8,000,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Chris Boswell,K,"$8,000,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Mark Barron,ILB,"$8,000,000 ",LAR,Los Angeles Rams,NFC West
+2018,Devin McCourty,FS,"$8,000,000 ",NE,New England Patriots,AFC East
+2018,Michael Crabtree,WR,"$8,000,000 ",BAL,Baltimore Ravens,AFC North
+2018,Kiko Alonso,OLB,"$7,900,000 ",MIA,Miami Dolphins,AFC East
+2018,Alshon Jeffery,WR,"$7,900,000 ",PHI,Philadelphia Eagles,NFC East
+2018,David Bakhtiari,LT,"$7,875,000 ",GB,Green Bay Packers,NFC North
+2018,Ron Leary,G,"$7,858,173 ",DEN,Denver Broncos,AFC West
+2018,Devon Kennard,OLB,"$7,850,000 ",DET,Detroit Lions,NFC North
+2018,Tremaine Edmunds,ILB,"$7,766,941 ",BUF,Buffalo Bills,AFC East
+2018,Brian Orakpo,OLB,"$7,750,000 ",TEN,Tennessee Titans,AFC South
+2018,Keenan Allen,WR,"$7,750,000 ",LAC,Los Angeles Chargers,AFC West
+2018,David DeCastro,G,"$7,580,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Derwin James,S,"$7,570,150 ",LAC,Los Angeles Chargers,AFC West
+2018,Albert Wilson,WR,"$7,500,000 ",MIA,Miami Dolphins,AFC East
+2018,Jabaal Sheard,DE,"$7,500,000 ",IND,Indianapolis Colts,AFC South
+2018,Jerry Hughes,DE,"$7,500,000 ",BUF,Buffalo Bills,AFC East
+2018,Vince Williams,ILB,"$7,500,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Eric Weddle,FS,"$7,500,000 ",BAL,Baltimore Ravens,AFC North
+2018,Jimmy Smith,CB,"$7,494,118 ",BAL,Baltimore Ravens,AFC North
+2018,Ricardo Allen,FS,"$7,414,000 ",ATL,Atlanta Falcons,NFC South
+2018,Kyle Long,G,"$7,348,158 ",CHI,Chicago Bears,NFC North
+2018,Jaire Alexander,CB,"$7,324,166 ",GB,Green Bay Packers,NFC North
+2018,Mike Daniels,DE,"$7,312,500 ",GB,Green Bay Packers,NFC North
+2018,Josh Kline,G,"$7,250,000 ",TEN,Tennessee Titans,AFC South
+2018,D.J. Hayden,CB,"$7,250,000 ",JAC,Jacksonville Jaguars,AFC South
+2018,K.J. Wright,OLB,"$7,200,000 ",SEA,Seattle Seahawks,NFC West
+2018,Dont'a Hightower,ILB,"$7,195,305 ",NE,New England Patriots,AFC East
+2018,Leighton Vander Esch,LB,"$7,176,568 ",DAL,Dallas Cowboys,NFC East
+2018,Frank Ragnow,G,"$7,127,375 ",DET,Detroit Lions,NFC North
+2018,Billy Price,C,"$7,078,175 ",CIN,Cincinnati Bengals,AFC North
+2018,Maurkice Pouncey,C,"$7,000,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Brian Winters,G,"$7,000,000 ",NYJ,New York Jets,AFC East
+2018,Marvin Jones,WR,"$7,000,000 ",DET,Detroit Lions,NFC North
+2018,Sean Lee,OLB,"$7,000,000 ",DAL,Dallas Cowboys,NFC East
+2018,Cameron Brate,TE,"$7,000,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Tyrann Mathieu,FS,"$7,000,000 ",HOU,Houston Texans,AFC South
+2018,Jason Peters,LT,"$7,000,000 ",PHI,Philadelphia Eagles,NFC East
+2018,Brandon Graham,DE,"$7,000,000 ",PHI,Philadelphia Eagles,NFC East
+2018,Mario Addison,DE,"$7,000,000 ",CAR,Carolina Panthers,NFC South
+2018,Marshal Yanda,G,"$7,000,000 ",BAL,Baltimore Ravens,AFC North
+2018,Morris Claiborne,CB,"$6,990,625 ",NYJ,New York Jets,AFC East
+2018,Rashaan Evans,LB,"$6,979,777 ",TEN,Tennessee Titans,AFC South
+2018,Davante Adams,WR,"$6,968,750 ",GB,Green Bay Packers,NFC North
+2018,Rodger Saffold,G,"$6,950,000 ",LAR,Los Angeles Rams,NFC West
+2018,Nick Perry,OLB,"$6,937,500 ",GB,Green Bay Packers,NFC North
+2018,Spencer Long,C,"$6,937,500 ",NYJ,New York Jets,AFC East
+2018,Jared Veldheer,RT,"$6,909,066 ",DEN,Denver Broncos,AFC West
+2018,Derrick Morgan,OLB,"$6,906,250 ",TEN,Tennessee Titans,AFC South
+2018,Zach Fulton,G,"$6,906,250 ",HOU,Houston Texans,AFC South
+2018,Larry Warford,G,"$6,900,000 ",NO,New Orleans Saints,NFC South
+2018,Marquise Goodwin,WR,"$6,900,000 ",SF,San Francisco 49ers,NFC West
+2018,Isaiah Wynn,T,"$6,881,384 ",NE,New England Patriots,AFC East
+2018,Denico Autry,DT,"$6,875,000 ",IND,Indianapolis Colts,AFC South
+2018,Pierre Garcon,WR,"$6,850,000 ",SF,San Francisco 49ers,NFC West
+2018,Kam Chancellor,SS,"$6,800,000 ",SEA,Seattle Seahawks,NFC West
+2018,Eric Ebron,TE,"$6,750,000 ",IND,Indianapolis Colts,AFC South
+2018,Kareem Jackson,SS,"$6,750,000 ",HOU,Houston Texans,AFC South
+2018,D.J. Moore,WR,"$6,684,593 ",CAR,Carolina Panthers,NFC South
+2018,Bryan Bulaga,RT,"$6,668,750 ",GB,Green Bay Packers,NFC North
+2018,Laken Tomlinson,G,"$6,600,941 ",SF,San Francisco 49ers,NFC West
+2018,Mitchell Trubisky,QB,"$6,597,656 ",CHI,Chicago Bears,NFC North
+2018,Hayden Hurst,TE,"$6,586,201 ",BAL,Baltimore Ravens,AFC North
+2018,Josh Sitton,G,"$6,500,000 ",MIA,Miami Dolphins,AFC East
+2018,Vinny Curry,DE,"$6,500,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,William Gholston,DE,"$6,500,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Calvin Ridley,WR,"$6,487,790 ",ATL,Atlanta Falcons,NFC South
+2018,Vontaze Burfict,OLB,"$6,397,904 ",CIN,Cincinnati Bengals,AFC North
+2018,Rashaad Penny,RB,"$6,389,409 ",SEA,Seattle Seahawks,NFC West
+2018,Kyle Rudolph,TE,"$6,375,000 ",MIN,Minnesota Vikings,NFC North
+2018,Terrell Edmunds,SS,"$6,340,210 ",PIT,Pittsburgh Steelers,AFC North
+2018,LeSean McCoy,RB,"$6,325,000 ",BUF,Buffalo Bills,AFC East
+2018,Mitchell Schwartz,RT,"$6,300,000 ",KC,Kansas City Chiefs,AFC West
+2018,Kurt Coleman,SS,"$6,300,000 ",NO,New Orleans Saints,NFC South
+2018,Max Unger,C,"$6,250,000 ",NO,New Orleans Saints,NFC South
+2018,Tashaun Gipson,FS,"$6,250,000 ",JAC,Jacksonville Jaguars,AFC South
+2018,Mohamed Sanu,WR,"$6,125,000 ",ATL,Atlanta Falcons,NFC South
+2018,Todd Davis,ILB,"$6,074,262 ",DEN,Denver Broncos,AFC West
+2018,Bradley McDougald,SS,"$6,000,000 ",SEA,Seattle Seahawks,NFC West
+2018,Joel Bitonio,G,"$6,000,000 ",CLE,Cleveland Browns,AFC North
+2018,Dion Lewis,RB,"$6,000,000 ",TEN,Tennessee Titans,AFC South
+2018,Danny Amendola,WR,"$6,000,000 ",MIA,Miami Dolphins,AFC East
+2018,Allen Bailey,DE,"$6,000,000 ",KC,Kansas City Chiefs,AFC West
+2018,Dion Sims,TE,"$6,000,000 ",CHI,Chicago Bears,NFC North
+2018,Buster Skrine,CB,"$6,000,000 ",NYJ,New York Jets,AFC East
+2018,Tyrone Crawford,DE,"$6,000,000 ",DAL,Dallas Cowboys,NFC East
+2018,Alejandro Villanueva,LT,"$6,000,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Allen Hurns,WR,"$6,000,000 ",DAL,Dallas Cowboys,NFC East
+2018,Patrick Robinson,CB,"$6,000,000 ",NO,New Orleans Saints,NFC South
+2018,Rodney McLeod,SS,"$6,000,000 ",PHI,Philadelphia Eagles,NFC East
+2018,Jason Kelce,C,"$6,000,000 ",PHI,Philadelphia Eagles,NFC East
+2018,Brandon Carr,CB,"$6,000,000 ",BAL,Baltimore Ravens,AFC North
+2018,Tony Jefferson,SS,"$6,000,000 ",BAL,Baltimore Ravens,AFC North
+2018,Duke Johnson,RB,"$5,967,000 ",CLE,Cleveland Browns,AFC North
+2018,Zach Brown,ILB,"$5,953,125 ",WAS,Washington Commanders,NFC East
+2018,Thomas Morstead,P,"$5,950,000 ",NO,New Orleans Saints,NFC South
+2018,Taven Bryan,DT,"$5,945,424 ",JAC,Jacksonville Jaguars,AFC South
+2018,Nigel Bradham,OLB,"$5,941,176 ",PHI,Philadelphia Eagles,NFC East
+2018,Adrian Clayborn,DE,"$5,937,500 ",NE,New England Patriots,AFC East
+2018,Danny Trevathan,ILB,"$5,900,000 ",CHI,Chicago Bears,NFC North
+2018,Kareem Martin,OLB,"$5,850,000 ",NYG,New  York Giants,NFC East
+2018,John Cyprien,SS,"$5,812,500 ",TEN,Tennessee Titans,AFC South
+2018,Ryan Succop,K,"$5,750,000 ",TEN,Tennessee Titans,AFC South
+2018,Travis Benjamin,WR,"$5,750,000 ",LAC,Los Angeles Chargers,AFC West
+2018,Mike Hughes,CB,"$5,736,352 ",MIN,Minnesota Vikings,NFC North
+2018,James Hurst,RT,"$5,705,882 ",BAL,Baltimore Ravens,AFC North
+2018,Lamar Miller,RB,"$5,703,125 ",HOU,Houston Texans,AFC South
+2018,Jared Cook,TE,"$5,675,000 ",OAK,Oakland Raiders,AFC West
+2018,Michael Bennett,DE,"$5,650,000 ",PHI,Philadelphia Eagles,NFC East
+2018,Jaquiski Tartt,SS,"$5,621,865 ",SF,San Francisco 49ers,NFC West
+2018,Sony Michel,RB,"$5,561,233 ",NE,New England Patriots,AFC East
+2018,Jermaine Kearse,WR,"$5,550,000 ",NYJ,New York Jets,AFC East
+2018,Kyle Williams,DT,"$5,500,000 ",BUF,Buffalo Bills,AFC East
+2018,Cody Parkey,K,"$5,500,000 ",CHI,Chicago Bears,NFC North
+2018,Quandre Diggs,SS,"$5,500,000 ",DET,Detroit Lions,NFC North
+2018,Senio Kelemete,G,"$5,500,000 ",HOU,Houston Texans,AFC South
+2018,Johnathan Joseph,CB,"$5,487,500 ",HOU,Houston Texans,AFC South
+2018,Jermaine Gresham,TE,"$5,468,750 ",ARI,Arizona Cardinals,NFC West
+2018,Lamar Jackson,QB,"$5,448,471 ",BAL,Baltimore Ravens,AFC North
+2018,Rashaan Melvin,CB,"$5,437,500 ",OAK,Oakland Raiders,AFC West
+2018,Patrick Chung,SS,"$5,400,000 ",NE,New England Patriots,AFC East
+2018,Adam Thielen,WR,"$5,350,000 ",MIN,Minnesota Vikings,NFC North
+2018,Jack Doyle,TE,"$5,337,500 ",IND,Indianapolis Colts,AFC South
+2018,J.C. Tretter,C,"$5,250,000 ",CLE,Cleveland Browns,AFC North
+2018,Tramon Williams,CB,"$5,250,000 ",GB,Green Bay Packers,NFC North
+2018,Whitney Mercilus,OLB,"$5,250,000 ",HOU,Houston Texans,AFC South
+2018,Morgan Burnett,SS,"$5,250,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Nickell Robey-Coleman,CB,"$5,250,000 ",LAR,Los Angeles Rams,NFC West
+2018,Ryan Schraeder,RT,"$5,200,000 ",ATL,Atlanta Falcons,NFC South
+2018,Micah Hyde,SS,"$5,200,000 ",BUF,Buffalo Bills,AFC East
+2018,Nevin Lawson,CB,"$5,050,000 ",DET,Detroit Lions,NFC North
+2018,Brandon Marshall,ILB,"$5,021,887 ",DEN,Denver Broncos,AFC West
+2018,Christian Kirksey,OLB,"$5,000,000 ",CLE,Cleveland Browns,AFC North
+2018,Darren Fells,TE,"$5,000,000 ",CLE,Cleveland Browns,AFC North
+2018,Chris Smith,DE,"$5,000,000 ",CLE,Cleveland Browns,AFC North
+2018,Daniel Kilgore,C,"$5,000,000 ",MIA,Miami Dolphins,AFC East
+2018,Ryan Grant,WR,"$5,000,000 ",IND,Indianapolis Colts,AFC South
+2018,Cameron Erving,G,"$5,000,000 ",KC,Kansas City Chiefs,AFC West
+2018,Charles Leno,LT,"$5,000,000 ",CHI,Chicago Bears,NFC North
+2018,Jahleel Addae,SS,"$5,000,000 ",LAC,Los Angeles Chargers,AFC West
+2018,Mike Iupati,G,"$5,000,000 ",ARI,Arizona Cardinals,NFC West
+2018,Beau Allen,DT,"$5,000,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Preston Brown,ILB,"$5,000,000 ",CIN,Cincinnati Bengals,AFC North
+2018,Teddy Bridgewater,QB,"$5,000,000 ",NO,New Orleans Saints,NFC South
+2018,Mike Glennon,QB,"$5,000,000 ",ARI,Arizona Cardinals,NFC West
+2018,Julius Peppers,DE,"$5,000,000 ",CAR,Carolina Panthers,NFC South
+2018,Torrey Smith,WR,"$5,000,000 ",CAR,Carolina Panthers,NFC South
+2018,John Brown,WR,"$5,000,000 ",BAL,Baltimore Ravens,AFC North
+2018,Jermey Parnell,RT,"$5,000,000 ",JAC,Jacksonville Jaguars,AFC South
+2018,Rob Havenstein,RT,"$4,976,367 ",LAR,Los Angeles Rams,NFC West
+2018,Clint Boling,G,"$4,950,000 ",CIN,Cincinnati Bengals,AFC North
+2018,Glover Quin,FS,"$4,850,000 ",DET,Detroit Lions,NFC North
+2018,Demar Dotson,RT,"$4,803,125 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Tyler Eifert,TE,"$4,750,000 ",CIN,Cincinnati Bengals,AFC North
+2018,Michael Johnson,DE,"$4,737,500 ",CIN,Cincinnati Bengals,AFC North
+2018,Trai Turner,G,"$4,703,000 ",CAR,Carolina Panthers,NFC South
+2018,James Carpenter,G,"$4,606,250 ",NYJ,New York Jets,AFC East
+2018,Bobby Massie,RT,"$4,600,000 ",CHI,Chicago Bears,NFC North
+2018,Latavius Murray,RB,"$4,600,000 ",MIN,Minnesota Vikings,NFC North
+2018,Damon Harrison,DT,"$4,558,823 ",DET,Detroit Lions,NFC North
+2018,Marcus Cannon,RT,"$4,556,250 ",NE,New England Patriots,AFC East
+2018,Vance McDonald,TE,"$4,553,125 ",PIT,Pittsburgh Steelers,AFC North
+2018,Darian Stewart,SS,"$4,548,488 ",DEN,Denver Broncos,AFC West
+2018,Muhammad Wilkerson,DE,"$4,512,500 ",GB,Green Bay Packers,NFC North
+2018,Demaryius Thomas,WR,"$4,508,539 ",HOU,Houston Texans,AFC South
+2018,Marcus Gilchrist,FS,"$4,500,000 ",OAK,Oakland Raiders,AFC West
+2018,Ben Jones,C,"$4,500,000 ",TEN,Tennessee Titans,AFC South
+2018,Charles Clay,TE,"$4,500,000 ",BUF,Buffalo Bills,AFC East
+2018,Brandon Fusco,G,"$4,500,000 ",ATL,Atlanta Falcons,NFC South
+2018,Brandon Mebane,DT,"$4,500,000 ",LAC,Los Angeles Chargers,AFC West
+2018,Antoine Bethea,FS,"$4,500,000 ",ARI,Arizona Cardinals,NFC West
+2018,La'el Collins,RT,"$4,500,000 ",DAL,Dallas Cowboys,NFC East
+2018,Mike Pennel,DE,"$4,500,000 ",NYJ,New York Jets,AFC East
+2018,Seth Roberts,WR,"$4,450,000 ",OAK,Oakland Raiders,AFC West
+2018,Cameron Meredith,WR,"$4,450,000 ",NO,New Orleans Saints,NFC South
+2018,Austin Seferian-Jenkins,TE,"$4,406,250 ",JAC,Jacksonville Jaguars,AFC South
+2018,Bobby McCain,CB,"$4,405,000 ",MIA,Miami Dolphins,AFC East
+2018,Donald Penn,RT,"$4,350,000 ",OAK,Oakland Raiders,AFC West
+2018,Lee Smith,TE,"$4,350,000 ",OAK,Oakland Raiders,AFC West
+2018,Brandon McManus,K,"$4,262,546 ",DEN,Denver Broncos,AFC West
+2018,Rex Burkhead,RB,"$4,250,000 ",NE,New England Patriots,AFC East
+2018,Wesley Woodyard,ILB,"$4,250,000 ",TEN,Tennessee Titans,AFC South
+2018,Justin Ellis,DT,"$4,250,000 ",OAK,Oakland Raiders,AFC West
+2018,Daniel Sorensen,FS,"$4,243,750 ",KC,Kansas City Chiefs,AFC West
+2018,A.J. Klein,OLB,"$4,200,000 ",NO,New Orleans Saints,NFC South
+2018,Chad Henne,QB,"$4,150,000 ",KC,Kansas City Chiefs,AFC West
+2018,Marcus Gilbert,RT,"$4,100,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Austin Corbett,G,"$4,064,000 ",CLE,Cleveland Browns,AFC North
+2018,William Hayes,DE,"$4,050,000 ",MIA,Miami Dolphins,AFC East
+2018,Marshawn Lynch,RB,"$4,031,250 ",OAK,Oakland Raiders,AFC West
+2018,Tavon Wilson,SS,"$4,003,125 ",DET,Detroit Lions,NFC North
+2018,Bennie Logan,DT,"$4,000,000 ",TEN,Tennessee Titans,AFC South
+2018,Mason Crosby,K,"$4,000,000 ",GB,Green Bay Packers,NFC North
+2018,Chase Daniel,QB,"$4,000,000 ",CHI,Chicago Bears,NFC North
+2018,Mike Remmers,G,"$4,000,000 ",MIN,Minnesota Vikings,NFC North
+2018,Bilal Powell,RB,"$4,000,000 ",NYJ,New York Jets,AFC East
+2018,Isaiah Crowell,RB,"$4,000,000 ",NYJ,New York Jets,AFC East
+2018,Terrell Suggs,OLB,"$4,000,000 ",BAL,Baltimore Ravens,AFC North
+2018,Will Hernandez,G,"$3,978,723 ",NYG,New  York Giants,NFC East
+2018,Vernon Davis,TE,"$3,968,750 ",WAS,Washington Commanders,NFC East
+2018,Nick Chubb,RB,"$3,929,524 ",CLE,Cleveland Browns,AFC North
+2018,Greg Mancz,C,"$3,907,000 ",HOU,Houston Texans,AFC South
+2018,Aaron Lynch,DE,"$3,906,250 ",CHI,Chicago Bears,NFC North
+2018,Dwayne Allen,TE,"$3,880,000 ",NE,New England Patriots,AFC East
+2018,Stacy McGee,DT,"$3,875,000 ",WAS,Washington Commanders,NFC East
+2018,Shaquille Leonard,OLB,"$3,831,131 ",IND,Indianapolis Colts,AFC South
+2018,Thomas Davis,OLB,"$3,801,471 ",CAR,Carolina Panthers,NFC South
+2018,Terrance Mitchell,CB,"$3,800,000 ",CLE,Cleveland Browns,AFC North
+2018,Ross Cockrell,CB,"$3,800,000 ",CAR,Carolina Panthers,NFC South
+2018,Braden Smith,G,"$3,791,774 ",IND,Indianapolis Colts,AFC South
+2018,Jameis Winston,QB,"$3,767,580 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Shawn Williams,SS,"$3,750,000 ",CIN,Cincinnati Bengals,AFC North
+2018,Domata Peko,DT,"$3,746,505 ",DEN,Denver Broncos,AFC West
+2018,Marcus Mariota,QB,"$3,736,905 ",TEN,Tennessee Titans,AFC South
+2018,Golden Tate,WR,"$3,705,882 ",PHI,Philadelphia Eagles,NFC East
+2018,Ronald Jones II,RB,"$3,703,206 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Courtland Sutton,WR,"$3,664,802 ",DEN,Denver Broncos,AFC West
+2018,Mark Ingram,RB,"$3,658,824 ",NO,New Orleans Saints,NFC South
+2018,Barkevious Mingo,OLB,"$3,650,000 ",SEA,Seattle Seahawks,NFC West
+2018,Alex Okafor,DE,"$3,650,000 ",NO,New Orleans Saints,NFC South
+2018,Adam Vinatieri,K,"$3,625,000 ",IND,Indianapolis Colts,AFC South
+2018,Andy Levitre,G,"$3,625,000 ",ATL,Atlanta Falcons,NFC South
+2018,James Daniels,C,"$3,614,662 ",CHI,Chicago Bears,NFC North
+2018,Ed Dickson,TE,"$3,600,000 ",SEA,Seattle Seahawks,NFC West
+2018,Chris Hogan,WR,"$3,500,000 ",NE,New England Patriots,AFC East
+2018,Matt Bryant,K,"$3,500,000 ",ATL,Atlanta Falcons,NFC South
+2018,Ted Ginn Jr.,WR,"$3,500,000 ",NO,New Orleans Saints,NFC South
+2018,Cassius Marsh,OLB,"$3,500,000 ",SF,San Francisco 49ers,NFC West
+2018,Morgan Moses,RT,"$3,500,000 ",WAS,Washington Commanders,NFC East
+2018,Andrew Sendejo,SS,"$3,500,000 ",MIN,Minnesota Vikings,NFC North
+2018,Andre Hal,FS,"$3,500,000 ",HOU,Houston Texans,AFC South
+2018,Johnson Bademosi,CB,"$3,500,000 ",HOU,Houston Texans,AFC South
+2018,Abry Jones,DT,"$3,500,000 ",JAC,Jacksonville Jaguars,AFC South
+2018,Stephen Gostkowski,K,"$3,500,000 ",NE,New England Patriots,AFC East
+2018,Harold Landry,LB,"$3,457,228 ",TEN,Tennessee Titans,AFC South
+2018,Giovani Bernard,RB,"$3,450,000 ",CIN,Cincinnati Bengals,AFC North
+2018,Virgil Green,TE,"$3,400,000 ",LAC,Los Angeles Chargers,AFC West
+2018,Jason McCourty,CB,"$3,382,000 ",NE,New England Patriots,AFC East
+2018,Jonathan Stewart,RB,"$3,375,000 ",NYG,New  York Giants,NFC East
+2018,Steve McLendon,DT,"$3,375,000 ",NYJ,New York Jets,AFC East
+2018,Mike Gesicki,TE,"$3,368,672 ",MIA,Miami Dolphins,AFC East
+2018,Laurent Duvernay-Tardif,G,"$3,360,000 ",KC,Kansas City Chiefs,AFC West
+2018,Christian Jones,OLB,"$3,350,000 ",DET,Detroit Lions,NFC North
+2018,Brandon Scherff,G,"$3,328,041 ",WAS,Washington Commanders,NFC East
+2018,Ryan Fitzpatrick,QB,"$3,300,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Greg Zuerlein,K,"$3,300,000 ",LAR,Los Angeles Rams,NFC West
+2018,Kerryon Johnson,RB,"$3,276,186 ",DET,Detroit Lions,NFC North
+2018,Malcolm Smith,ILB,"$3,268,750 ",SF,San Francisco 49ers,NFC West
+2018,Drew Stanton,QB,"$3,265,625 ",CLE,Cleveland Browns,AFC North
+2018,Cordarrelle Patterson,WR,"$3,250,000 ",NE,New England Patriots,AFC East
+2018,Matt Schaub,QB,"$3,250,000 ",ATL,Atlanta Falcons,NFC South
+2018,Kyle Juszczyk,FB,"$3,250,000 ",SF,San Francisco 49ers,NFC West
+2018,Cole Beasley,WR,"$3,250,000 ",DAL,Dallas Cowboys,NFC East
+2018,Cody Davis,FS,"$3,250,000 ",JAC,Jacksonville Jaguars,AFC South
+2018,Corey Liuget,DT,"$3,227,500 ",LAC,Los Angeles Chargers,AFC West
+2018,Dante Pettis,WR,"$3,214,951 ",SF,San Francisco 49ers,NFC West
+2018,Darius Slay,CB,"$3,210,644 ",DET,Detroit Lions,NFC North
+2018,Lerentee McCray,OLB,"$3,203,125 ",JAC,Jacksonville Jaguars,AFC South
+2018,Theo Riddick,RB,"$3,162,500 ",DET,Detroit Lions,NFC North
+2018,Chris Ivory,RB,"$3,156,250 ",BUF,Buffalo Bills,AFC East
+2018,HaHa Clinton-Dix,FS,"$3,153,705 ",WAS,Washington Commanders,NFC East
+2018,Josh Jackson,CB,"$3,109,892 ",GB,Green Bay Packers,NFC North
+2018,Jarius Wright,WR,"$3,100,000 ",CAR,Carolina Panthers,NFC South
+2018,Brock Coyle,OLB,"$3,075,000 ",SF,San Francisco 49ers,NFC West
+2018,Tramaine Brock,CB,"$3,055,693 ",DEN,Denver Broncos,AFC West
+2018,Lorenzo Alexander,OLB,"$3,050,000 ",BUF,Buffalo Bills,AFC East
+2018,Earl Mitchell,DT,"$3,006,250 ",SF,San Francisco 49ers,NFC West
+2018,Chris Long,DE,"$3,000,000 ",PHI,Philadelphia Eagles,NFC East
+2018,Lawrence Guy,DT,"$3,000,000 ",NE,New England Patriots,AFC East
+2018,Brett Kern,P,"$3,000,000 ",TEN,Tennessee Titans,AFC South
+2018,Xavier Williams,DT,"$3,000,000 ",KC,Kansas City Chiefs,AFC West
+2018,Jordan Poyer,FS,"$3,000,000 ",BUF,Buffalo Bills,AFC East
+2018,Brooks Reed,DE,"$3,000,000 ",ATL,Atlanta Falcons,NFC South
+2018,Sam Acho,OLB,"$3,000,000 ",CHI,Chicago Bears,NFC North
+2018,Dustin Colquitt,P,"$3,000,000 ",KC,Kansas City Chiefs,AFC West
+2018,Ricky Wagner,RT,"$3,000,000 ",DET,Detroit Lions,NFC North
+2018,Phil Dawson,K,"$3,000,000 ",ARI,Arizona Cardinals,NFC West
+2018,Tyson Alualu,DE,"$3,000,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Mitch Unrein,DE,"$3,000,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Bryan Anger,P,"$3,000,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Christopher Conte,SS,"$3,000,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Kevin Huber,P,"$3,000,000 ",CIN,Cincinnati Bengals,AFC North
+2018,Quinton Dunbar,CB,"$3,000,000 ",WAS,Washington Commanders,NFC East
+2018,Johnny Hekker,P,"$3,000,000 ",LAR,Los Angeles Rams,NFC West
+2018,Timmy Jernigan,DT,"$3,000,000 ",PHI,Philadelphia Eagles,NFC East
+2018,Mike Wallace,WR,"$3,000,000 ",PHI,Philadelphia Eagles,NFC East
+2018,Willie Snead,WR,"$3,000,000 ",BAL,Baltimore Ravens,AFC North
+2018,Jared Goff,QB,"$2,989,788 ",LAR,Los Angeles Rams,NFC West
+2018,Matt Paradis,C,"$2,981,901 ",DEN,Denver Broncos,AFC West
+2018,Leonard Williams,DE,"$2,975,572 ",NYJ,New York Jets,AFC East
+2018,Shaquil Barrett,OLB,"$2,973,016 ",DEN,Denver Broncos,AFC West
+2018,Colt McCoy,QB,"$2,956,860 ",WAS,Washington Commanders,NFC East
+2018,Justin Tucker,K,"$2,950,000 ",BAL,Baltimore Ravens,AFC North
+2018,Ali Marpet,G,"$2,949,581 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Haloti Ngata,DT,"$2,925,000 ",PHI,Philadelphia Eagles,NFC East
+2018,Akeem Spence,DT,"$2,925,000 ",MIA,Miami Dolphins,AFC East
+2018,Justin Coleman,CB,"$2,914,000 ",SEA,Seattle Seahawks,NFC West
+2018,Ben Garland,G,"$2,914,000 ",ATL,Atlanta Falcons,NFC South
+2018,Tyrell Williams,WR,"$2,914,000 ",LAC,Los Angeles Chargers,AFC West
+2018,Adam Humphries,WR,"$2,914,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Nick Easton,C,"$2,914,000 ",MIN,Minnesota Vikings,NFC North
+2018,Ty Nsekhe,LT,"$2,914,000 ",WAS,Washington Commanders,NFC East
+2018,Brett Jones,C,"$2,914,000 ",MIN,Minnesota Vikings,NFC North
+2018,Quincy Enunwa,WR,"$2,914,000 ",NYJ,New York Jets,AFC East
+2018,Corey Grant,RB,"$2,914,000 ",JAC,Jacksonville Jaguars,AFC South
+2018,Breeland Speaks,LB,"$2,893,044 ",KC,Kansas City Chiefs,AFC West
+2018,Terrance Williams,WR,"$2,882,352 ",DAL,Dallas Cowboys,NFC East
+2018,Carson Wentz,QB,"$2,875,122 ",PHI,Philadelphia Eagles,NFC East
+2018,Corey Linsley,C,"$2,850,000 ",GB,Green Bay Packers,NFC North
+2018,Christian Kirk,WR,"$2,847,176 ",ARI,Arizona Cardinals,NFC West
+2018,Lane Taylor,G,"$2,818,750 ",GB,Green Bay Packers,NFC North
+2018,Joey Bosa,DE,"$2,802,153 ",LAC,Los Angeles Chargers,AFC West
+2018,Kevin Pierre-Louis,OLB,"$2,786,764 ",NYJ,New York Jets,AFC East
+2018,Nate Ebner,FS,"$2,775,000 ",NE,New England Patriots,AFC East
+2018,Jaron Brown,WR,"$2,750,000 ",SEA,Seattle Seahawks,NFC West
+2018,Vincent Rey,ILB,"$2,750,000 ",CIN,Cincinnati Bengals,AFC North
+2018,Roosevelt Nix,FB,"$2,750,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Sam Koch,P,"$2,750,000 ",BAL,Baltimore Ravens,AFC North
+2018,Stefen Wisniewski,G,"$2,750,000 ",PHI,Philadelphia Eagles,NFC East
+2018,Uchenna Nwosu,LB,"$2,748,783 ",LAC,Los Angeles Chargers,AFC West
+2018,Damien Williams,RB,"$2,740,000 ",KC,Kansas City Chiefs,AFC West
+2018,Michael Palardy,P,"$2,730,000 ",CAR,Carolina Panthers,NFC South
+2018,Ezekiel Elliott,RB,"$2,718,758 ",DAL,Dallas Cowboys,NFC East
+2018,Garry Gilliam,RT,"$2,700,000 ",SF,San Francisco 49ers,NFC West
+2018,Kevin White,WR,"$2,693,597 ",CHI,Chicago Bears,NFC North
+2018,Ryan Griffin,TE,"$2,687,500 ",HOU,Houston Texans,AFC South
+2018,Ramon Foster,G,"$2,675,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Dallas Goedert,TE,"$2,650,379 ",PHI,Philadelphia Eagles,NFC East
+2018,Seantrel Henderson,RT,"$2,593,750 ",HOU,Houston Texans,AFC South
+2018,Shamar Stephen,DT,"$2,581,250 ",SEA,Seattle Seahawks,NFC West
+2018,Jalen Ramsey,CB,"$2,572,818 ",JAC,Jacksonville Jaguars,AFC South
+2018,Russell Bodine,C,"$2,556,244 ",BUF,Buffalo Bills,AFC East
+2018,Connor Williams,G,"$2,551,992 ",DAL,Dallas Cowboys,NFC East
+2018,Britton Colquitt,P,"$2,550,000 ",CLE,Cleveland Browns,AFC North
+2018,Matthew Slater,WR,"$2,525,000 ",NE,New England Patriots,AFC East
+2018,Jack Crawford,DT,"$2,525,000 ",ATL,Atlanta Falcons,NFC South
+2018,Kyle Van Noy,ILB,"$2,500,000 ",NE,New England Patriots,AFC East
+2018,Blaine Gabbert,QB,"$2,500,000 ",TEN,Tennessee Titans,AFC South
+2018,Rhett Ellison,TE,"$2,500,000 ",NYG,New  York Giants,NFC East
+2018,Al Woods,DT,"$2,500,000 ",IND,Indianapolis Colts,AFC South
+2018,Cody Latimer,WR,"$2,500,000 ",NYG,New  York Giants,NFC East
+2018,Ryan Groy,G,"$2,500,000 ",BUF,Buffalo Bills,AFC East
+2018,Antonio Gates,TE,"$2,500,000 ",LAC,Los Angeles Chargers,AFC West
+2018,Michael Schofield,G,"$2,500,000 ",LAC,Los Angeles Chargers,AFC West
+2018,Luke Willson,TE,"$2,500,000 ",DET,Detroit Lions,NFC North
+2018,Manti Te'o,ILB,"$2,500,000 ",NO,New Orleans Saints,NFC South
+2018,Captain Munnerlyn,CB,"$2,500,000 ",CAR,Carolina Panthers,NFC South
+2018,Tre Boston,FS,"$2,475,000 ",ARI,Arizona Cardinals,NFC West
+2018,Margus Hunt,DE,"$2,468,750 ",IND,Indianapolis Colts,AFC South
+2018,Anthony Miller,WR,"$2,453,600 ",CHI,Chicago Bears,NFC North
+2018,Da'Norris Searcy,SS,"$2,450,000 ",CAR,Carolina Panthers,NFC South
+2018,Cameron Fleming,T,"$2,437,500 ",DAL,Dallas Cowboys,NFC East
+2018,Sam Martin,P,"$2,425,000 ",DET,Detroit Lions,NFC North
+2018,Reggie Nelson,FS,"$2,421,875 ",OAK,Oakland Raiders,AFC West
+2018,Vic Beasley,DE,"$2,411,622 ",ATL,Atlanta Falcons,NFC South
+2018,Julian Edelman,WR,"$2,404,412 ",NE,New England Patriots,AFC East
+2018,Dustin Hopkins,K,"$2,400,000 ",WAS,Washington Commanders,NFC East
+2018,Benjamin Ijalana,RT,"$2,400,000 ",NYJ,New York Jets,AFC East
+2018,Kemoko Turay,DE,"$2,355,201 ",IND,Indianapolis Colts,AFC South
+2018,Brandon LaFell,WR,"$2,312,500 ",OAK,Oakland Raiders,AFC West
+2018,Ronnie Stanley,LT,"$2,312,212 ",BAL,Baltimore Ravens,AFC North
+2018,Matt Prater,K,"$2,300,000 ",DET,Detroit Lions,NFC North
+2018,Andy Lee,P,"$2,265,000 ",ARI,Arizona Cardinals,NFC West
+2018,M.J. Stewart,CB,"$2,256,809 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Duron Harmon,SS,"$2,250,000 ",NE,New England Patriots,AFC East
+2018,Kevin Pamphile,RT,"$2,250,000 ",TEN,Tennessee Titans,AFC South
+2018,Johnathan Hankins,DT,"$2,250,000 ",OAK,Oakland Raiders,AFC West
+2018,Evan Smith,C,"$2,250,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Kenny Wiggins,G,"$2,250,000 ",DET,Detroit Lions,NFC North
+2018,David Irving,DT,"$2,228,352 ",DAL,Dallas Cowboys,NFC East
+2018,Trae Waynes,CB,"$2,200,142 ",MIN,Minnesota Vikings,NFC North
+2018,Matt Bosher,P,"$2,200,000 ",ATL,Atlanta Falcons,NFC South
+2018,Jon Bostic,ILB,"$2,200,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Terrence Brooks,FS,"$2,200,000 ",NYJ,New York Jets,AFC East
+2018,Jessie Bates III,FS,"$2,158,410 ",CIN,Cincinnati Bengals,AFC North
+2018,Chris Thompson,RB,"$2,152,250 ",WAS,Washington Commanders,NFC East
+2018,E.J. Gaines,CB,"$2,131,250 ",CLE,Cleveland Browns,AFC North
+2018,Billy Turner,G,"$2,105,291 ",DEN,Denver Broncos,AFC West
+2018,DeForest Buckner,DT,"$2,103,726 ",SF,San Francisco 49ers,NFC West
+2018,Marcedes Lewis,TE,"$2,100,000 ",GB,Green Bay Packers,NFC North
+2018,Mike Adams,FS,"$2,100,000 ",CAR,Carolina Panthers,NFC South
+2018,Donte Jackson,CB,"$2,060,017 ",CAR,Carolina Panthers,NFC South
+2018,Jordan Mills,RT,"$2,050,000 ",BUF,Buffalo Bills,AFC East
+2018,Danny Shelton,DT,"$2,030,954 ",NE,New England Patriots,AFC East
+2018,Tyler Larsen,C,"$2,030,000 ",CAR,Carolina Panthers,NFC South
+2018,Garrett Celek,TE,"$2,028,125 ",SF,San Francisco 49ers,NFC West
+2018,Sebastian Janikowski,K,"$2,015,000 ",SEA,Seattle Seahawks,NFC West
+2018,Duke Dawson,CB,"$2,010,818 ",NE,New England Patriots,AFC East
+2018,James White,RB,"$2,000,000 ",NE,New England Patriots,AFC East
+2018,David Andrews,C,"$2,000,000 ",NE,New England Patriots,AFC East
+2018,Daren Bates,ILB,"$2,000,000 ",TEN,Tennessee Titans,AFC South
+2018,Derek Carrier,TE,"$2,000,000 ",OAK,Oakland Raiders,AFC West
+2018,Michael Thomas,FS,"$2,000,000 ",NYG,New  York Giants,NFC East
+2018,Devonta Freeman,RB,"$2,000,000 ",ATL,Atlanta Falcons,NFC South
+2018,Connor Barwin,OLB,"$2,000,000 ",NYG,New  York Giants,NFC East
+2018,Anthony Sherman,FB,"$2,000,000 ",KC,Kansas City Chiefs,AFC West
+2018,Steven Hauschka,K,"$2,000,000 ",BUF,Buffalo Bills,AFC East
+2018,Rafael Bush,FS,"$2,000,000 ",BUF,Buffalo Bills,AFC East
+2018,Derrick Shelby,DE,"$2,000,000 ",ATL,Atlanta Falcons,NFC South
+2018,Damion Square,DT,"$2,000,000 ",LAC,Los Angeles Chargers,AFC West
+2018,Robbie Gould,K,"$2,000,000 ",SF,San Francisco 49ers,NFC West
+2018,LeGarrette Blount,RB,"$2,000,000 ",DET,Detroit Lions,NFC North
+2018,Mason Foster,ILB,"$2,000,000 ",WAS,Washington Commanders,NFC East
+2018,Benjamin Watson,TE,"$2,000,000 ",NO,New Orleans Saints,NFC South
+2018,Andrus Peat,G,"$1,988,657 ",NO,New Orleans Saints,NFC South
+2018,Matt Slauson,G,"$1,984,375 ",IND,Indianapolis Colts,AFC South
+2018,P.J. Hall,DT,"$1,981,296 ",OAK,Oakland Raiders,AFC West
+2018,Alex Erickson,WR,"$1,980,000 ",CIN,Cincinnati Bengals,AFC North
+2018,J.R. Sweezy,G,"$1,975,000 ",SEA,Seattle Seahawks,NFC West
+2018,Ethan Westbrooks,DT,"$1,975,000 ",LAR,Los Angeles Rams,NFC West
+2018,Corey Peters,DT,"$1,953,125 ",ARI,Arizona Cardinals,NFC West
+2018,Max Garcia,G,"$1,952,965 ",DEN,Denver Broncos,AFC West
+2018,Clinton McDonald,DT,"$1,950,000 ",OAK,Oakland Raiders,AFC West
+2018,Josh Martin,OLB,"$1,950,000 ",NYJ,New York Jets,AFC East
+2018,Isaiah Oliver,CB,"$1,932,104 ",ATL,Atlanta Falcons,NFC South
+2018,Dante Fowler Jr.,DE,"$1,926,114 ",LAR,Los Angeles Rams,NFC West
+2018,DeVante Parker,WR,"$1,918,165 ",MIA,Miami Dolphins,AFC East
+2018,Josh Bynes,ILB,"$1,917,182 ",ARI,Arizona Cardinals,NFC West
+2018,Demetrius Harris,TE,"$1,908,824 ",KC,Kansas City Chiefs,AFC West
+2018,Jordan Hicks,ILB,"$1,907,000 ",PHI,Philadelphia Eagles,NFC East
+2018,Jay Ajayi,RB,"$1,907,000 ",PHI,Philadelphia Eagles,NFC East
+2018,Dion Jordan,DE,"$1,907,000 ",SEA,Seattle Seahawks,NFC West
+2018,Trey Flowers,DE,"$1,907,000 ",NE,New England Patriots,AFC East
+2018,Quinton Spain,G,"$1,907,000 ",TEN,Tennessee Titans,AFC South
+2018,Jake Ryan,ILB,"$1,907,000 ",GB,Green Bay Packers,NFC North
+2018,Trenton Brown,RT,"$1,907,000 ",NE,New England Patriots,AFC East
+2018,T.J. Clemmings,RT,"$1,907,000 ",OAK,Oakland Raiders,AFC West
+2018,Chris Conley,WR,"$1,907,000 ",KC,Kansas City Chiefs,AFC West
+2018,Steven Nelson,CB,"$1,907,000 ",KC,Kansas City Chiefs,AFC West
+2018,Adrian Amos,SS,"$1,907,000 ",CHI,Chicago Bears,NFC North
+2018,Josh Bellamy,WR,"$1,907,000 ",CHI,Chicago Bears,NFC North
+2018,Bryce Callahan,CB,"$1,907,000 ",CHI,Chicago Bears,NFC North
+2018,John Miller,G,"$1,907,000 ",BUF,Buffalo Bills,AFC East
+2018,Grady Jarrett,DT,"$1,907,000 ",ATL,Atlanta Falcons,NFC South
+2018,Kyle Emanuel,OLB,"$1,907,000 ",LAC,Los Angeles Chargers,AFC West
+2018,TJ Jones,WR,"$1,907,000 ",DET,Detroit Lions,NFC North
+2018,Kwon Alexander,ILB,"$1,907,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Jamison Crowder,WR,"$1,907,000 ",WAS,Washington Commanders,NFC East
+2018,Tyler Kroft,TE,"$1,907,000 ",CIN,Cincinnati Bengals,AFC North
+2018,Trevor Siemian,QB,"$1,907,000 ",MIN,Minnesota Vikings,NFC North
+2018,Jesse James,TE,"$1,907,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Tyeler Davison,DT,"$1,907,000 ",NO,New Orleans Saints,NFC South
+2018,J.J. Nelson,WR,"$1,907,000 ",ARI,Arizona Cardinals,NFC West
+2018,Jordan Berry,P,"$1,907,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Anthony Chickillo,OLB,"$1,907,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Henry Anderson,DE,"$1,907,000 ",NYJ,New York Jets,AFC East
+2018,Brent Qvale,RT,"$1,907,000 ",NYJ,New York Jets,AFC East
+2018,Neal Sterling,TE,"$1,907,000 ",NYJ,New York Jets,AFC East
+2018,Daryl Williams,RT,"$1,907,000 ",CAR,Carolina Panthers,NFC South
+2018,Za'Darius Smith,OLB,"$1,907,000 ",BAL,Baltimore Ravens,AFC North
+2018,A.J. Cann,G,"$1,907,000 ",JAC,Jacksonville Jaguars,AFC South
+2018,Jack Conklin,RT,"$1,895,242 ",TEN,Tennessee Titans,AFC South
+2018,Eli Harold,OLB,"$1,892,000 ",DET,Detroit Lions,NFC North
+2018,Melvin Gordon,RB,"$1,889,968 ",LAC,Los Angeles Chargers,AFC West
+2018,Leonard Floyd,OLB,"$1,884,806 ",CHI,Chicago Bears,NFC North
+2018,Tavon Austin,WR,"$1,875,000 ",DAL,Dallas Cowboys,NFC East
+2018,Derrius Guice,RB,"$1,863,224 ",WAS,Washington Commanders,NFC East
+2018,Myles Garrett,DE,"$1,847,375 ",CLE,Cleveland Browns,AFC North
+2018,James Washington,WR,"$1,833,706 ",PIT,Pittsburgh Steelers,AFC North
+2018,Justin Reid,S,"$1,813,395 ",HOU,Houston Texans,AFC South
+2018,Kevin Johnson,CB,"$1,805,375 ",HOU,Houston Texans,AFC South
+2018,Randy Bullock,K,"$1,795,000 ",CIN,Cincinnati Bengals,AFC North
+2018,DJ Chark,WR,"$1,794,349 ",JAC,Jacksonville Jaguars,AFC South
+2018,Neiko Thorpe,CB,"$1,787,500 ",SEA,Seattle Seahawks,NFC West
+2018,Sherrick McManis,CB,"$1,781,250 ",CHI,Chicago Bears,NFC North
+2018,Arik Armstead,DE,"$1,777,177 ",SF,San Francisco 49ers,NFC West
+2018,Brian O'Neill,T,"$1,764,828 ",MIN,Minnesota Vikings,NFC North
+2018,Carlton Davis,CB,"$1,754,992 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Brynden Trawick,SS,"$1,750,000 ",TEN,Tennessee Titans,AFC South
+2018,LaAdrian Waddle,RT,"$1,750,000 ",NE,New England Patriots,AFC East
+2018,Pierre Desir,CB,"$1,750,000 ",IND,Indianapolis Colts,AFC South
+2018,Dan Bailey,K,"$1,750,000 ",MIN,Minnesota Vikings,NFC North
+2018,Solomon Thomas,DE,"$1,744,745 ",SF,San Francisco 49ers,NFC West
+2018,Marcus Peters,CB,"$1,741,931 ",LAR,Los Angeles Rams,NFC West
+2018,Vernon Hargreaves,CB,"$1,738,878 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Tyquan Lewis,DE,"$1,735,313 ",IND,Indianapolis Colts,AFC South
+2018,James Develin,FB,"$1,725,000 ",NE,New England Patriots,AFC East
+2018,Nelson Agholor,WR,"$1,713,733 ",PHI,Philadelphia Eagles,NFC East
+2018,Shane Ray,OLB,"$1,711,950 ",DEN,Denver Broncos,AFC West
+2018,Cedric Ogbuehi,LT,"$1,706,684 ",CIN,Cincinnati Bengals,AFC North
+2018,Pernell McPhee,OLB,"$1,706,250 ",WAS,Washington Commanders,NFC East
+2018,Byron Bell,G,"$1,700,000 ",GB,Green Bay Packers,NFC North
+2018,Leonard Fournette,RB,"$1,699,129 ",JAC,Jacksonville Jaguars,AFC South
+2018,Matt Longacre,OLB,"$1,698,438 ",LAR,Los Angeles Rams,NFC West
+2018,Bud Dupree,OLB,"$1,692,583 ",PIT,Pittsburgh Steelers,AFC North
+2018,Eric Reid,SS,"$1,690,000 ",CAR,Carolina Panthers,NFC South
+2018,Justin Bethel,CB,"$1,687,500 ",ATL,Atlanta Falcons,NFC South
+2018,Corey Graham,SS,"$1,677,500 ",PHI,Philadelphia Eagles,NFC East
+2018,Chris Maragos,FS,"$1,675,000 ",PHI,Philadelphia Eagles,NFC East
+2018,D.J. Humphries,LT,"$1,650,288 ",ARI,Arizona Cardinals,NFC West
+2018,Julian Stanford,OLB,"$1,650,000 ",BUF,Buffalo Bills,AFC East
+2018,Jamize Olawale,FB,"$1,640,000 ",DAL,Dallas Cowboys,NFC East
+2018,Shaq Thompson,OLB,"$1,636,190 ",CAR,Carolina Panthers,NFC South
+2018,Austin Reiter,C,"$1,630,000 ",KC,Kansas City Chiefs,AFC West
+2018,Lance Kendricks,TE,"$1,625,000 ",GB,Green Bay Packers,NFC North
+2018,Corey Davis,WR,"$1,619,307 ",TEN,Tennessee Titans,AFC South
+2018,Sheldon Rankins,DT,"$1,613,786 ",NO,New Orleans Saints,NFC South
+2018,Byron Jones,CB,"$1,607,991 ",DAL,Dallas Cowboys,NFC East
+2018,Jacquizz Rodgers,RB,"$1,600,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Craig Robertson,ILB,"$1,600,000 ",NO,New Orleans Saints,NFC South
+2018,Michael Hoomanawanui,TE,"$1,600,000 ",NO,New Orleans Saints,NFC South
+2018,Spencer Ware,RB,"$1,587,500 ",KC,Kansas City Chiefs,AFC West
+2018,Zach Kerr,DE,"$1,586,555 ",DEN,Denver Broncos,AFC West
+2018,Laremy Tunsil,LT,"$1,582,514 ",MIA,Miami Dolphins,AFC East
+2018,Joe Thomas,ILB,"$1,575,000 ",DAL,Dallas Cowboys,NFC East
+2018,Royce Freeman,RB,"$1,557,047 ",DEN,Denver Broncos,AFC West
+2018,T.J. McDonald,FS,"$1,550,000 ",MIA,Miami Dolphins,AFC East
+2018,Patrick DiMarco,FB,"$1,550,000 ",BUF,Buffalo Bills,AFC East
+2018,Brandon Parker,T,"$1,538,424 ",OAK,Oakland Raiders,AFC West
+2018,Karl Joseph,SS,"$1,530,392 ",OAK,Oakland Raiders,AFC West
+2018,Lorenzo Carter,DE,"$1,529,804 ",NYG,New  York Giants,NFC East
+2018,Chad Thomas,DE,"$1,528,940 ",CLE,Cleveland Browns,AFC North
+2018,Ted Larsen,G,"$1,525,000 ",MIA,Miami Dolphins,AFC East
+2018,Nick Dzubnar,ILB,"$1,525,000 ",LAC,Los Angeles Chargers,AFC West
+2018,K'Waun Williams,CB,"$1,518,750 ",SF,San Francisco 49ers,NFC West
+2018,Damarious Randall,FS,"$1,514,418 ",CLE,Cleveland Browns,AFC North
+2018,B.J. Hill,DE,"$1,509,516 ",NYG,New  York Giants,NFC East
+2018,Ryan Allen,P,"$1,500,000 ",NE,New England Patriots,AFC East
+2018,Keith Smith,FB,"$1,500,000 ",OAK,Oakland Raiders,AFC West
+2018,Pat O'Donnell,P,"$1,500,000 ",CHI,Chicago Bears,NFC North
+2018,Bradley Sowell,LT,"$1,500,000 ",CHI,Chicago Bears,NFC North
+2018,Kyle Wilber,OLB,"$1,500,000 ",OAK,Oakland Raiders,AFC West
+2018,Bruce Irvin,DE,"$1,500,000 ",ATL,Atlanta Falcons,NFC South
+2018,Adrian Phillips,FS,"$1,500,000 ",LAC,Los Angeles Chargers,AFC West
+2018,Jeff Heath,SS,"$1,500,000 ",DAL,Dallas Cowboys,NFC East
+2018,Levine Toilolo,TE,"$1,500,000 ",DET,Detroit Lions,NFC North
+2018,Tress Way,P,"$1,500,000 ",WAS,Washington Commanders,NFC East
+2018,A.Q. Shipley,C,"$1,500,000 ",ARI,Arizona Cardinals,NFC West
+2018,Fred Warner,ILB,"$1,490,188 ",SF,San Francisco 49ers,NFC West
+2018,Stephone Anthony,OLB,"$1,489,326 ",MIA,Miami Dolphins,AFC East
+2018,Terrell McClain,DT,"$1,487,500 ",ATL,Atlanta Falcons,NFC South
+2018,Kenny Vaccaro,SS,"$1,481,250 ",TEN,Tennessee Titans,AFC South
+2018,Jamal Adams,SS,"$1,476,764 ",NYJ,New York Jets,AFC East
+2018,Doug Martin,RB,"$1,475,000 ",OAK,Oakland Raiders,AFC West
+2018,Malcom Brown,DT,"$1,473,167 ",NE,New England Patriots,AFC East
+2018,Martavis Bryant,WR,"$1,458,295 ",OAK,Oakland Raiders,AFC West
+2018,Jerome Baker,OLB,"$1,455,200 ",MIA,Miami Dolphins,AFC East
+2018,Vladimir Ducasse,G,"$1,450,000 ",BUF,Buffalo Bills,AFC East
+2018,Chris Banjo,SS,"$1,450,000 ",NO,New Orleans Saints,NFC South
+2018,Taylor Decker,LT,"$1,446,998 ",DET,Detroit Lions,NFC North
+2018,Derrick Nnadi,DT,"$1,439,400 ",KC,Kansas City Chiefs,AFC West
+2018,Darren Sproles,RB,"$1,433,000 ",PHI,Philadelphia Eagles,NFC East
+2018,Keanu Neal,FS,"$1,426,150 ",ATL,Atlanta Falcons,NFC South
+2018,Chance Warmack,G,"$1,421,875 ",PHI,Philadelphia Eagles,NFC East
+2018,Orlando Scandrick,CB,"$1,415,000 ",KC,Kansas City Chiefs,AFC West
+2018,Josey Jewell,ILB,"$1,414,537 ",DEN,Denver Broncos,AFC West
+2018,Mason Rudolph,QB,"$1,412,264 ",PIT,Pittsburgh Steelers,AFC North
+2018,Sam Beal,CB,"$1,411,490 ",NYG,New  York Giants,NFC East
+2018,Brandon King,FS,"$1,409,375 ",NE,New England Patriots,AFC East
+2018,Sam Hubbard,DE,"$1,409,200 ",CIN,Cincinnati Bengals,AFC North
+2018,D.J. Fluker,G,"$1,406,250 ",SEA,Seattle Seahawks,NFC West
+2018,Geron Christian,T,"$1,400,806 ",WAS,Washington Commanders,NFC East
+2018,Ryan Kelly,C,"$1,400,089 ",IND,Indianapolis Colts,AFC South
+2018,Eric Kush,G,"$1,400,000 ",CHI,Chicago Bears,NFC North
+2018,Andrew DePaola,LS,"$1,400,000 ",OAK,Oakland Raiders,AFC West
+2018,Marcus Sherels,CB,"$1,400,000 ",MIN,Minnesota Vikings,NFC North
+2018,Coty Sensabaugh,CB,"$1,400,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Anthony Levine,ILB,"$1,400,000 ",BAL,Baltimore Ravens,AFC North
+2018,Ryan Griffin,QB,"$1,393,750 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Rasheem Green,DE,"$1,392,556 ",SEA,Seattle Seahawks,NFC West
+2018,Malik Jefferson,OLB,"$1,389,957 ",CIN,Cincinnati Bengals,AFC North
+2018,Shaq Lawson,DE,"$1,384,452 ",BUF,Buffalo Bills,AFC East
+2018,Martinas Rankin,C,"$1,381,268 ",HOU,Houston Texans,AFC South
+2018,Nathan Shepherd,DE,"$1,380,572 ",NYJ,New York Jets,AFC East
+2018,Will Fuller,WR,"$1,374,028 ",HOU,Houston Texans,AFC South
+2018,Michael Gallup,WR,"$1,369,980 ",DAL,Dallas Cowboys,NFC East
+2018,Isaac Yiadom,CB,"$1,365,353 ",DEN,Denver Broncos,AFC West
+2018,Josh Doctson,WR,"$1,363,604 ",WAS,Washington Commanders,NFC East
+2018,Mike Williams,WR,"$1,362,724 ",LAC,Los Angeles Chargers,AFC West
+2018,Tracy Walker,S,"$1,361,988 ",DET,Detroit Lions,NFC North
+2018,Mike Davis,RB,"$1,357,826 ",SEA,Seattle Seahawks,NFC West
+2018,Joe Cardona,LS,"$1,355,000 ",NE,New England Patriots,AFC East
+2018,Laquon Treadwell,WR,"$1,353,180 ",MIN,Minnesota Vikings,NFC North
+2018,Joe Looney,C,"$1,350,000 ",DAL,Dallas Cowboys,NFC East
+2018,Jake McQuaide,LS,"$1,350,000 ",LAR,Los Angeles Rams,NFC West
+2018,Orlando Brown Jr.,RT,"$1,345,720 ",BAL,Baltimore Ravens,AFC North
+2018,Benson Mayowa,DE,"$1,334,375 ",ARI,Arizona Cardinals,NFC West
+2018,Justin Jones,DT,"$1,334,140 ",LAC,Los Angeles Chargers,AFC West
+2018,William Jackson,CB,"$1,332,331 ",CIN,Cincinnati Bengals,AFC North
+2018,Shawn Lauvao,G,"$1,328,125 ",WAS,Washington Commanders,NFC East
+2018,Rashaan Gaulden,S,"$1,327,656 ",CAR,Carolina Panthers,NFC South
+2018,Daesean Hamilton,WR,"$1,326,882 ",DEN,Denver Broncos,AFC West
+2018,Artie Burns,CB,"$1,321,907 ",PIT,Pittsburgh Steelers,AFC North
+2018,Mark Andrews,TE,"$1,316,660 ",BAL,Baltimore Ravens,AFC North
+2018,Arden Key,DE,"$1,306,376 ",OAK,Oakland Raiders,AFC West
+2018,Kenny Clark,DT,"$1,301,059 ",GB,Green Bay Packers,NFC North
+2018,Oren Burks,ILB,"$1,300,756 ",GB,Green Bay Packers,NFC North
+2018,Walt Aikens,SS,"$1,300,000 ",MIA,Miami Dolphins,AFC East
+2018,Wes Horton,DE,"$1,300,000 ",CAR,Carolina Panthers,NFC South
+2018,Joseph Noteboom,T,"$1,298,892 ",LAR,Los Angeles Rams,NFC West
+2018,Deadrin Senat,DT,"$1,297,960 ",ATL,Atlanta Falcons,NFC South
+2018,Tre'quan Smith,WR,"$1,297,024 ",NO,New Orleans Saints,NFC South
+2018,Joshua Garnett,G,"$1,295,846 ",SF,San Francisco 49ers,NFC West
+2018,Chuks Okorafor,T,"$1,292,364 ",PIT,Pittsburgh Steelers,AFC North
+2018,Ronnie Harrison,SS,"$1,276,150 ",JAC,Jacksonville Jaguars,AFC South
+2018,Alex Cappa,G,"$1,273,704 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Landon Collins,SS,"$1,269,620 ",NYG,New  York Giants,NFC East
+2018,Tarvarius Moore,S,"$1,264,371 ",SF,San Francisco 49ers,NFC West
+2018,Donovan Smith,LT,"$1,262,571 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Mario Edwards,DT,"$1,255,521 ",NYG,New  York Giants,NFC East
+2018,Harrison Phillips,DT,"$1,255,040 ",BUF,Buffalo Bills,AFC East
+2018,Will Compton,ILB,"$1,250,000 ",TEN,Tennessee Titans,AFC South
+2018,Russell Shepard,WR,"$1,250,000 ",NYG,New  York Giants,NFC East
+2018,Kerry Wynn,DE,"$1,250,000 ",NYG,New  York Giants,NFC East
+2018,Deshazor Everett,SS,"$1,250,000 ",WAS,Washington Commanders,NFC East
+2018,Christian McCaffrey,RB,"$1,248,695 ",CAR,Carolina Panthers,NFC South
+2018,Carlos Hyde,RB,"$1,245,588 ",JAC,Jacksonville Jaguars,AFC South
+2018,Phillip Dorsett,WR,"$1,244,373 ",NE,New England Patriots,AFC East
+2018,John Ross,WR,"$1,242,994 ",CIN,Cincinnati Bengals,AFC North
+2018,Jordan Akins,TE,"$1,241,520 ",HOU,Houston Texans,AFC South
+2018,Dorian O'Daniel,DE,"$1,241,516 ",KC,Kansas City Chiefs,AFC West
+2018,Mason Cole,C,"$1,241,516 ",ARI,Arizona Cardinals,NFC West
+2018,T.J. Yeldon,RB,"$1,241,421 ",JAC,Jacksonville Jaguars,AFC South
+2018,Angelo Blackson,DE,"$1,240,000 ",HOU,Houston Texans,AFC South
+2018,Robert Nkemdiche,DT,"$1,231,873 ",ARI,Arizona Cardinals,NFC West
+2018,Ian Thomas,TE,"$1,227,994 ",CAR,Carolina Panthers,NFC South
+2018,Preston Smith,OLB,"$1,223,094 ",WAS,Washington Commanders,NFC East
+2018,Jeremiah Attaochu,OLB,"$1,221,250 ",NYJ,New York Jets,AFC East
+2018,Mark Glowinski,G,"$1,219,000 ",IND,Indianapolis Colts,AFC South
+2018,Jeremy Hill,RB,"$1,218,750 ",NE,New England Patriots,AFC East
+2018,Vernon Butler,DT,"$1,213,319 ",CAR,Carolina Panthers,NFC South
+2018,Patrick Mahomes,QB,"$1,211,635 ",KC,Kansas City Chiefs,AFC West
+2018,Jalyn Holmes,DE,"$1,211,398 ",MIN,Minnesota Vikings,NFC North
+2018,Keke Coutee,WR,"$1,209,026 ",HOU,Houston Texans,AFC South
+2018,Josh Harris,LS,"$1,205,000 ",ATL,Atlanta Falcons,NFC South
+2018,Clark Harris,LS,"$1,205,000 ",CIN,Cincinnati Bengals,AFC North
+2018,Nyheim Hines,RB,"$1,204,547 ",IND,Indianapolis Colts,AFC South
+2018,Germain Ifedi,RT,"$1,201,373 ",SEA,Seattle Seahawks,NFC West
+2018,Chris Jones,P,"$1,200,000 ",DAL,Dallas Cowboys,NFC East
+2018,Darrius Heyward-Bey,WR,"$1,200,000 ",PIT,Pittsburgh Steelers,AFC North
+2018,Brandon Copeland,DE,"$1,200,000 ",NYJ,New York Jets,AFC East
+2018,Kyle Love,DT,"$1,200,000 ",CAR,Carolina Panthers,NFC South
+2018,Devin Funchess,WR,"$1,187,850 ",CAR,Carolina Panthers,NFC South
+2018,Kyle Lauletta,QB,"$1,187,698 ",NYG,New  York Giants,NFC East
+2018,Nick Nelson,CB,"$1,178,680 ",OAK,Oakland Raiders,AFC West
+2018,Dennis Kelly,RT,"$1,175,000 ",TEN,Tennessee Titans,AFC South
+2018,Colin Jones,SS,"$1,175,000 ",CAR,Carolina Panthers,NFC South
+2018,Chris Clark,LT,"$1,167,946 ",CAR,Carolina Panthers,NFC South
+2018,Brian Allen,C,"$1,166,936 ",LAR,Los Angeles Rams,NFC West
+2018,Mark Walton,RB,"$1,165,347 ",CIN,Cincinnati Bengals,AFC North
+2018,Marshon Lattimore,CB,"$1,163,162 ",NO,New Orleans Saints,NFC South
+2018,Joel Iyiegbuniwe,ILB,"$1,158,574 ",CHI,Chicago Bears,NFC North
+2018,Antonio Callaway,WR,"$1,155,626 ",CLE,Cleveland Browns,AFC North
+2018,Dekoda Watson,OLB,"$1,150,000 ",SF,San Francisco 49ers,NFC West
+2018,Fozzy Whittaker,RB,"$1,150,000 ",CAR,Carolina Panthers,NFC South
+2018,Dorance Armstrong,DE,"$1,149,996 ",DAL,Dallas Cowboys,NFC East
+2018,Chris Herndon,TE,"$1,149,524 ",NYJ,New York Jets,AFC East
+2018,Da'shawn Hand,DE,"$1,148,193 ",DET,Detroit Lions,NFC North
+2018,Jordan Whitehead,SS,"$1,147,257 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Anthony Averett,CB,"$1,140,997 ",BAL,Baltimore Ravens,AFC North
+2018,Troy Apke,S,"$1,121,683 ",WAS,Washington Commanders,NFC East
+2018,Kenny Young,ILB,"$1,119,904 ",BAL,Baltimore Ravens,AFC North
+2018,Durham Smythe,TE,"$1,112,235 ",MIA,Miami Dolphins,AFC East
+2018,Garett Bolles,LT,"$1,112,174 ",DEN,Denver Broncos,AFC West
+2018,B.W. Webb,CB,"$1,110,905 ",NYG,New  York Giants,NFC East
+2018,Avonte Maddox,CB,"$1,105,914 ",PHI,Philadelphia Eagles,NFC East
+2018,John Simon,DE,"$1,105,699 ",NE,New England Patriots,AFC East
+2018,Taron Johnson,CB,"$1,105,414 ",BUF,Buffalo Bills,AFC East
+2018,Frank Gore,RB,"$1,105,000 ",MIA,Miami Dolphins,AFC East
+2018,John Greco,C,"$1,105,000 ",NYG,New  York Giants,NFC East
+2018,Matt Cassel,QB,"$1,105,000 ",DET,Detroit Lions,NFC North
+2018,Don Muhlbach,LS,"$1,105,000 ",DET,Detroit Lions,NFC North
+2018,L.P. Ladouceur,LS,"$1,105,000 ",DAL,Dallas Cowboys,NFC East
+2018,Eric Rowe,CB,"$1,100,435 ",NE,New England Patriots,AFC East
+2018,Nate Palmer,ILB,"$1,100,000 ",TEN,Tennessee Titans,AFC South
+2018,Beau Brinkley,LS,"$1,100,000 ",TEN,Tennessee Titans,AFC South
+2018,Zach Line,FB,"$1,100,000 ",NO,New Orleans Saints,NFC South
+2018,Robert Griffin III,QB,"$1,100,000 ",BAL,Baltimore Ravens,AFC North
+2018,Brent Urban,DE,"$1,100,000 ",BAL,Baltimore Ravens,AFC North
+2018,Deshaun Watson,QB,"$1,094,740 ",HOU,Houston Texans,AFC South
+2018,Aaron Brewer,LS,"$1,090,000 ",ARI,Arizona Cardinals,NFC West
+2018,Matt Skura,C,"$1,088,588 ",BAL,Baltimore Ravens,AFC North
+2018,Ito Smith,RB,"$1,087,104 ",ATL,Atlanta Falcons,NFC South
+2018,Denzel Perryman,ILB,"$1,086,336 ",LAC,Los Angeles Chargers,AFC West
+2018,Kayvon Webster,CB,"$1,078,125 ",HOU,Houston Texans,AFC South
+2018,Haason Reddick,OLB,"$1,077,635 ",ARI,Arizona Cardinals,NFC West
+2018,Connor McGovern,G,"$1,075,423 ",DEN,Denver Broncos,AFC West
+2018,Luke Stocker,TE,"$1,075,000 ",TEN,Tennessee Titans,AFC South
+2018,Eli Apple,CB,"$1,074,990 ",NO,New Orleans Saints,NFC South
+2018,Marshall Newhouse,RT,"$1,073,529 ",CAR,Carolina Panthers,NFC South
+2018,Kyzir White,OLB,"$1,072,489 ",LAC,Los Angeles Chargers,AFC West
+2018,Mitch Morse,C,"$1,072,239 ",KC,Kansas City Chiefs,AFC West
+2018,Kalen Ballage,RB,"$1,069,181 ",MIA,Miami Dolphins,AFC East
+2018,Marcus Cooper,CB,"$1,067,647 ",DET,Detroit Lions,NFC North
+2018,Ronald Darby,CB,"$1,058,139 ",PHI,Philadelphia Eagles,NFC East
+2018,Josh Sweat,DE,"$1,056,937 ",PHI,Philadelphia Eagles,NFC East
+2018,Darron Lee,ILB,"$1,054,713 ",NYJ,New York Jets,AFC East
+2018,Justin Simmons,FS,"$1,052,951 ",DEN,Denver Broncos,AFC West
+2018,Emmanuel Ogbah,DE,"$1,050,876 ",CLE,Cleveland Browns,AFC North
+2018,Derek Barnett,DE,"$1,049,126 ",PHI,Philadelphia Eagles,NFC East
+2018,Benny Cunningham,RB,"$1,043,750 ",CHI,Chicago Bears,NFC North
+2018,Will Dissly,TE,"$1,040,786 ",SEA,Seattle Seahawks,NFC West
+2018,Jaylon Smith,ILB,"$1,040,452 ",DAL,Dallas Cowboys,NFC East
+2018,Frostee Rucker,DT,"$1,040,000 ",OAK,Oakland Raiders,AFC West
+2018,Adarius Taylor,OLB,"$1,040,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Malik Hooker,FS,"$1,037,723 ",IND,Indianapolis Colts,AFC South
+2018,Hunter Henry,TE,"$1,030,028 ",LAC,Los Angeles Chargers,AFC West
+2018,Armani Watts,S,"$1,029,634 ",KC,Kansas City Chiefs,AFC West
+2018,Myles Jack,ILB,"$1,025,858 ",JAC,Jacksonville Jaguars,AFC South
+2018,Matt Barkley,QB,"$1,018,235 ",BUF,Buffalo Bills,AFC East
+2018,Chris Jones,DE,"$1,016,476 ",KC,Kansas City Chiefs,AFC West
+2018,Jake Fisher,LT,"$1,015,884 ",CIN,Cincinnati Bengals,AFC North
+2018,Zak DeOssie,LS,"$1,015,000 ",NYG,New  York Giants,NFC East
+2018,John Denney,LS,"$1,015,000 ",MIA,Miami Dolphins,AFC East
+2018,Garrison Sanborn,LS,"$1,015,000 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Adrian Peterson,RB,"$1,015,000 ",WAS,Washington Commanders,NFC East
+2018,Kentavius Street,DE,"$1,014,202 ",SF,San Francisco 49ers,NFC West
+2018,Austin Blythe,G,"$1,010,060 ",LAR,Los Angeles Rams,NFC West
+2018,Xavien Howard,CB,"$1,007,094 ",MIA,Miami Dolphins,AFC East
+2018,Will Richardson,T,"$1,007,074 ",JAC,Jacksonville Jaguars,AFC South
+2018,Andre Roberts,WR,"$1,005,000 ",NYJ,New York Jets,AFC East
+2018,Davon House,CB,"$1,005,000 ",GB,Green Bay Packers,NFC North
+2018,Leon Hall,CB,"$1,005,000 ",OAK,Oakland Raiders,AFC West
+2018,Dwayne Harris,WR,"$1,005,000 ",OAK,Oakland Raiders,AFC West
+2018,Logan Paulsen,TE,"$1,005,000 ",ATL,Atlanta Falcons,NFC South
+2018,Nick Bellore,ILB,"$1,005,000 ",DET,Detroit Lions,NFC North
+2018,Ricky Jean Francois,DT,"$1,005,000 ",DET,Detroit Lions,NFC North
+2018,Bobby Hart,RT,"$1,005,000 ",CIN,Cincinnati Bengals,AFC North
+2018,Sam Shields,CB,"$1,004,999 ",LAR,Los Angeles Rams,NFC West
+2018,Marlon Humphrey,CB,"$1,003,522 ",BAL,Baltimore Ravens,AFC North
+2018,Cory Littleton,ILB,"$1,001,379 ",LAR,Los Angeles Rams,NFC West
+2018,Nathan Stupar,OLB,"$1,000,000 ",NYG,New  York Giants,NFC East
+2018,Kemal Ishmael,SS,"$1,000,000 ",ATL,Atlanta Falcons,NFC South
+2018,Geno Smith,QB,"$1,000,000 ",LAC,Los Angeles Chargers,AFC West
+2018,Morgan Cox,LS,"$1,000,000 ",BAL,Baltimore Ravens,AFC North
+2018,Noah Spence,DE,"$998,755 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Adam Gotsis,DE,"$995,643 ",DEN,Denver Broncos,AFC West
+2018,Jonathan Allen,DE,"$992,108 ",WAS,Washington Commanders,NFC East
+2018,Sterling Shepard,WR,"$990,416 ",NYG,New  York Giants,NFC East
+2018,Tyler Shatley,G,"$990,000 ",JAC,Jacksonville Jaguars,AFC South
+2018,Maxx Williams,TE,"$987,646 ",BAL,Baltimore Ravens,AFC North
+2018,Reggie Ragland,ILB,"$981,034 ",KC,Kansas City Chiefs,AFC West
+2018,Adoree' Jackson,CB,"$977,854 ",TEN,Tennessee Titans,AFC South
+2018,MarQueis Gray,TE,"$975,000 ",MIA,Miami Dolphins,AFC East
+2018,Kamalei Correa,ILB,"$972,694 ",TEN,Tennessee Titans,AFC South
+2018,Markus Golden,DE,"$969,318 ",ARI,Arizona Cardinals,NFC West
+2018,O.J. Howard,TE,"$969,301 ",TB,Tampa Bay Buccaneers,NFC South
+2018,Austin Johnson,DT,"$964,748 ",TEN,Tennessee Titans,AFC South
+2018,Jarrad Davis,ILB,"$963,599 ",DET,Detroit Lions,NFC North
+2018,Ty Sambrailo,LT,"$959,447 ",ATL,Atlanta Falcons,NFC South
+2018,Charles Harris,DE,"$957,897 ",MIA,Miami Dolphins,AFC East
+2018,Kendall Fuller,CB,"$956,968 ",KC,Kansas City Chiefs,AFC West
+2018,Jermon Bushrod,G,"$955,294 ",NO,New Orleans Saints,NFC South
+2018,Graham Glasgow,C,"$954,879 ",DET,Detroit Lions,NFC North
+2018,Jonathan Jones,CB,"$953,294 ",NE,New England Patriots,AFC East
+2018,Evan Engram,TE,"$952,196 ",NYG,New  York Giants,NFC East
+2018,Earl Watford,RT,"$950,000 ",CLE,Cleveland Browns,AFC North
+2018,Frank Clark,DE,"$943,938 ",SEA,Seattle Seahawks,NFC West
+2018,Jaleel Scott,WR,"$943,381 ",BAL,Baltimore Ravens,AFC North
+2018,Derrick Henry,RB,"$941,630 ",TEN,Tennessee Titans,AFC South
+2018,Jordan Richards,SS,"$941,121 ",ATL,Atlanta Falcons,NFC South
+2018,Gareon Conley,CB,"$940,792 ",OAK,Oakland Raiders,AFC West
+2018,Ryan Hewitt,FB,"$940,000 ",IND,Indianapolis Colts,AFC South
+2018,Jabrill Peppers,SS,"$935,090 ",CLE,Cleveland Browns,AFC North
+2018,Curtis Riley,FS,"$934,784 ",NYG,New  York Giants,NFC East
+2018,Will Parks,S,"$933,723 ",DEN,Denver Broncos,AFC West
+2018,Marquis Haynes,DE,"$932,359 ",CAR,Carolina Panthers,NFC South
+2018,Chase Edmonds,RB,"$932,359 ",ARI,Arizona Cardinals,NFC West
+2018,John Franklin-Myers,DE,"$932,359 ",LAR,Los Angeles Rams,NFC West
+2018,J'Mon Moore,WR,"$932,359 ",GB,Green Bay Packers,NFC North
+2018,Dalton Schultz,TE,"$932,359 ",DAL,Dallas Cowboys,NFC East
+2018,Jesse Davis,G,"$929,833 ",MIA,Miami Dolphins,AFC East
+2018,Takkarist McKinley,DE,"$929,388 ",ATL,Atlanta Falcons,NFC South
+2018,Jayon Brown,ILB,"$928,575 ",TEN,Tennessee Titans,AFC South
+2018,A'Shawn Robinson,DT,"$925,785 ",DET,Detroit Lions,NFC North
+2018,Tre'Davious White,CB,"$923,687 ",BUF,Buffalo Bills,AFC East
+2018,Taco Charlton,DE,"$920,836 ",DAL,Dallas Cowboys,NFC East
+2018,Michael Thomas,WR,"$915,361 ",NO,New Orleans Saints,NFC South
+2018,Kendrick Lewis,SS,"$915,000 ",TEN,Tennessee Titans,AFC South
+2018,Brian Hoyer,QB,"$915,000 ",NE,New England Patriots,AFC East
+2018,Mike Windt,LS,"$915,000 ",LAC,Los Angeles Chargers,AFC West
+2018,Michael Person,G,"$915,000 ",SF,San Francisco 49ers,NFC West
+2018,Nick Sundberg,LS,"$915,000 ",WAS,Washington Commanders,NFC East
+2018,Jon Weeks,LS,"$915,000 ",HOU,Houston Texans,AFC South
+2018,Joe Webb,QB,"$915,000 ",HOU,Houston Texans,AFC South
+2018,J.J. Jansen,LS,"$915,000 ",CAR,Carolina Panthers,NFC South
+2018,Chase Roullier,C,"$913,849 ",WAS,Washington Commanders,NFC East
+2018,Daniel Brown,TE,"$912,500 ",CHI,Chicago Bears,NFC North
+2018,Nick O'Leary,TE,"$905,000 ",MIA,Miami Dolphins,AFC East
+2018,Jason Spriggs,T,"$904,936 ",GB,Green Bay Packers,NFC North
+2018,Jeff Heuerman,TE,"$904,733 ",DEN,Denver Broncos,AFC West
+2018,A.J. McCarron,QB,"$900,000 ",OAK,Oakland Raiders,AFC West
+2018,Brian Peters,ILB,"$900,000 ",HOU,Houston Texans,AFC South
+2018,Tom Compton,G,"$900,000 ",MIN,Minnesota Vikings,NFC North
+2018,Shelby Harris,DE,"$899,032 ",DEN,Denver Broncos,AFC West
+2018,David Njoku,TE,"$897,959 ",CLE,Cleveland Browns,AFC North
+2018,Jarran Reed,DT,"$894,512 ",SEA,Seattle Seahawks,NFC West
+2018,Jamon Brown,RT,"$890,813 ",NYG,New  York Giants,NFC East
+2018,T.J. Watt,OLB,"$885,844 ",PIT,Pittsburgh Steelers,AFC North
+2018,Nick Martin,C,"$884,088 ",HOU,Houston Texans,AFC South
+2018,Tom Johnson,DT,"$882,352 ",MIN,Minnesota Vikings,NFC North
+2018,Dakota Dozier,G,"$880,000 ",NYJ,New York Jets,AFC East
+2018,Amini Silatolu,G,"$880,000 ",CAR,Carolina Panthers,NFC South
+2018,Jonotthan Harrison,C,"$880,000 ",NYJ,New York Jets,AFC East
+2018,Paul Worrilow,OLB,"$880,000 ",PHI,Philadelphia Eagles,NFC East

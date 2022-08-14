@@ -1,0 +1,1001 @@
+id,Year,Name,POS,Salary,Team Abbv.,Team Name,Division
+1,2013,Aaron Rodgers,QB,"$38,250,000",GB,Green Bay Packers,NFC North
+2,2013,Joe Flacco,QB,"$30,000,000",BAL,Baltimore Ravens,AFC North
+3,2013,Tony Romo,QB,"$26,500,000",DAL,Dallas Cowboys,NFC East
+4,2013,Calvin Johnson,WR,"$25,005,000",DET,Detroit Lions,NFC North
+5,2013,Peyton Manning,QB,"$25,000,000",DEN,Denver Broncos,AFC West
+6,2013,Clay Matthews Jr.,OLB,"$22,950,000",GB,Green Bay Packers,NFC North
+7,2013,Gosder Cherilus,RT,"$20,000,000",IND,Indianapolis Colts,AFC South
+8,2013,Geno Atkins,DT,"$19,000,000",CIN,Cincinnati Bengals,AFC North
+9,2013,Matthew Stafford,QB,"$18,500,000",DET,Detroit Lions,NFC North
+10,2013,Dwayne Bowe,WR,"$16,000,000",KC,Kansas City Chiefs,AFC West
+11,2013,Darrelle Revis,CB,"$16,000,000",TB,Tampa Bay Buccaneers,NFC South
+12,2013,Matt Ryan,QB,"$15,000,000",ATL,Atlanta Falcons,NFC South
+13,2013,Ryan Clady,LT,"$15,000,000",DEN,Denver Broncos,AFC West
+14,2013,Mario Williams,DE,"$15,000,000",BUF,Buffalo Bills,AFC East
+15,2013,Eric Fisher,LT,"$14,923,544",KC,Kansas City Chiefs,AFC West
+16,2013,Percy Harvin,WR,"$14,500,000",SEA,Seattle Seahawks,NFC West
+17,2013,Jared Allen,DE,"$14,480,612",MIN,Minnesota Vikings,NFC North
+18,2013,Brandon Carr,CB,"$14,300,000",DAL,Dallas Cowboys,NFC East
+19,2013,Luke Joeckel,G,"$14,204,344",JAC,Jacksonville Jaguars,AFC South
+20,2013,Cortland Finnegan,CB,"$14,000,000",STL,St. Louis Rams,NFC West
+21,2013,Dion Jordan,DE,"$13,746,680",MIA,Miami Dolphins,AFC East
+22,2013,William Beatty,LT,"$13,550,000",NYG,New  York Giants,NFC East
+23,2013,Eli Manning,QB,"$13,500,000",NYG,New  York Giants,NFC East
+24,2013,Calais Campbell,DE,"$13,250,000",ARI,Arizona Cardinals,NFC West
+25,2013,James Laurinaitis,ILB,"$13,250,000",STL,St. Louis Rams,NFC West
+26,2013,Julius Peppers,DE,"$13,200,000",CHI,Chicago Bears,NFC North
+27,2013,Chris Long,DE,"$13,050,000",STL,St. Louis Rams,NFC West
+28,2013,Tom Brady,QB,"$13,000,000",NE,New England Patriots,AFC East
+29,2013,Carlos Dunlap,DE,"$13,000,000",CIN,Cincinnati Bengals,AFC North
+30,2013,Greg Jennings,WR,"$13,000,000",MIN,Minnesota Vikings,NFC North
+31,2013,Paul Kruger,OLB,"$13,000,000",CLE,Cleveland Browns,AFC North
+32,2013,Andy Levitre,G,"$13,000,000",TEN,Tennessee Titans,AFC South
+33,2013,Tamba Hali,OLB,"$12,500,000",KC,Kansas City Chiefs,AFC West
+34,2013,Carl Nicks,G,"$12,500,000",TB,Tampa Bay Buccaneers,NFC South
+35,2013,Lane Johnson,RT,"$12,469,583",PHI,Philadelphia Eagles,NFC East
+36,2013,Ezekiel Ansah,DE,"$12,308,272",DET,Detroit Lions,NFC North
+37,2013,Ndamukong Suh,DT,"$12,275,000",DET,Detroit Lions,NFC North
+38,2013,Michael Vick,QB,"$12,200,000",PHI,Philadelphia Eagles,NFC East
+39,2013,Mike Wallace,WR,"$12,050,000",MIA,Miami Dolphins,AFC East
+40,2013,Philip Rivers,QB,"$12,000,000",SD,San Diego Chargers,AFC West
+41,2013,Desmond Bryant,DE,"$12,000,000",CLE,Cleveland Browns,AFC North
+42,2013,Jermon Bushrod,G,"$11,815,000",CHI,Chicago Bears,NFC North
+43,2013,Ben Roethlisberger,QB,"$11,600,000",PIT,Pittsburgh Steelers,AFC North
+44,2013,Adrian Peterson,RB,"$11,500,000",MIN,Minnesota Vikings,NFC North
+45,2013,Eric Wood,C,"$11,200,000",BUF,Buffalo Bills,AFC East
+46,2013,Michael Johnson,DE,"$11,175,000",CIN,Cincinnati Bengals,AFC North
+47,2013,Sam Baker,LT,"$11,000,000",ATL,Atlanta Falcons,NFC South
+48,2013,David Harris,ILB,"$11,000,000",NYJ,New York Jets,AFC East
+49,2013,LaRon Landry,S,"$11,000,000",IND,Indianapolis Colts,AFC South
+50,2013,Champ Bailey,CB,"$10,750,000",DEN,Denver Broncos,AFC West
+51,2013,Barkevious Mingo,OLB,"$10,673,728",CLE,Cleveland Browns,AFC North
+52,2013,Sean Lee,OLB,"$10,630,000",DAL,Dallas Cowboys,NFC East
+53,2013,Anthony Spencer,OLB,"$10,627,200",DAL,Dallas Cowboys,NFC East
+54,2013,Andre Johnson,WR,"$10,583,333",HOU,Houston Texans,AFC South
+55,2013,William Moore,SS,"$10,500,000",ATL,Atlanta Falcons,NFC South
+56,2013,Jason Peters,LT,"$10,500,000",PHI,Philadelphia Eagles,NFC East
+57,2013,Joe Thomas,LT,"$10,200,000",CLE,Cleveland Browns,AFC North
+58,2013,Victor Cruz,WR,"$10,130,000",NYG,New  York Giants,NFC East
+59,2013,Phillip Loadholt,RT,"$10,000,000",MIN,Minnesota Vikings,NFC North
+60,2013,Ryan Kalil,C,"$10,000,000",CAR,Carolina Panthers,NFC South
+61,2013,Chris Johnson,RB,"$10,000,000",TEN,Tennessee Titans,AFC South
+62,2013,Drew Brees,QB,"$10,000,000",NO,New Orleans Saints,NFC South
+63,2013,Zach Miller,TE,"$10,000,000",SEA,Seattle Seahawks,NFC West
+64,2013,Branden Albert,LT,"$9,828,000",KC,Kansas City Chiefs,AFC West
+65,2013,Alex Smith,QB,"$9,750,000",KC,Kansas City Chiefs,AFC West
+66,2013,Morgan Burnett,SS,"$9,573,000",GB,Green Bay Packers,NFC North
+67,2013,Antonio Cromartie,CB,"$9,500,000",NYJ,New York Jets,AFC East
+68,2013,Tyvon Branch,SS,"$9,500,000",OAK,Oakland Raiders,AFC West
+69,2013,Jonathan Cooper,G,"$9,366,092",ARI,Arizona Cardinals,NFC West
+70,2013,Brandon Marshall,WR,"$9,300,000",CHI,Chicago Bears,NFC North
+71,2013,LaMarr Woodley,OLB,"$9,000,000",PIT,Pittsburgh Steelers,AFC North
+72,2013,Sam Bradford,QB,"$9,000,000",STL,St. Louis Rams,NFC West
+73,2013,Jay Cutler,QB,"$8,970,000",CHI,Chicago Bears,NFC North
+74,2013,Mark Sanchez,QB,"$8,750,000",NYJ,New York Jets,AFC East
+75,2013,Dashon Goldson,FS,"$8,735,295",TB,Tampa Bay Buccaneers,NFC South
+76,2013,Sidney Rice,WR,"$8,500,000",SEA,Seattle Seahawks,NFC West
+77,2013,Brian Robison,DE,"$8,500,000",MIN,Minnesota Vikings,NFC North
+78,2013,Elvis Dumervil,OLB,"$8,500,000",BAL,Baltimore Ravens,AFC North
+79,2013,Randy Starks,DE,"$8,450,000",MIA,Miami Dolphins,AFC East
+80,2013,Henry Melton,DT,"$8,450,000",CHI,Chicago Bears,NFC North
+81,2013,Anthony Davis,RT,"$8,380,000",SF,San Francisco 49ers,NFC West
+82,2013,Danny Amendola,WR,"$8,375,000",NE,New England Patriots,AFC East
+83,2013,Gerald McCoy,DT,"$8,321,250",TB,Tampa Bay Buccaneers,NFC South
+84,2013,Sebastian Vollmer,RT,"$8,250,000",NE,New England Patriots,AFC East
+85,2013,Jermichael Finley,TE,"$8,250,000",GB,Green Bay Packers,NFC North
+86,2013,Mike Williams,WR,"$8,200,000",TB,Tampa Bay Buccaneers,NFC South
+87,2013,Justin Smith,DE,"$8,100,000",SF,San Francisco 49ers,NFC West
+88,2013,Tavon Austin,WR,"$8,058,456",STL,St. Louis Rams,NFC West
+89,2013,Dannell Ellerbe,OLB,"$8,025,000",MIA,Miami Dolphins,AFC East
+90,2013,D'Brickashaw Ferguson,LT,"$8,000,000",NYJ,New York Jets,AFC East
+91,2013,Carson Palmer,QB,"$8,000,000",ARI,Arizona Cardinals,NFC West
+92,2013,Charles Tillman,CB,"$8,000,000",CHI,Chicago Bears,NFC North
+93,2013,Philip Wheeler,OLB,"$8,000,000",MIA,Miami Dolphins,AFC East
+94,2013,Jake Long,LT,"$8,000,000",STL,St. Louis Rams,NFC West
+95,2013,Jared Cook,TE,"$8,000,000",STL,St. Louis Rams,NFC West
+96,2013,Dee Milliner,CB,"$7,993,000",NYJ,New York Jets,AFC East
+97,2013,Ray Rice,RB,"$7,941,176",BAL,Baltimore Ravens,AFC North
+98,2013,Lawrence Timmons,ILB,"$7,875,000",PIT,Pittsburgh Steelers,AFC North
+99,2013,Brian Cushing,ILB,"$7,814,911",HOU,Houston Texans,AFC South
+100,2013,Brian Hartline,WR,"$7,715,000",MIA,Miami Dolphins,AFC East
+101,2013,Chance Warmack,G,"$7,633,472",TEN,Tennessee Titans,AFC South
+102,2013,Brandon Flowers,CB,"$7,600,000",KC,Kansas City Chiefs,AFC West
+103,2013,Chris Houston,CB,"$7,500,000",DET,Detroit Lions,NFC North
+104,2013,Troy Polamalu,S,"$7,500,000",PIT,Pittsburgh Steelers,AFC North
+105,2013,Santonio Holmes,WR,"$7,500,000",NYJ,New York Jets,AFC East
+106,2013,Kyle Arrington,CB,"$7,500,000",NE,New England Patriots,AFC East
+107,2013,Sean Smith,CB,"$7,500,000",KC,Kansas City Chiefs,AFC West
+108,2013,Johnathan Joseph,CB,"$7,500,000",HOU,Houston Texans,AFC South
+109,2013,Jahri Evans,G,"$7,400,000",NO,New Orleans Saints,NFC South
+110,2013,Lardarius Webb,CB,"$7,385,000",BAL,Baltimore Ravens,AFC North
+111,2013,Kam Chancellor,SS,"$7,325,000",SEA,Seattle Seahawks,NFC West
+112,2013,Stevie Johnson,WR,"$7,325,000",BUF,Buffalo Bills,AFC East
+113,2013,Eric Berry,FS,"$7,309,000",KC,Kansas City Chiefs,AFC West
+114,2013,Russell Okung,LT,"$7,260,000",SEA,Seattle Seahawks,NFC West
+115,2013,Antrel Rolle,SS,"$7,250,000",NYG,New  York Giants,NFC East
+116,2013,Matt Schaub,QB,"$7,250,000",HOU,Houston Texans,AFC South
+117,2013,Joe Haden,CB,"$7,136,429",CLE,Cleveland Browns,AFC North
+118,2013,D.J. Fluker,G,"$7,077,730",SD,San Diego Chargers,AFC West
+119,2013,Keenan Lewis,CB,"$7,050,000",NO,New Orleans Saints,NFC South
+120,2013,Marshawn Lynch,RB,"$7,000,000",SEA,Seattle Seahawks,NFC West
+121,2013,Tony Gonzalez,TE,"$7,000,000",ATL,Atlanta Falcons,NFC South
+122,2013,Antonio Brown,WR,"$7,000,000",PIT,Pittsburgh Steelers,AFC North
+123,2013,Vince Wilfork,DT,"$7,000,000",NE,New England Patriots,AFC East
+124,2013,DeSean Jackson,WR,"$7,000,000",PHI,Philadelphia Eagles,NFC East
+125,2013,Andre Smith,G,"$7,000,000",CIN,Cincinnati Bengals,AFC North
+126,2013,Chad Greenway,OLB,"$7,000,000",MIN,Minnesota Vikings,NFC North
+127,2013,Robert Mathis,OLB,"$7,000,000",IND,Indianapolis Colts,AFC South
+128,2013,Charles Johnson,DE,"$7,000,000",CAR,Carolina Panthers,NFC South
+129,2013,Louis Vasquez,G,"$7,000,000",DEN,Denver Broncos,AFC West
+130,2013,Jairus Byrd,FS,"$6,916,000",BUF,Buffalo Bills,AFC East
+131,2013,Alan Branch,DT,"$6,875,000",BUF,Buffalo Bills,AFC East
+132,2013,Miles Austin,WR,"$6,732,000",DAL,Dallas Cowboys,NFC East
+133,2013,Chris Snee,G,"$6,700,000",NYG,New  York Giants,NFC East
+134,2013,DeMeco Ryans,ILB,"$6,700,000",PHI,Philadelphia Eagles,NFC East
+135,2013,Darren McFadden,RB,"$6,678,584",OAK,Oakland Raiders,AFC West
+136,2013,Vernon Davis,TE,"$6,672,000",SF,San Francisco 49ers,NFC West
+137,2013,Roddy White,WR,"$6,600,000",ATL,Atlanta Falcons,NFC South
+138,2013,Red Bryant,DE,"$6,600,000",SEA,Seattle Seahawks,NFC West
+139,2013,Leon Hall,CB,"$6,600,000",CIN,Cincinnati Bengals,AFC North
+140,2013,DeMarcus Ware,OLB,"$6,500,000",DAL,Dallas Cowboys,NFC East
+141,2013,Ricky Jean Francois,DT,"$6,500,000",IND,Indianapolis Colts,AFC South
+142,2013,Tramon Williams,CB,"$6,500,000",GB,Green Bay Packers,NFC North
+143,2013,Paul Posluszny,OLB,"$6,500,000",JAC,Jacksonville Jaguars,AFC South
+144,2013,Frank Gore,RB,"$6,450,000",SF,San Francisco 49ers,NFC West
+145,2013,Terrell Suggs,OLB,"$6,400,000",BAL,Baltimore Ravens,AFC North
+146,2013,D.J. Hayden,CB,"$6,293,144",OAK,Oakland Raiders,AFC West
+147,2013,Matt Forte,RB,"$6,268,750",CHI,Chicago Bears,NFC North
+148,2013,Glover Quin,FS,"$6,250,000",DET,Detroit Lions,NFC North
+149,2013,Ryan Pickett,DT,"$6,200,000",GB,Green Bay Packers,NFC North
+150,2013,Ahtyba Rubin,DT,"$6,200,000",CLE,Cleveland Browns,AFC North
+151,2013,Wes Welker,WR,"$6,150,000",DEN,Denver Broncos,AFC West
+152,2013,Nick Mangold,C,"$6,110,000",NYJ,New York Jets,AFC East
+153,2013,Curtis Lofton,ILB,"$6,100,000",NO,New Orleans Saints,NFC South
+154,2013,Leodis McKelvin,CB,"$6,050,000",BUF,Buffalo Bills,AFC East
+155,2013,Chris Clemons,DE,"$6,000,000",SEA,Seattle Seahawks,NFC West
+156,2013,Anquan Boldin,WR,"$6,000,000",SF,San Francisco 49ers,NFC West
+157,2013,Cliff Avril,DE,"$6,000,000",SEA,Seattle Seahawks,NFC West
+158,2013,Eric Weddle,FS,"$6,000,000",SD,San Diego Chargers,AFC West
+159,2013,Logan Mankins,G,"$6,000,000",NE,New England Patriots,AFC East
+160,2013,Derek Cox,CB,"$6,000,000",SD,San Diego Chargers,AFC West
+161,2013,Reggie Wayne,WR,"$6,000,000",IND,Indianapolis Colts,AFC South
+162,2013,Michael Roos,LT,"$6,000,000",TEN,Tennessee Titans,AFC South
+163,2013,Donald Penn,LT,"$6,000,000",TB,Tampa Bay Buccaneers,NFC South
+164,2013,Davin Joseph,G,"$6,000,000",TB,Tampa Bay Buccaneers,NFC South
+165,2013,Robbie Gould,K,"$5,925,000",CHI,Chicago Bears,NFC North
+166,2013,Pierre Garcon,WR,"$5,906,250",WAS,Washington Commanders,NFC East
+167,2013,Star Lotulelei,DT,"$5,770,092",CAR,Carolina Panthers,NFC South
+168,2013,Sheldon Richardson,DT,"$5,762,176",NYJ,New York Jets,AFC East
+169,2013,Cary Williams,CB,"$5,750,000",PHI,Philadelphia Eagles,NFC East
+170,2013,Thomas Davis,OLB,"$5,750,000",CAR,Carolina Panthers,NFC South
+171,2013,Anthony Fasano,TE,"$5,750,000",KC,Kansas City Chiefs,AFC West
+172,2013,Paul Soliai,DT,"$5,750,000",MIA,Miami Dolphins,AFC East
+173,2013,Lance Briggs,OLB,"$5,750,000",CHI,Chicago Bears,NFC North
+174,2013,Delanie Walker,TE,"$5,650,000",TEN,Tennessee Titans,AFC South
+175,2013,Kraig Urbik,G,"$5,650,000",BUF,Buffalo Bills,AFC East
+176,2013,Antonio Smith,DE,"$5,647,059",HOU,Houston Texans,AFC South
+177,2013,Reshad Jones,SS,"$5,630,000",MIA,Miami Dolphins,AFC East
+178,2013,Jason Witten,TE,"$5,500,000",DAL,Dallas Cowboys,NFC East
+179,2013,London Fletcher,ILB,"$5,500,000",WAS,Washington Commanders,NFC East
+180,2013,Jordan Gross,LT,"$5,500,000",CAR,Carolina Panthers,NFC South
+181,2013,Brent Grimes,CB,"$5,500,000",MIA,Miami Dolphins,AFC East
+182,2013,Arian Foster,RB,"$5,500,000",HOU,Houston Texans,AFC South
+183,2013,Scott Wells,C,"$5,500,000",STL,St. Louis Rams,NFC West
+184,2013,Martellus Bennett,TE,"$5,315,000",CHI,Chicago Bears,NFC North
+185,2013,Sebastian Janikowski,K,"$5,300,000",OAK,Oakland Raiders,AFC West
+186,2013,Ben Grubbs,G,"$5,300,000",NO,New Orleans Saints,NFC South
+187,2013,Steven Jackson,RB,"$5,250,000",ATL,Atlanta Falcons,NFC South
+188,2013,Larry Fitzgerald,WR,"$5,250,000",ARI,Arizona Cardinals,NFC West
+189,2013,E.J. Manuel,QB,"$5,247,036",BUF,Buffalo Bills,AFC East
+190,2013,Dwight Freeney,OLB,"$5,187,500",SD,San Diego Chargers,AFC West
+191,2013,Jarvis Jones,OLB,"$5,116,272",PIT,Pittsburgh Steelers,AFC North
+192,2013,Mike DeVito,DE,"$5,100,000",KC,Kansas City Chiefs,AFC West
+193,2013,Tramaine Brock,CB,"$5,073,000",SF,San Francisco 49ers,NFC West
+194,2013,Dustin Colquitt,P,"$5,050,000",KC,Kansas City Chiefs,AFC West
+195,2013,Kenny Vaccaro,SS,"$5,023,530",NO,New Orleans Saints,NFC South
+196,2013,Osi Umenyiora,OLB,"$5,000,000",ATL,Atlanta Falcons,NFC South
+197,2013,Brandon Mebane,DT,"$5,000,000",SEA,Seattle Seahawks,NFC West
+198,2013,Michael Crabtree,WR,"$5,000,000",SF,San Francisco 49ers,NFC West
+199,2013,Reggie Bush,RB,"$5,000,000",DET,Detroit Lions,NFC North
+200,2013,Trent Williams,LT,"$5,000,000",WAS,Washington Commanders,NFC East
+201,2013,Kevin Williams,DT,"$5,000,000",MIN,Minnesota Vikings,NFC North
+202,2013,Greg Toler,CB,"$5,000,000",IND,Indianapolis Colts,AFC South
+203,2013,DeAngelo Williams,RB,"$5,000,000",CAR,Carolina Panthers,NFC South
+204,2013,Matt Hasselbeck,QB,"$5,000,000",IND,Indianapolis Colts,AFC South
+205,2013,Daryn Colledge,G,"$5,000,000",ARI,Arizona Cardinals,NFC West
+206,2013,Jason McCourty,CB,"$5,000,000",TEN,Tennessee Titans,AFC South
+207,2013,D'Qwell Jackson,ILB,"$5,000,000",CLE,Cleveland Browns,AFC North
+208,2013,Dominique Rodgers-Cromartie,CB,"$5,000,000",DEN,Denver Broncos,AFC West
+209,2013,Maurice Jones-Drew,RB,"$5,000,000",JAC,Jacksonville Jaguars,AFC South
+210,2013,Kendall Langford,DE,"$5,000,000",STL,St. Louis Rams,NFC West
+211,2013,Eric Reid,SS,"$4,952,820",SF,San Francisco 49ers,NFC West
+212,2013,Asante Samuel,CB,"$4,950,000",ATL,Atlanta Falcons,NFC South
+213,2013,Max Unger,C,"$4,900,000",SEA,Seattle Seahawks,NFC West
+214,2013,Aqib Talib,CB,"$4,882,813",NE,New England Patriots,AFC East
+215,2013,Corey Webster,CB,"$4,875,000",NYG,New  York Giants,NFC East
+216,2013,Kyle Williams,DT,"$4,855,000",BUF,Buffalo Bills,AFC East
+217,2013,Justin Pugh,G,"$4,854,744",NYG,New  York Giants,NFC East
+218,2013,Kyle Long,G,"$4,822,056",CHI,Chicago Bears,NFC North
+219,2013,Michael Bennett,DE,"$4,800,000",SEA,Seattle Seahawks,NFC West
+220,2013,Tyler Eifert,TE,"$4,789,364",CIN,Cincinnati Bengals,AFC North
+221,2013,Andrew Whitworth,LT,"$4,750,000",CIN,Cincinnati Bengals,AFC North
+222,2013,Antoine Bethea,SS,"$4,750,000",IND,Indianapolis Colts,AFC South
+223,2013,Dunta Robinson,CB,"$4,750,000",KC,Kansas City Chiefs,AFC West
+224,2013,Desmond Trufant,CB,"$4,723,980",ATL,Atlanta Falcons,NFC South
+225,2013,B.J. Raji,DT,"$4,715,000",GB,Green Bay Packers,NFC North
+226,2013,Jonathan Babineaux,DT,"$4,700,000",ATL,Atlanta Falcons,NFC South
+227,2013,Tyson Jackson,DE,"$4,700,000",KC,Kansas City Chiefs,AFC West
+228,2013,Darnell Dockett,DE,"$4,700,000",ARI,Arizona Cardinals,NFC West
+229,2013,Sharrif Floyd,DT,"$4,658,600",MIN,Minnesota Vikings,NFC North
+230,2013,Justin Tuck,DE,"$4,650,000",NYG,New  York Giants,NFC East
+231,2013,Manny Lawson,OLB,"$4,650,000",BUF,Buffalo Bills,AFC East
+232,2013,Navorro Bowman,ILB,"$4,630,000",SF,San Francisco 49ers,NFC West
+233,2013,Dimitri Patterson,CB,"$4,600,000",MIA,Miami Dolphins,AFC East
+234,2013,Tim Jennings,CB,"$4,600,000",CHI,Chicago Bears,NFC North
+235,2013,Marques Colston,WR,"$4,600,000",NO,New Orleans Saints,NFC South
+236,2013,William Hayes,DE,"$4,550,000",STL,St. Louis Rams,NFC West
+237,2013,Bjoern Werner,OLB,"$4,527,835",IND,Indianapolis Colts,AFC South
+238,2013,Justin Blalock,G,"$4,500,000",ATL,Atlanta Falcons,NFC South
+239,2013,Antonio Gates,TE,"$4,500,000",SD,San Diego Chargers,AFC West
+240,2013,David Baas,C,"$4,500,000",NYG,New  York Giants,NFC East
+241,2013,Barry Cofield,DT,"$4,500,000",WAS,Washington Commanders,NFC East
+242,2013,Mike Brisiel,G,"$4,500,000",OAK,Oakland Raiders,AFC West
+243,2013,Marshal Yanda,G,"$4,500,000",BAL,Baltimore Ravens,AFC North
+244,2013,Xavier Rhodes,CB,"$4,462,456",MIN,Minnesota Vikings,NFC North
+245,2013,Brad Jones,ILB,"$4,425,000",GB,Green Bay Packers,NFC North
+246,2013,Jeremy Zuttah,C,"$4,375,000",TB,Tampa Bay Buccaneers,NFC South
+247,2013,Josh Sitton,G,"$4,350,000",GB,Green Bay Packers,NFC North
+248,2013,Marcedes Lewis,TE,"$4,350,000",JAC,Jacksonville Jaguars,AFC South
+249,2013,Datone Jones,DE,"$4,338,357",GB,Green Bay Packers,NFC North
+250,2013,DeAndre Hopkins,WR,"$4,331,692",HOU,Houston Texans,AFC South
+251,2013,Jason Babin,DE,"$4,325,000",JAC,Jacksonville Jaguars,AFC South
+252,2013,Sylvester Williams,DT,"$4,299,000",DEN,Denver Broncos,AFC West
+253,2013,Michael Griffin,FS,"$4,294,118",TEN,Tennessee Titans,AFC South
+254,2013,Malcom Floyd,WR,"$4,250,000",SD,San Diego Chargers,AFC West
+255,2013,Britton Colquitt,P,"$4,250,000",DEN,Denver Broncos,AFC West
+256,2013,Shonn Greene,RB,"$4,250,000",TEN,Tennessee Titans,AFC South
+257,2013,Dustin Keller,TE,"$4,250,000",MIA,Miami Dolphins,AFC East
+258,2013,Nate Washington,WR,"$4,200,000",TEN,Tennessee Titans,AFC South
+259,2013,Will Smith,OLB,"$4,150,000",NO,New Orleans Saints,NFC South
+260,2013,Jabari Greer,CB,"$4,150,000",NO,New Orleans Saints,NFC South
+261,2013,Donte Whitner,SS,"$4,100,000",SF,San Francisco 49ers,NFC West
+262,2013,Domata Peko,DT,"$4,100,000",CIN,Cincinnati Bengals,AFC North
+263,2013,Levi Brown,LT,"$4,050,588",PIT,Pittsburgh Steelers,AFC North
+264,2013,Cordarrelle Patterson,WR,"$4,036,672",MIN,Minnesota Vikings,NFC North
+265,2013,Nick Roach,ILB,"$4,025,000",OAK,Oakland Raiders,AFC West
+266,2013,James Casey,FB,"$4,015,000",PHI,Philadelphia Eagles,NFC East
+267,2013,Breno Giacomini,RT,"$4,000,000",SEA,Seattle Seahawks,NFC West
+268,2013,DeAndre Levy,OLB,"$4,000,000",DET,Detroit Lions,NFC North
+269,2013,Jeromey Clary,G,"$4,000,000",SD,San Diego Chargers,AFC West
+270,2013,Kevin Huber,P,"$4,000,000",CIN,Cincinnati Bengals,AFC North
+271,2013,Josh Morgan,WR,"$4,000,000",WAS,Washington Commanders,NFC East
+272,2013,Stephen Bowen,DE,"$4,000,000",WAS,Washington Commanders,NFC East
+273,2013,Greg Olsen,TE,"$4,000,000",CAR,Carolina Panthers,NFC South
+274,2013,Haloti Ngata,DT,"$4,000,000",BAL,Baltimore Ravens,AFC North
+275,2013,Jacoby Jones,WR,"$4,000,000",BAL,Baltimore Ravens,AFC North
+276,2013,Jerraud Powers,CB,"$4,000,000",ARI,Arizona Cardinals,NFC West
+277,2013,Kamerion Wimbley,OLB,"$4,000,000",TEN,Tennessee Titans,AFC South
+278,2013,Sammie Lee Hill,DT,"$4,000,000",TEN,Tennessee Titans,AFC South
+279,2013,Matt Moore,QB,"$4,000,000",MIA,Miami Dolphins,AFC East
+280,2013,Owen Daniels,TE,"$4,000,000",HOU,Houston Texans,AFC South
+281,2013,Danieal Manning,S,"$4,000,000",HOU,Houston Texans,AFC South
+282,2013,David Hawthorne,ILB,"$4,000,000",NO,New Orleans Saints,NFC South
+283,2013,Marcel Reece,FB,"$3,992,744",OAK,Oakland Raiders,AFC West
+284,2013,Ike Taylor,CB,"$3,916,470",PIT,Pittsburgh Steelers,AFC North
+285,2013,Alec Ogletree,ILB,"$3,897,752",STL,St. Louis Rams,NFC West
+286,2013,Roman Harper,SS,"$3,850,000",NO,New Orleans Saints,NFC South
+287,2013,Alex Mack,C,"$3,832,000",CLE,Cleveland Browns,AFC North
+288,2013,Erik Walden,OLB,"$3,823,529",IND,Indianapolis Colts,AFC South
+289,2013,Chase Daniel,QB,"$3,800,000",KC,Kansas City Chiefs,AFC West
+290,2013,Brodrick Bunkley,DT,"$3,800,000",NO,New Orleans Saints,NFC South
+291,2013,Michael Oher,RT,"$3,785,000",BAL,Baltimore Ravens,AFC North
+292,2013,Brandon Gibson,WR,"$3,785,000",MIA,Miami Dolphins,AFC East
+293,2013,Travis Frederick,C,"$3,781,384",DAL,Dallas Cowboys,NFC East
+294,2013,Trent Cole,OLB,"$3,750,000",PHI,Philadelphia Eagles,NFC East
+295,2013,Rey Maualuga,ILB,"$3,750,000",CIN,Cincinnati Bengals,AFC North
+296,2013,Kory Lichtensteiger,C,"$3,750,000",WAS,Washington Commanders,NFC East
+297,2013,Steve Smith,WR,"$3,750,000",CAR,Carolina Panthers,NFC South
+298,2013,Matt Elam,SS,"$3,706,456",BAL,Baltimore Ravens,AFC North
+299,2013,Matt Cassel,QB,"$3,700,000",MIN,Minnesota Vikings,NFC North
+300,2013,Connor Barwin,OLB,"$3,700,000",PHI,Philadelphia Eagles,NFC East
+301,2013,Brian Orakpo,OLB,"$3,694,000",WAS,Washington Commanders,NFC East
+302,2013,Richie Incognito,G,"$3,629,411",MIA,Miami Dolphins,AFC East
+303,2013,Cameron Wake,DE,"$3,615,000",MIA,Miami Dolphins,AFC East
+304,2013,Koa Misi,OLB,"$3,609,405",MIA,Miami Dolphins,AFC East
+305,2013,A.J. Hawk,OLB,"$3,600,000",GB,Green Bay Packers,NFC North
+306,2013,Andy Lee,P,"$3,575,000",SF,San Francisco 49ers,NFC West
+307,2013,Ahmad Brooks,OLB,"$3,550,000",SF,San Francisco 49ers,NFC West
+308,2013,Rob Bironas,K,"$3,550,000",TEN,Tennessee Titans,AFC South
+309,2013,Stephen Tulloch,ILB,"$3,500,000",DET,Detroit Lions,NFC North
+310,2013,Doug Free,RT,"$3,500,000",DAL,Dallas Cowboys,NFC East
+311,2013,Jason Jones,DE,"$3,500,000",DET,Detroit Lions,NFC North
+312,2013,Junior Galette,OLB,"$3,500,000",NO,New Orleans Saints,NFC South
+313,2013,Ryan Clark,S,"$3,500,000",PIT,Pittsburgh Steelers,AFC North
+314,2013,Reggie Nelson,FS,"$3,500,000",CIN,Cincinnati Bengals,AFC North
+315,2013,Chris Chester,G,"$3,500,000",WAS,Washington Commanders,NFC East
+316,2013,Derrick Johnson,ILB,"$3,500,000",KC,Kansas City Chiefs,AFC West
+317,2013,Cory Redding,DE,"$3,500,000",IND,Indianapolis Colts,AFC South
+318,2013,Donald Thomas,G,"$3,500,000",IND,Indianapolis Colts,AFC South
+319,2013,Tyson Clabo,RT,"$3,500,000",MIA,Miami Dolphins,AFC East
+320,2013,Chris Myers,C,"$3,500,000",HOU,Houston Texans,AFC South
+321,2013,Glenn Dorsey,DE,"$3,350,000",SF,San Francisco 49ers,NFC West
+322,2013,Brent Celek,TE,"$3,331,000",PHI,Philadelphia Eagles,NFC East
+323,2013,Jeremy Maclin,WR,"$3,303,000",PHI,Philadelphia Eagles,NFC East
+324,2013,Charles Woodson,SS,"$3,300,000",OAK,Oakland Raiders,AFC West
+325,2013,Lance Moore,WR,"$3,300,000",NO,New Orleans Saints,NFC South
+326,2013,Ray McDonald,DT,"$3,250,000",SF,San Francisco 49ers,NFC West
+327,2013,LeSean McCoy,RB,"$3,250,000",PHI,Philadelphia Eagles,NFC East
+328,2013,Robert Geathers,DE,"$3,250,000",CIN,Cincinnati Bengals,AFC North
+329,2013,John Sullivan,C,"$3,250,000",MIN,Minnesota Vikings,NFC North
+330,2013,Charlie Johnson,G,"$3,250,000",MIN,Minnesota Vikings,NFC North
+331,2013,James Jones,WR,"$3,250,000",GB,Green Bay Packers,NFC North
+332,2013,Ryan Fitzpatrick,QB,"$3,250,000",TEN,Tennessee Titans,AFC South
+333,2013,Michael Koenen,P,"$3,250,000",TB,Tampa Bay Buccaneers,NFC South
+334,2013,Brett Keisel,DE,"$3,225,000",PIT,Pittsburgh Steelers,AFC North
+335,2013,Jonathan Stewart,RB,"$3,215,000",CAR,Carolina Panthers,NFC South
+336,2013,Cullen Jenkins,DE,"$3,150,000",NYG,New  York Giants,NFC East
+337,2013,Chad Henne,QB,"$3,150,000",JAC,Jacksonville Jaguars,AFC South
+338,2013,Eugene Monroe,LT,"$3,110,882",BAL,Baltimore Ravens,AFC North
+339,2013,Jordy Nelson,WR,"$3,100,000",GB,Green Bay Packers,NFC North
+340,2013,Paul McQuistan,LT,"$3,000,000",SEA,Seattle Seahawks,NFC West
+341,2013,Jarret Johnson,OLB,"$3,000,000",SD,San Diego Chargers,AFC West
+342,2013,Eddie Royal,WR,"$3,000,000",SD,San Diego Chargers,AFC West
+343,2013,Mike Scifres,P,"$3,000,000",SD,San Diego Chargers,AFC West
+344,2013,Mathias Kiwanuka,DE,"$3,000,000",NYG,New  York Giants,NFC East
+345,2013,Todd Herremans,G,"$3,000,000",PHI,Philadelphia Eagles,NFC East
+346,2013,Evan Mathis,G,"$3,000,000",PHI,Philadelphia Eagles,NFC East
+347,2013,Terence Newman,CB,"$3,000,000",CIN,Cincinnati Bengals,AFC North
+348,2013,Patrick Chung,SS,"$3,000,000",PHI,Philadelphia Eagles,NFC East
+349,2013,Jamaal Charles,RB,"$3,000,000",KC,Kansas City Chiefs,AFC West
+350,2013,Chris Ivory,RB,"$3,000,000",NYJ,New York Jets,AFC East
+351,2013,Drew Stanton,QB,"$3,000,000",ARI,Arizona Cardinals,NFC West
+352,2013,Joel Dreessen,TE,"$3,000,000",DEN,Denver Broncos,AFC West
+353,2013,Wesley Woodyard,ILB,"$3,000,000",DEN,Denver Broncos,AFC West
+354,2013,Kevin Vickerson,DT,"$3,000,000",DEN,Denver Broncos,AFC West
+355,2013,Darren Sproles,RB,"$3,000,000",NO,New Orleans Saints,NFC South
+356,2013,Kevin Kolb,QB,"$3,000,000",BUF,Buffalo Bills,AFC East
+357,2013,Wade Smith,G,"$3,000,000",HOU,Houston Texans,AFC South
+358,2013,Pat McAfee,P,"$2,977,000",IND,Indianapolis Colts,AFC South
+359,2013,Wallace Gilberry,DE,"$2,950,000",CIN,Cincinnati Bengals,AFC North
+360,2013,Jerome Felton,FB,"$2,941,178",MIN,Minnesota Vikings,NFC North
+361,2013,Patrick Willis,ILB,"$2,937,000",SF,San Francisco 49ers,NFC West
+362,2013,Chris Canty,DE,"$2,840,000",BAL,Baltimore Ravens,AFC North
+363,2013,Joe Staley,LT,"$2,800,000",SF,San Francisco 49ers,NFC West
+364,2013,Donnie Avery,WR,"$2,800,000",KC,Kansas City Chiefs,AFC West
+365,2013,Kaluka Maiava,ILB,"$2,765,000",OAK,Oakland Raiders,AFC West
+366,2013,John Cyprien,SS,"$2,762,528",JAC,Jacksonville Jaguars,AFC South
+367,2013,Harvey Dahl,G,"$2,750,000",STL,St. Louis Rams,NFC West
+368,2013,Harry Douglas,WR,"$2,750,000",ATL,Atlanta Falcons,NFC South
+369,2013,Shaun Hill,QB,"$2,750,000",DET,Detroit Lions,NFC North
+370,2013,BenJarvus Green-Ellis,RB,"$2,750,000",CIN,Cincinnati Bengals,AFC North
+371,2013,Chris Clemons,FS,"$2,750,000",MIA,Miami Dolphins,AFC East
+372,2013,Justin Hunter,WR,"$2,729,836",TEN,Tennessee Titans,AFC South
+373,2013,Hakeem Nicks,WR,"$2,725,000",NYG,New  York Giants,NFC East
+374,2013,Kyle Cook,C,"$2,700,000",CIN,Cincinnati Bengals,AFC North
+375,2013,Fred Jackson,RB,"$2,700,000",BUF,Buffalo Bills,AFC East
+376,2013,Zach Ertz,TE,"$2,697,144",PHI,Philadelphia Eagles,NFC East
+377,2013,Davone Bess,WR,"$2,683,334",CLE,Cleveland Browns,AFC North
+378,2013,John Phillips,TE,"$2,650,000",SD,San Diego Chargers,AFC West
+379,2013,Darius Slay,CB,"$2,631,764",DET,Detroit Lions,NFC North
+380,2013,Jacob Tamme,TE,"$2,625,000",DEN,Denver Broncos,AFC West
+381,2013,Nick Hardwick,C,"$2,600,000",SD,San Diego Chargers,AFC West
+382,2013,Stephen Gostkowski,K,"$2,600,000",NE,New England Patriots,AFC East
+383,2013,Steve McLendon,DT,"$2,575,000",PIT,Pittsburgh Steelers,AFC North
+384,2013,Lyle Sendlein,C,"$2,550,000",ARI,Arizona Cardinals,NFC West
+385,2013,Manti Te'o,ILB,"$2,546,760",SD,San Diego Chargers,AFC West
+386,2013,Mike Tolbert,FB,"$2,525,000",CAR,Carolina Panthers,NFC South
+387,2013,Malcolm Jenkins,FS,"$2,514,000",NO,New Orleans Saints,NFC South
+388,2013,Pierre Thomas,RB,"$2,500,000",NO,New Orleans Saints,NFC South
+389,2013,Stephen Nicholas,OLB,"$2,500,000",ATL,Atlanta Falcons,NFC South
+390,2013,Jonathan Goodwin,C,"$2,500,000",SF,San Francisco 49ers,NFC West
+391,2013,Emmanuel Sanders,WR,"$2,500,000",PIT,Pittsburgh Steelers,AFC North
+392,2013,Fred Davis,TE,"$2,500,000",WAS,Washington Commanders,NFC East
+393,2013,Letroy Guion,DE,"$2,500,000",MIN,Minnesota Vikings,NFC North
+394,2013,Kevin Burnett,OLB,"$2,500,000",OAK,Oakland Raiders,AFC West
+395,2013,Jamarca Sanford,SS,"$2,500,000",MIN,Minnesota Vikings,NFC North
+396,2013,Tommy Kelly,DT,"$2,500,000",NE,New England Patriots,AFC East
+397,2013,Darrius Heyward-Bey,WR,"$2,500,000",IND,Indianapolis Colts,AFC South
+398,2013,Rashard Mendenhall,RB,"$2,500,000",ARI,Arizona Cardinals,NFC West
+399,2013,Matt Prater,K,"$2,500,000",DEN,Denver Broncos,AFC West
+400,2013,Craig Stevens,TE,"$2,500,000",TEN,Tennessee Titans,AFC South
+401,2013,Duane Brown,LT,"$2,500,000",HOU,Houston Texans,AFC South
+402,2013,Benjamin Watson,TE,"$2,450,000",NO,New Orleans Saints,NFC South
+403,2013,Geno Smith,QB,"$2,435,620",NYJ,New York Jets,AFC East
+404,2013,Kroy Biermann,OLB,"$2,400,000",ATL,Atlanta Falcons,NFC South
+405,2013,Matt Bryant,K,"$2,400,000",ATL,Atlanta Falcons,NFC South
+406,2013,Rob Ninkovich,OLB,"$2,400,000",NE,New England Patriots,AFC East
+407,2013,Russell Allen,OLB,"$2,400,000",JAC,Jacksonville Jaguars,AFC South
+408,2013,Cornellius Carradine,DE,"$2,383,312",SF,San Francisco 49ers,NFC West
+409,2013,Cam Newton,QB,"$2,377,318",CAR,Carolina Panthers,NFC South
+410,2013,Phil Dawson,K,"$2,350,000",SF,San Francisco 49ers,NFC West
+411,2013,Bradley Fletcher,CB,"$2,350,000",PHI,Philadelphia Eagles,NFC East
+412,2013,Mike McGlynn,G,"$2,350,000",IND,Indianapolis Colts,AFC South
+413,2013,John Kuhn,FB,"$2,350,000",GB,Green Bay Packers,NFC North
+414,2013,Josh Scobee,K,"$2,350,000",JAC,Jacksonville Jaguars,AFC South
+415,2013,Scott Chandler,TE,"$2,350,000",BUF,Buffalo Bills,AFC East
+416,2013,Zach Strief,RT,"$2,325,000",NO,New Orleans Saints,NFC South
+417,2013,Robert Woods,WR,"$2,324,472",BUF,Buffalo Bills,AFC East
+418,2013,Jerod Mayo,ILB,"$2,300,000",NE,New England Patriots,AFC East
+419,2013,King Dunlap,LT,"$2,300,000",SD,San Diego Chargers,AFC West
+420,2013,Menelik Watson,RT,"$2,272,164",OAK,Oakland Raiders,AFC West
+421,2013,Thomas Morstead,P,"$2,250,000",NO,New Orleans Saints,NFC South
+422,2013,Mackenzy Bernadeau,C,"$2,250,000",DAL,Dallas Cowboys,NFC East
+423,2013,Craig Dahl,SS,"$2,250,000",SF,San Francisco 49ers,NFC West
+424,2013,Dan Connolly,G,"$2,250,000",NE,New England Patriots,AFC East
+425,2013,Nick Novak,K,"$2,250,000",SD,San Diego Chargers,AFC West
+426,2013,Brandon Myers,TE,"$2,250,000",NYG,New  York Giants,NFC East
+427,2013,Erik Pears,RT,"$2,250,000",BUF,Buffalo Bills,AFC East
+428,2013,Brice McCain,CB,"$2,250,000",HOU,Houston Texans,AFC South
+429,2013,Marcell Dareus,DT,"$2,230,210",BUF,Buffalo Bills,AFC East
+430,2013,Rob Sims,G,"$2,225,000",DET,Detroit Lions,NFC North
+431,2013,Johnthan Banks,CB,"$2,222,324",TB,Tampa Bay Buccaneers,NFC South
+432,2013,Adam Vinatieri,K,"$2,200,000",IND,Indianapolis Colts,AFC South
+433,2013,Dwan Edwards,DT,"$2,200,000",CAR,Carolina Panthers,NFC South
+434,2013,Brandon Pettigrew,TE,"$2,196,250",DET,Detroit Lions,NFC North
+435,2013,A.J. Green,WR,"$2,164,826",CIN,Cincinnati Bengals,AFC North
+436,2013,Heath Miller,TE,"$2,162,000",PIT,Pittsburgh Steelers,AFC North
+437,2013,Kawann Short,DT,"$2,152,516",CAR,Carolina Panthers,NFC South
+438,2013,Earl Thomas,FS,"$2,150,000",SEA,Seattle Seahawks,NFC West
+439,2013,Roberto Garza,C,"$2,125,000",CHI,Chicago Bears,NFC North
+440,2013,Devin Hester,WR,"$2,107,523",CHI,Chicago Bears,NFC North
+441,2013,Ramon Foster,G,"$2,100,000",PIT,Pittsburgh Steelers,AFC North
+442,2013,Adam-Pacman Jones,CB,"$2,100,000",CIN,Cincinnati Bengals,AFC North
+443,2013,John Abraham,OLB,"$2,100,000",ARI,Arizona Cardinals,NFC West
+444,2013,Jon Beason,ILB,"$2,078,125",NYG,New  York Giants,NFC East
+445,2013,Tyson Alualu,DE,"$2,072,500",JAC,Jacksonville Jaguars,AFC South
+446,2013,Lorenzo Alexander,OLB,"$2,065,000",ARI,Arizona Cardinals,NFC West
+447,2013,Patrick Peterson,CB,"$2,050,409",ARI,Arizona Cardinals,NFC West
+448,2013,Adam Carriker,DE,"$2,050,000",WAS,Washington Commanders,NFC East
+449,2013,Corey Graham,FS,"$2,050,000",BAL,Baltimore Ravens,AFC North
+450,2013,John Greco,G,"$2,040,000",CLE,Cleveland Browns,AFC North
+451,2013,Brian De La Puente,C,"$2,023,000",NO,New Orleans Saints,NFC South
+452,2013,Stevie Brown,SS,"$2,023,000",NYG,New  York Giants,NFC East
+453,2013,Andre Brown,RB,"$2,023,000",NYG,New  York Giants,NFC East
+454,2013,Austin Howard,RT,"$2,023,000",NYJ,New York Jets,AFC East
+455,2013,Arthur Jones,DT,"$2,023,000",BAL,Baltimore Ravens,AFC North
+456,2013,Dennis Pitta,TE,"$2,023,000",BAL,Baltimore Ravens,AFC North
+457,2013,Sam Shields,CB,"$2,023,000",GB,Green Bay Packers,NFC North
+458,2013,Josh Freeman,QB,"$2,000,001",MIN,Minnesota Vikings,NFC North
+459,2013,Orlando Scandrick,CB,"$2,000,000",DAL,Dallas Cowboys,NFC East
+460,2013,Jason Hatcher,DE,"$2,000,000",DAL,Dallas Cowboys,NFC East
+461,2013,Josh Wilson,CB,"$2,000,000",WAS,Washington Commanders,NFC East
+462,2013,Vance Walker,DE,"$2,000,000",OAK,Oakland Raiders,AFC West
+463,2013,Ryan Succop,K,"$2,000,000",KC,Kansas City Chiefs,AFC West
+464,2013,Darius Butler,FS,"$2,000,000",IND,Indianapolis Colts,AFC South
+465,2013,Adrian Wilson,S,"$2,000,000",NE,New England Patriots,AFC East
+466,2013,Vonta Leach,FB,"$2,000,000",BAL,Baltimore Ravens,AFC North
+467,2013,T.J. Lang,G,"$2,000,000",GB,Green Bay Packers,NFC North
+468,2013,Eric Winston,RT,"$2,000,000",ARI,Arizona Cardinals,NFC West
+469,2013,Mike Adams,SS,"$2,000,000",DEN,Denver Broncos,AFC West
+470,2013,Terrance Knighton,DT,"$2,000,000",DEN,Denver Broncos,AFC West
+471,2013,David Bruton,SS,"$2,000,000",DEN,Denver Broncos,AFC West
+472,2013,George Wilson,S,"$2,000,000",TEN,Tennessee Titans,AFC South
+473,2013,Demar Dotson,RT,"$2,000,000",TB,Tampa Bay Buccaneers,NFC South
+474,2013,Roy Miller,DT,"$2,000,000",JAC,Jacksonville Jaguars,AFC South
+475,2013,Shane Lechler,P,"$2,000,000",HOU,Houston Texans,AFC South
+476,2013,Evander Hood,DE,"$1,992,325",PIT,Pittsburgh Steelers,AFC North
+477,2013,Kevin Minter,ILB,"$1,977,944",ARI,Arizona Cardinals,NFC West
+478,2013,Daryl Washington,ILB,"$1,935,294",ARI,Arizona Cardinals,NFC West
+479,2013,Ahmad Bradshaw,RB,"$1,918,750",IND,Indianapolis Colts,AFC South
+480,2013,Kiko Alonso,OLB,"$1,912,564",BUF,Buffalo Bills,AFC East
+481,2013,Thomas DeCoud,S,"$1,900,000",ATL,Atlanta Falcons,NFC South
+482,2013,Sam Koch,P,"$1,900,000",BAL,Baltimore Ravens,AFC North
+483,2013,Vontae Davis,CB,"$1,861,250",IND,Indianapolis Colts,AFC South
+484,2013,Bruce Gradkowski,QB,"$1,850,000",PIT,Pittsburgh Steelers,AFC North
+485,2013,Steve Weatherford,P,"$1,850,000",NYG,New  York Giants,NFC East
+486,2013,Will Montgomery,C,"$1,850,000",WAS,Washington Commanders,NFC East
+487,2013,Julio Jones,WR,"$1,846,250",ATL,Atlanta Falcons,NFC South
+488,2013,Dez Bryant,WR,"$1,807,500",DAL,Dallas Cowboys,NFC East
+489,2013,Mario Manningham,WR,"$1,800,000",SF,San Francisco 49ers,NFC West
+490,2013,Anthony Collins,LT,"$1,800,000",CIN,Cincinnati Bengals,AFC North
+491,2013,Jay Feely,K,"$1,800,000",ARI,Arizona Cardinals,NFC West
+492,2013,Rashad Johnson,FS,"$1,800,000",ARI,Arizona Cardinals,NFC West
+493,2013,Danny Woodhead,RB,"$1,750,000",SD,San Diego Chargers,AFC West
+494,2013,Pat Sims,DT,"$1,750,000",OAK,Oakland Raiders,AFC West
+495,2013,Le'Veon Bell,RB,"$1,741,305",PIT,Pittsburgh Steelers,AFC North
+496,2013,Logan Paulsen,TE,"$1,730,000",WAS,Washington Commanders,NFC East
+497,2013,Johnathan Hankins,DT,"$1,716,408",NYG,New  York Giants,NFC East
+498,2013,Louis Delmas,FS,"$1,715,000",DET,Detroit Lions,NFC North
+499,2013,Donald Brown,RB,"$1,705,000",IND,Indianapolis Colts,AFC South
+500,2013,Charles Godfrey,SS,"$1,700,000",CAR,Carolina Panthers,NFC South
+501,2013,Knowshon Moreno,RB,"$1,700,000",DEN,Denver Broncos,AFC West
+502,2013,Michael Otto,LT,"$1,700,000",TEN,Tennessee Titans,AFC South
+503,2013,Aldon Smith,OLB,"$1,682,636",SF,San Francisco 49ers,NFC West
+504,2013,Jon Bostic,ILB,"$1,651,036",CHI,Chicago Bears,NFC North
+505,2013,Darrel Young,FB,"$1,650,000",WAS,Washington Commanders,NFC East
+506,2013,Antwan Barnes,OLB,"$1,650,000",NYJ,New York Jets,AFC East
+507,2013,Alex Boone,G,"$1,600,000",SF,San Francisco 49ers,NFC West
+508,2013,Mike Nugent,K,"$1,600,000",CIN,Cincinnati Bengals,AFC North
+509,2013,Jerome Simpson,WR,"$1,600,000",MIN,Minnesota Vikings,NFC North
+510,2013,Matthew Slater,WR,"$1,600,000",NE,New England Patriots,AFC East
+511,2013,Nate Garner,RT,"$1,600,000",MIA,Miami Dolphins,AFC East
+512,2013,David Amerson,CB,"$1,585,656",WAS,Washington Commanders,NFC East
+513,2013,Manuel Ramirez,G,"$1,565,000",DEN,Denver Broncos,AFC West
+514,2013,Ian Williams,DT,"$1,555,000",SF,San Francisco 49ers,NFC West
+515,2013,C.J. Spiller,RB,"$1,550,834",BUF,Buffalo Bills,AFC East
+516,2013,John Carlson,TE,"$1,550,000",MIN,Minnesota Vikings,NFC North
+517,2013,Jon Condo,LS,"$1,550,000",OAK,Oakland Raiders,AFC West
+518,2013,Jeff King,TE,"$1,550,000",ARI,Arizona Cardinals,NFC West
+519,2013,Chris Clark,LT,"$1,548,666",DEN,Denver Broncos,AFC West
+520,2013,Paris Lenon,ILB,"$1,540,000",DEN,Denver Broncos,AFC West
+521,2013,Jamie Collins,OLB,"$1,520,272",NE,New England Patriots,AFC East
+522,2013,Jake Locker,QB,"$1,519,182",TEN,Tennessee Titans,AFC South
+523,2013,Tyron Smith,LT,"$1,511,009",DAL,Dallas Cowboys,NFC East
+524,2013,Willie Young,OLB,"$1,500,000",DET,Detroit Lions,NFC North
+525,2013,Heath Farwell,ILB,"$1,500,000",SEA,Seattle Seahawks,NFC West
+526,2013,Brian Waters,G,"$1,500,000",DAL,Dallas Cowboys,NFC East
+527,2013,Victor Butler,OLB,"$1,500,000",NO,New Orleans Saints,NFC South
+528,2013,Dan Skuta,OLB,"$1,500,000",SF,San Francisco 49ers,NFC West
+529,2013,William Gay,CB,"$1,500,000",PIT,Pittsburgh Steelers,AFC North
+530,2013,E.J. Biggers,CB,"$1,500,000",WAS,Washington Commanders,NFC East
+531,2013,Reed Doughty,S,"$1,500,000",WAS,Washington Commanders,NFC East
+532,2013,Fred Evans,DT,"$1,500,000",MIN,Minnesota Vikings,NFC North
+533,2013,Erin Henderson,ILB,"$1,500,000",MIN,Minnesota Vikings,NFC North
+534,2013,Mike Jenkins,CB,"$1,500,000",OAK,Oakland Raiders,AFC West
+535,2013,Dawan Landry,S,"$1,500,000",NYJ,New York Jets,AFC East
+536,2013,Jameel McClain,ILB,"$1,500,000",BAL,Baltimore Ravens,AFC North
+537,2013,Dave Zastudil,P,"$1,500,000",ARI,Arizona Cardinals,NFC West
+538,2013,Antoine Cason,CB,"$1,500,000",ARI,Arizona Cardinals,NFC West
+539,2013,Jasper Brinkley,ILB,"$1,500,000",ARI,Arizona Cardinals,NFC West
+540,2013,Jason Campbell,QB,"$1,500,000",CLE,Cleveland Browns,AFC North
+541,2013,Quentin Jammer,S,"$1,500,000",DEN,Denver Broncos,AFC West
+542,2013,Robert Turner,C,"$1,500,000",TEN,Tennessee Titans,AFC South
+543,2013,Michael Bush,RB,"$1,500,000",CHI,Chicago Bears,NFC North
+544,2013,Brad Meester,C,"$1,500,000",JAC,Jacksonville Jaguars,AFC South
+545,2013,Sen'Derrick Marks,DT,"$1,500,000",JAC,Jacksonville Jaguars,AFC South
+546,2013,Von Miller,OLB,"$1,477,964",DEN,Denver Broncos,AFC West
+547,2013,Blaine Gabbert,QB,"$1,466,058",JAC,Jacksonville Jaguars,AFC South
+548,2013,L.P. Ladouceur,LS,"$1,465,000",DAL,Dallas Cowboys,NFC East
+549,2013,Margus Hunt,DT,"$1,454,892",CIN,Cincinnati Bengals,AFC North
+550,2013,Jarrett Bush,CB,"$1,450,000",GB,Green Bay Packers,NFC North
+551,2013,Don Carey,SS,"$1,430,000",DET,Detroit Lions,NFC North
+552,2013,Tarell Brown,CB,"$1,425,000",SF,San Francisco 49ers,NFC West
+553,2013,Shaun Suisham,K,"$1,425,000",PIT,Pittsburgh Steelers,AFC North
+554,2013,Jamar Taylor,CB,"$1,422,200",MIA,Miami Dolphins,AFC East
+555,2013,Vance McDonald,TE,"$1,402,584",SF,San Francisco 49ers,NFC West
+556,2013,James Harrison,OLB,"$1,400,000",CIN,Cincinnati Bengals,AFC North
+557,2013,Shaun Phillips,DE,"$1,400,000",DEN,Denver Broncos,AFC West
+558,2013,Jonathan Casillas,OLB,"$1,400,000",TB,Tampa Bay Buccaneers,NFC South
+559,2013,Moise Fokou,ILB,"$1,400,000",TEN,Tennessee Titans,AFC South
+560,2013,J.J. Watt,DE,"$1,396,590",HOU,Houston Texans,AFC South
+561,2013,Andrew Luck,QB,"$1,394,909",IND,Indianapolis Colts,AFC South
+562,2013,Adam Snyder,G,"$1,393,000",SF,San Francisco 49ers,NFC West
+563,2013,Chris Williams,G,"$1,376,154",STL,St. Louis Rams,NFC West
+564,2013,Arthur Brown,ILB,"$1,369,896",BAL,Baltimore Ravens,AFC North
+565,2013,Kyle Orton,QB,"$1,350,000",DAL,Dallas Cowboys,NFC East
+566,2013,Brandon LaFell,WR,"$1,350,000",CAR,Carolina Panthers,NFC South
+567,2013,Earl Bennett,WR,"$1,350,000",CHI,Chicago Bears,NFC North
+568,2013,Robert Griffin III,QB,"$1,349,959",WAS,Washington Commanders,NFC East
+569,2013,Clark Harris,LS,"$1,340,000",CIN,Cincinnati Bengals,AFC North
+570,2013,Jon Dorenbos,LS,"$1,340,000",PHI,Philadelphia Eagles,NFC East
+571,2013,Mike Goodson,RB,"$1,331,941",NYJ,New York Jets,AFC East
+572,2013,D.J. Williams,ILB,"$1,328,125",CHI,Chicago Bears,NFC North
+573,2013,Adam Podlesh,P,"$1,325,000",CHI,Chicago Bears,NFC North
+574,2013,D.J. Swearinger,FS,"$1,324,128",HOU,Houston Texans,AFC South
+575,2013,Corey Peters,DT,"$1,323,000",ATL,Atlanta Falcons,NFC South
+576,2013,Jason Fox,RT,"$1,323,000",DET,Detroit Lions,NFC North
+577,2013,Jimmy Graham,TE,"$1,323,000",NO,New Orleans Saints,NFC South
+578,2013,Donald Butler,ILB,"$1,323,000",SD,San Diego Chargers,AFC West
+579,2013,Cam Thomas,DT,"$1,323,000",SD,San Diego Chargers,AFC West
+580,2013,Danario Alexander,WR,"$1,323,000",SD,San Diego Chargers,AFC West
+581,2013,Perry Riley,ILB,"$1,323,000",WAS,Washington Commanders,NFC East
+582,2013,Chris Baker,DT,"$1,323,000",WAS,Washington Commanders,NFC East
+583,2013,J.D. Walton,C,"$1,323,000",WAS,Washington Commanders,NFC East
+584,2013,A.J. Jefferson,CB,"$1,323,000",MIN,Minnesota Vikings,NFC North
+585,2013,Jared Veldheer,RT,"$1,323,000",OAK,Oakland Raiders,AFC West
+586,2013,Jeff Cumberland,TE,"$1,323,000",NYJ,New York Jets,AFC East
+587,2013,Jacoby Ford,WR,"$1,323,000",OAK,Oakland Raiders,AFC West
+588,2013,Jon Asamoah,G,"$1,323,000",KC,Kansas City Chiefs,AFC West
+589,2013,Kendrick Lewis,FS,"$1,323,000",KC,Kansas City Chiefs,AFC West
+590,2013,Jeff Linkenbach,RT,"$1,323,000",IND,Indianapolis Colts,AFC South
+591,2013,Cassius Vaughn,CB,"$1,323,000",IND,Indianapolis Colts,AFC South
+592,2013,Ed Dickson,TE,"$1,323,000",BAL,Baltimore Ravens,AFC North
+593,2013,Andrew Quarless,TE,"$1,323,000",GB,Green Bay Packers,NFC North
+594,2013,Marshall Newhouse,RT,"$1,323,000",GB,Green Bay Packers,NFC North
+595,2013,Evan Smith,C,"$1,323,000",GB,Green Bay Packers,NFC North
+596,2013,Andre Roberts,WR,"$1,323,000",ARI,Arizona Cardinals,NFC West
+597,2013,Shawn Lauvao,G,"$1,323,000",CLE,Cleveland Browns,AFC North
+598,2013,Eric Decker,WR,"$1,323,000",DEN,Denver Broncos,AFC West
+599,2013,Alterraun Verner,CB,"$1,323,000",TEN,Tennessee Titans,AFC South
+600,2013,Ted Larsen,G,"$1,323,000",TB,Tampa Bay Buccaneers,NFC South
+601,2013,Daniel Te'o-Nesheim,DE,"$1,323,000",TB,Tampa Bay Buccaneers,NFC South
+602,2013,Major Wright,S,"$1,323,000",CHI,Chicago Bears,NFC North
+603,2013,Corey Wootton,DT,"$1,323,000",CHI,Chicago Bears,NFC North
+604,2013,John Jerry,G,"$1,323,000",MIA,Miami Dolphins,AFC East
+605,2013,Arthur Moats,OLB,"$1,323,000",BUF,Buffalo Bills,AFC East
+606,2013,Trent Richardson,RB,"$1,321,354",IND,Indianapolis Colts,AFC South
+607,2013,Garrett Reynolds,G,"$1,315,000",ATL,Atlanta Falcons,NFC South
+608,2013,Montee Ball,RB,"$1,304,512",DEN,Denver Broncos,AFC West
+609,2013,Mike Iupati,G,"$1,302,000",SF,San Francisco 49ers,NFC West
+610,2013,Jon Ryan,P,"$1,300,000",SEA,Seattle Seahawks,NFC West
+611,2013,Charlie Whitehurst,QB,"$1,300,000",SD,San Diego Chargers,AFC West
+612,2013,Nick Sundberg,LS,"$1,300,000",WAS,Washington Commanders,NFC East
+613,2013,Greg Hardy,DE,"$1,300,000",CAR,Carolina Panthers,NFC South
+614,2013,Quentin Groves,OLB,"$1,300,000",CLE,Cleveland Browns,AFC North
+615,2013,Christian Ponder,QB,"$1,298,518",MIN,Minnesota Vikings,NFC North
+616,2013,Matt Kalil,LT,"$1,288,663",MIN,Minnesota Vikings,NFC North
+617,2013,Parys Haralson,DE,"$1,281,250",NO,New Orleans Saints,NFC South
+618,2013,Aaron Dobson,WR,"$1,278,360",NE,New England Patriots,AFC East
+619,2013,Larry English,OLB,"$1,275,000",SD,San Diego Chargers,AFC West
+620,2013,Jason Pierre-Paul,DE,"$1,275,000",NYG,New  York Giants,NFC East
+621,2013,Nick Fairley,DT,"$1,274,000",DET,Detroit Lions,NFC North
+622,2013,Robert Alford,CB,"$1,258,744",ATL,Atlanta Falcons,NFC South
+623,2013,Adam Hayward,OLB,"$1,257,000",TB,Tampa Bay Buccaneers,NFC South
+624,2013,Eddie Lacy,RB,"$1,252,208",GB,Green Bay Packers,NFC North
+625,2013,Dominic Raiola,C,"$1,250,000",DET,Detroit Lions,NFC North
+626,2013,C.J. Spillman,S,"$1,250,000",SF,San Francisco 49ers,NFC West
+627,2013,Brandon Graham,DE,"$1,250,000",PHI,Philadelphia Eagles,NFC East
+628,2013,Chad Rinehart,G,"$1,250,000",SD,San Diego Chargers,AFC West
+629,2013,DeAngelo Hall,CB,"$1,250,000",WAS,Washington Commanders,NFC East
+630,2013,Fili Moala,DE,"$1,250,000",IND,Indianapolis Colts,AFC South
+631,2013,Brandon Fields,P,"$1,250,000",MIA,Miami Dolphins,AFC East
+632,2013,James Anderson,OLB,"$1,250,000",CHI,Chicago Bears,NFC North
+633,2013,John Denney,LS,"$1,250,000",MIA,Miami Dolphins,AFC East
+634,2013,Christine Michael,RB,"$1,239,132",SEA,Seattle Seahawks,NFC West
+635,2013,Robert Quinn,OLB,"$1,232,829",STL,St. Louis Rams,NFC West
+636,2013,Corey Hilliard,RT,"$1,230,000",DET,Detroit Lions,NFC North
+637,2013,Mike Pouncey,C,"$1,216,790",MIA,Miami Dolphins,AFC East
+638,2013,C.J. Mosley,DT,"$1,200,000",DET,Detroit Lions,NFC North
+639,2013,Phil Costa,C,"$1,200,000",DAL,Dallas Cowboys,NFC East
+640,2013,Kedric Golston,DT,"$1,200,000",WAS,Washington Commanders,NFC East
+641,2013,Stewart Bradley,ILB,"$1,200,000",DEN,Denver Broncos,AFC West
+642,2013,Ryan Mathews,RB,"$1,195,500",SD,San Diego Chargers,AFC West
+643,2013,Brandon Meriweather,SS,"$1,179,412",WAS,Washington Commanders,NFC East
+644,2013,Ryan Kerrigan,OLB,"$1,167,754",WAS,Washington Commanders,NFC East
+645,2013,Domenik Hixon,WR,"$1,162,500",CAR,Carolina Panthers,NFC South
+646,2013,Derrick Morgan,OLB,"$1,160,000",TEN,Tennessee Titans,AFC South
+647,2013,Nate Solder,LT,"$1,151,408",NE,New England Patriots,AFC East
+648,2013,Justin Durant,OLB,"$1,150,000",DAL,Dallas Cowboys,NFC East
+649,2013,Chris Kuper,G,"$1,150,000",DEN,Denver Broncos,AFC West
+650,2013,Justin Forsett,RB,"$1,150,000",JAC,Jacksonville Jaguars,AFC South
+651,2013,Corey Liuget,DT,"$1,130,976",SD,San Diego Chargers,AFC West
+652,2013,Morris Claiborne,CB,"$1,129,296",DAL,Dallas Cowboys,NFC East
+653,2013,Maurkice Pouncey,C,"$1,127,250",PIT,Pittsburgh Steelers,AFC North
+654,2013,Garry Williams,G,"$1,125,000",CAR,Carolina Panthers,NFC South
+655,2013,Daryl Smith,ILB,"$1,125,000",BAL,Baltimore Ravens,AFC North
+656,2013,Adrian Clayborn,DE,"$1,121,378",TB,Tampa Bay Buccaneers,NFC South
+657,2013,Prince Amukamara,CB,"$1,118,718",NYG,New  York Giants,NFC East
+658,2013,Cedric Peerman,RB,"$1,115,000",CIN,Cincinnati Bengals,AFC North
+659,2013,Phil Taylor,DT,"$1,110,750",CLE,Cleveland Browns,AFC North
+660,2013,Travis Kelce,TE,"$1,108,304",KC,Kansas City Chiefs,AFC West
+661,2013,Anthony Castonzo,LT,"$1,102,372",IND,Indianapolis Colts,AFC South
+662,2013,Larry Warford,G,"$1,102,000",DET,Detroit Lions,NFC North
+663,2013,Montell Owens,FB,"$1,100,000",DET,Detroit Lions,NFC North
+664,2013,Ryan Cook,C,"$1,100,000",DAL,Dallas Cowboys,NFC East
+665,2013,Matt Spaeth,TE,"$1,100,000",PIT,Pittsburgh Steelers,AFC North
+666,2013,Kurt Coleman,FS,"$1,100,000",PHI,Philadelphia Eagles,NFC East
+667,2013,David Garrard,QB,"$1,100,000",NYJ,New York Jets,AFC East
+668,2013,Ted Ginn Jr.,WR,"$1,100,000",CAR,Carolina Panthers,NFC South
+669,2013,Captain Munnerlyn,CB,"$1,100,000",CAR,Carolina Panthers,NFC South
+670,2013,Travelle Wharton,G,"$1,100,000",CAR,Carolina Panthers,NFC South
+671,2013,Chase Blackburn,OLB,"$1,100,000",CAR,Carolina Panthers,NFC South
+672,2013,Sio Moore,OLB,"$1,095,832",OAK,Oakland Raiders,AFC West
+673,2013,Justin Drescher,LS,"$1,090,000",NO,New Orleans Saints,NFC South
+674,2013,Winston Justice,LT,"$1,090,000",DEN,Denver Broncos,AFC West
+675,2013,Jeromy Miles,SS,"$1,089,529",BAL,Baltimore Ravens,AFC North
+676,2013,Bennie Logan,DT,"$1,089,092",PHI,Philadelphia Eagles,NFC East
+677,2013,Mike Windt,LS,"$1,080,000",SD,San Diego Chargers,AFC West
+678,2013,Cameron Jordan,DE,"$1,077,855",NO,New Orleans Saints,NFC South
+679,2013,Leon McFadden,CB,"$1,076,252",CLE,Cleveland Browns,AFC North
+680,2013,Jermaine Gresham,TE,"$1,075,500",CIN,Cincinnati Bengals,AFC North
+681,2013,James Carpenter,G,"$1,069,682",SEA,Seattle Seahawks,NFC West
+682,2013,Jonathan Baldwin,WR,"$1,061,510",SF,San Francisco 49ers,NFC West
+683,2013,Blidi Wreh-Wilson,CB,"$1,061,324",TEN,Tennessee Titans,AFC South
+684,2013,Robert Ayers,DE,"$1,060,000",DEN,Denver Broncos,AFC West
+685,2013,Christian Yount,LS,"$1,055,000",CLE,Cleveland Browns,AFC North
+686,2013,Jimmy Smith,CB,"$1,053,336",BAL,Baltimore Ravens,AFC North
+687,2013,T.J. McDonald,FS,"$1,053,000",STL,St. Louis Rams,NFC West
+688,2013,Mark Ingram,RB,"$1,049,250",NO,New Orleans Saints,NFC South
+689,2013,Brian Winters,G,"$1,048,876",NYJ,New York Jets,AFC East
+690,2013,Sean Weatherspoon,ILB,"$1,047,500",ATL,Atlanta Falcons,NFC South
+691,2013,Mark Barron,ILB,"$1,047,000",TB,Tampa Bay Buccaneers,NFC South
+692,2013,Tim Jamison,DE,"$1,045,000",HOU,Houston Texans,AFC South
+693,2013,Mike Glennon,QB,"$1,042,500",TB,Tampa Bay Buccaneers,NFC South
+694,2013,Brandon Williams,DT,"$1,038,343",BAL,Baltimore Ravens,AFC North
+695,2013,Mike Leach,LS,"$1,025,000",ARI,Arizona Cardinals,NFC West
+696,2013,Terrance Williams,WR,"$1,024,472",DAL,Dallas Cowboys,NFC East
+697,2013,Jermey Parnell,RT,"$1,023,088",DAL,Dallas Cowboys,NFC East
+698,2013,Terron Armstead,LT,"$1,022,436",NO,New Orleans Saints,NFC South
+699,2013,Keenan Allen,WR,"$1,018,800",SD,San Diego Chargers,AFC West
+700,2013,Gabe Carimi,G,"$1,016,458",TB,Tampa Bay Buccaneers,NFC South
+701,2013,Dan Koppen,C,"$1,015,000",DEN,Denver Broncos,AFC West
+702,2013,Dallas Thomas,G,"$1,011,376",MIA,Miami Dolphins,AFC East
+703,2013,David Akers,K,"$1,005,000",DET,Detroit Lions,NFC North
+704,2013,Plaxico Burress,WR,"$1,005,000",PIT,Pittsburgh Steelers,AFC North
+705,2013,Aubrayo Franklin,DT,"$1,005,000",IND,Indianapolis Colts,AFC South
+706,2013,Quintin Mikell,S,"$1,005,000",CAR,Carolina Panthers,NFC South
+707,2013,Josh Brown,K,"$1,005,000",NYG,New  York Giants,NFC East
+708,2013,Calvin Pace,OLB,"$1,005,000",NYJ,New York Jets,AFC East
+709,2013,Dallas Clark,TE,"$1,005,000",BAL,Baltimore Ravens,AFC North
+710,2013,Brandon Stokley,WR,"$1,005,000",BAL,Baltimore Ravens,AFC North
+711,2013,Rian Lindell,K,"$1,005,000",TB,Tampa Bay Buccaneers,NFC South
+712,2013,Kevin Walter,WR,"$1,005,000",TEN,Tennessee Titans,AFC South
+713,2013,Marquise Goodwin,WR,"$1,003,876",BUF,Buffalo Bills,AFC East
+714,2013,Eugene Sims,DE,"$1,001,209",STL,St. Louis Rams,NFC West
+715,2013,Greg Jones,FB,"$1,000,000",HOU,Houston Texans,AFC South
+716,2013,Darian Stewart,FS,"$1,000,000",STL,St. Louis Rams,NFC West
+717,2013,Ashlee Palmer,OLB,"$1,000,000",DET,Detroit Lions,NFC North
+718,2013,Jerricho Cotchery,WR,"$1,000,000",PIT,Pittsburgh Steelers,AFC North
+719,2013,Muhammad Wilkerson,DE,"$1,000,000",NYJ,New York Jets,AFC East
+720,2013,Tyler Polumbus,LT,"$1,000,000",WAS,Washington Commanders,NFC East
+721,2013,Colt Anderson,SS,"$1,000,000",PHI,Philadelphia Eagles,NFC East
+722,2013,Jason Hunter,DE,"$1,000,000",OAK,Oakland Raiders,AFC West
+723,2013,Mike Mitchell,FS,"$1,000,000",CAR,Carolina Panthers,NFC South
+724,2013,Will Svitek,LT,"$1,000,000",NE,New England Patriots,AFC East
+725,2013,Matt Shaughnessy,DE,"$1,000,000",ARI,Arizona Cardinals,NFC West
+726,2013,Ropati Pitoitua,DE,"$1,000,000",TEN,Tennessee Titans,AFC South
+727,2013,Geno Hayes,OLB,"$1,000,000",JAC,Jacksonville Jaguars,AFC South
+728,2013,Gary Gibson,DT,"$1,000,000",TB,Tampa Bay Buccaneers,NFC South
+729,2013,Erik Lorig,FB,"$1,000,000",TB,Tampa Bay Buccaneers,NFC South
+730,2013,Doug Legursky,C,"$1,000,000",BUF,Buffalo Bills,AFC East
+731,2013,Markus Wheaton,WR,"$996,376",PIT,Pittsburgh Steelers,AFC North
+732,2013,Josh Johnson,QB,"$996,250",CIN,Cincinnati Bengals,AFC North
+733,2013,Kareem Jackson,CB,"$995,000",HOU,Houston Texans,AFC South
+734,2013,J.J. Wilcox,FS,"$991,068",DAL,Dallas Cowboys,NFC East
+735,2013,Patrick Mannelly,LS,"$990,000",CHI,Chicago Bears,NFC North
+736,2013,Usama Young,S,"$985,000",OAK,Oakland Raiders,AFC West
+737,2013,Cameron Heyward,DE,"$984,548",PIT,Pittsburgh Steelers,AFC North
+738,2013,Damontre Moore,DE,"$980,252",NYG,New  York Giants,NFC East
+739,2013,Derek Sherrod,RT,"$975,182",GB,Green Bay Packers,NFC North
+740,2013,John Jenkins,DE,"$972,560",NO,New Orleans Saints,NFC South
+741,2013,Patrick Angerer,ILB,"$970,000",IND,Indianapolis Colts,AFC South
+742,2013,Patrick Bailey,OLB,"$970,000",TEN,Tennessee Titans,AFC South
+743,2013,Logan Ryan,CB,"$968,252",NE,New England Patriots,AFC East
+744,2013,Brandon Tate,WR,"$966,000",CIN,Cincinnati Bengals,AFC North
+745,2013,Ryan Tannehill,QB,"$965,841",MIA,Miami Dolphins,AFC East
+746,2013,Bryan Bulaga,RT,"$962,000",GB,Green Bay Packers,NFC North
+747,2013,Luke Kuechly,ILB,"$961,755",CAR,Carolina Panthers,NFC South
+748,2013,Shawn Williams,SS,"$960,944",CIN,Cincinnati Bengals,AFC North
+749,2013,Rex Grossman,QB,"$960,000",WAS,Washington Commanders,NFC East
+750,2013,Dan Williams,DT,"$960,000",ARI,Arizona Cardinals,NFC West
+751,2013,Chris Maragos,FS,"$955,000",SEA,Seattle Seahawks,NFC West
+752,2013,Jordan Reed,TE,"$954,112",WAS,Washington Commanders,NFC East
+753,2013,Hugh Thornton,G,"$950,380",IND,Indianapolis Colts,AFC South
+754,2013,Ronnie Brown,RB,"$950,000",SD,San Diego Chargers,AFC West
+755,2013,Mason Crosby,K,"$950,000",GB,Green Bay Packers,NFC North
+756,2013,Jordan Hill,DT,"$949,140",SEA,Seattle Seahawks,NFC West
+757,2013,Corey Lemonier,OLB,"$948,520",SF,San Francisco 49ers,NFC West
+758,2013,Kayvon Webster,CB,"$944,800",DEN,Denver Broncos,AFC West
+759,2013,Will Witherspoon,OLB,"$940,000",STL,St. Louis Rams,NFC West
+760,2013,Rashean Mathis,CB,"$940,000",DET,Detroit Lions,NFC North
+761,2013,Nick Barnett,ILB,"$940,000",WAS,Washington Commanders,NFC East
+762,2013,Jon Kitna,QB,"$940,000",DAL,Dallas Cowboys,NFC East
+763,2013,Stephon Gilmore,CB,"$939,280",BUF,Buffalo Bills,AFC East
+764,2013,Duron Harmon,SS,"$938,600",NE,New England Patriots,AFC East
+765,2013,Will Davis,CB,"$926,200",MIA,Miami Dolphins,AFC East
+766,2013,Cullen Loeffler,LS,"$925,000",MIN,Minnesota Vikings,NFC North
+767,2013,Matt Barkley,QB,"$922,028",PHI,Philadelphia Eagles,NFC East
+768,2013,Khalif Barnes,LT,"$915,000",OAK,Oakland Raiders,AFC West
+769,2013,Eric Weems,WR,"$915,000",CHI,Chicago Bears,NFC North
+770,2013,Kyle Wilson,CB,"$913,000",NYJ,New York Jets,AFC East
+771,2013,Zaviar Gooden,ILB,"$911,016",TEN,Tennessee Titans,AFC South
+772,2013,Knile Davis,RB,"$911,016",KC,Kansas City Chiefs,AFC West
+773,2013,Chris Spencer,G,"$905,000",TEN,Tennessee Titans,AFC South
+774,2013,Andrew Economos,LS,"$905,000",TB,Tampa Bay Buccaneers,NFC South
+775,2013,Peria Jerry,DT,"$905,000",ATL,Atlanta Falcons,NFC South
+776,2013,Jermelle Cudjo,DT,"$905,000",STL,St. Louis Rams,NFC West
+777,2013,Israel Idonije,DE,"$905,000",DET,Detroit Lions,NFC North
+778,2013,Don Muhlbach,LS,"$905,000",DET,Detroit Lions,NFC North
+779,2013,Dylan Gandy,G,"$905,000",DET,Detroit Lions,NFC North
+780,2013,Clint Gresham,LS,"$905,000",SEA,Seattle Seahawks,NFC West
+781,2013,Greg Warren,LS,"$905,000",PIT,Pittsburgh Steelers,AFC North
+782,2013,Joe Berger,G,"$905,000",MIN,Minnesota Vikings,NFC North
+783,2013,Donnie Jones,P,"$905,000",PHI,Philadelphia Eagles,NFC East
+784,2013,Ben Hartsock,TE,"$905,000",CAR,Carolina Panthers,NFC South
+785,2013,Kevin Boothe,G,"$905,000",NYG,New  York Giants,NFC East
+786,2013,Yeremiah Bell,S,"$905,000",ARI,Arizona Cardinals,NFC West
+787,2013,Frostee Rucker,DT,"$905,000",ARI,Arizona Cardinals,NFC West
+788,2013,Kelvin Hayden,CB,"$905,000",CHI,Chicago Bears,NFC North
+789,2013,Dontari Poe,DT,"$904,546",KC,Kansas City Chiefs,AFC West
+790,2013,O'Brien Schofield,OLB,"$900,000",SEA,Seattle Seahawks,NFC West
+791,2013,Andre Caldwell,WR,"$900,000",DEN,Denver Broncos,AFC West
+792,2013,Jamon Meredith,RT,"$900,000",TB,Tampa Bay Buccaneers,NFC South
+793,2013,Kenny Britt,WR,"$897,500",TEN,Tennessee Titans,AFC South
+794,2013,Bear Pascoe,TE,"$892,500",NYG,New  York Giants,NFC East
+795,2013,Nico Johnson,ILB,"$891,000",KC,Kansas City Chiefs,AFC West
+796,2013,Tony McDaniel,DT,"$890,000",SEA,Seattle Seahawks,NFC West
+797,2013,Ace  Sanders,WR,"$886,448",JAC,Jacksonville Jaguars,AFC South
+798,2013,Garrison Sanborn,LS,"$885,000",BUF,Buffalo Bills,AFC East
+799,2013,Josh Boyce,WR,"$882,000",NE,New England Patriots,AFC East
+800,2013,Rodger Saffold,G,"$880,000",STL,St. Louis Rams,NFC West
+801,2013,Raymond Ventrone,S,"$880,000",SF,San Francisco 49ers,NFC West
+802,2013,Morgan Cox,LS,"$880,000",BAL,Baltimore Ravens,AFC North
+803,2013,Mike Patterson,DT,"$880,000",NYG,New  York Giants,NFC East
+804,2013,Jelani Jenkins,OLB,"$877,688",MIA,Miami Dolphins,AFC East
+805,2013,Duke Williams,FS,"$875,252",BUF,Buffalo Bills,AFC East
+806,2013,Dion Sims,TE,"$872,552",MIA,Miami Dolphins,AFC East
+807,2013,Jerry Hughes,DE,"$870,000",BUF,Buffalo Bills,AFC East
+808,2013,Kellen Clemens,QB,"$870,000",STL,St. Louis Rams,NFC West
+809,2013,Brian Schwenke,C,"$869,260",TEN,Tennessee Titans,AFC South
+810,2013,Alex Smith,TE,"$865,000",CIN,Cincinnati Bengals,AFC North
+811,2013,Darryl Tapp,DE,"$865,000",WAS,Washington Commanders,NFC East
+812,2013,Ryan Wendell,C,"$865,000",NE,New England Patriots,AFC East
+813,2013,Tim Masthay,P,"$865,000",GB,Green Bay Packers,NFC North
+814,2013,Josh McCown,QB,"$865,000",CHI,Chicago Bears,NFC North
+815,2013,Akeem Spence,DT,"$860,928",TB,Tampa Bay Buccaneers,NFC South
+816,2013,David Bakhtiari,LT,"$860,400",GB,Green Bay Packers,NFC North
+817,2013,Ryan Nassib,QB,"$858,600",NYG,New  York Giants,NFC East
+818,2013,Shamarko Thomas,SS,"$858,152",PIT,Pittsburgh Steelers,AFC North
+819,2013,Fletcher Cox,DT,"$855,509",PHI,Philadelphia Eagles,NFC East
+820,2013,Richard Marshall,CB,"$855,000",SD,San Diego Chargers,AFC West
+821,2013,Aaron Williams,SS,"$853,105",BUF,Buffalo Bills,AFC East
+822,2013,Jason Snelling,RB,"$850,000",ATL,Atlanta Falcons,NFC South
+823,2013,JoLonn Dunbar,OLB,"$850,000",STL,St. Louis Rams,NFC West
+824,2013,Desmond Bishop,OLB,"$850,000",MIN,Minnesota Vikings,NFC North
+825,2013,Antonio Johnson,DT,"$850,000",TEN,Tennessee Titans,AFC South
+826,2013,Andy Dalton,QB,"$849,018",CIN,Cincinnati Bengals,AFC North
+827,2013,Zak DeOssie,LS,"$849,000",NYG,New  York Giants,NFC East
+828,2013,B.W. Webb,CB,"$848,380",DAL,Dallas Cowboys,NFC East
+829,2013,Landry Jones,QB,"$844,220",PIT,Pittsburgh Steelers,AFC North
+830,2013,Michael Floyd,WR,"$843,250",ARI,Arizona Cardinals,NFC West
+831,2013,Colin Kaepernick,QB,"$840,844",SF,San Francisco 49ers,NFC West
+832,2013,Jim Leonhard,S,"$840,000",BUF,Buffalo Bills,AFC East
+833,2013,Jeremy Trueblood,RT,"$840,000",ATL,Atlanta Falcons,NFC South
+834,2013,Tarvaris Jackson,QB,"$840,000",SEA,Seattle Seahawks,NFC West
+835,2013,Matt Giordano,S,"$840,000",STL,St. Louis Rams,NFC West
+836,2013,Rocky McIntosh,OLB,"$840,000",DET,Detroit Lions,NFC North
+837,2013,Ernie Sims,OLB,"$840,000",DAL,Dallas Cowboys,NFC East
+838,2013,Luke McCown,QB,"$840,000",NO,New Orleans Saints,NFC South
+839,2013,Michael Boley,LB,"$840,000",CIN,Cincinnati Bengals,AFC North
+840,2013,Dexter McCluster,RB,"$840,000",KC,Kansas City Chiefs,AFC West
+841,2013,Colin Cole,DT,"$840,000",CAR,Carolina Panthers,NFC South
+842,2013,Derek Anderson,QB,"$840,000",CAR,Carolina Panthers,NFC South
+843,2013,Tony Pashos,RT,"$840,000",OAK,Oakland Raiders,AFC West
+844,2013,Brandon Jacobs,RB,"$840,000",NYG,New  York Giants,NFC East
+845,2013,Vincent Jackson,WR,"$840,000",TB,Tampa Bay Buccaneers,NFC South
+846,2013,Billy Cundiff,K,"$840,000",CLE,Cleveland Browns,AFC North
+847,2013,Earl Watford,RT,"$839,864",ARI,Arizona Cardinals,NFC West
+848,2013,Jabaal Sheard,OLB,"$837,750",CLE,Cleveland Browns,AFC North
+849,2013,Khaseem Greene,OLB,"$837,092",CHI,Chicago Bears,NFC North
+850,2013,Demaryius Thomas,WR,"$836,500",DEN,Denver Broncos,AFC West
+851,2013,Brennan Williams,RT,"$830,900",HOU,Houston Texans,AFC South
+852,2013,Ryan Williams,RB,"$830,221",ARI,Arizona Cardinals,NFC West
+853,2013,Andrew Sendejo,SS,"$830,000",MIN,Minnesota Vikings,NFC North
+854,2013,Arrelious Benn,WR,"$830,000",PHI,Philadelphia Eagles,NFC East
+855,2013,Willis McGahee,RB,"$829,411",CLE,Cleveland Browns,AFC North
+856,2013,Gerald Hodges,OLB,"$825,108",MIN,Minnesota Vikings,NFC North
+857,2013,Khaled Holmes,C,"$825,108",IND,Indianapolis Colts,AFC South
+858,2013,Barry Church,SS,"$823,000",DAL,Dallas Cowboys,NFC East
+859,2013,Akeem Ayers,OLB,"$822,864",TEN,Tennessee Titans,AFC South
+860,2013,Michael Brockers,DT,"$822,818",STL,St. Louis Rams,NFC West
+861,2013,Brett Kern,P,"$821,500",TEN,Tennessee Titans,AFC South
+862,2013,J.C. Tretter,C,"$820,908",GB,Green Bay Packers,NFC North
+863,2013,Bruce Carter,ILB,"$816,327",DAL,Dallas Cowboys,NFC East
+864,2013,Marvin Mitchell,OLB,"$815,000",MIN,Minnesota Vikings,NFC North
+865,2013,Alan Ball,CB,"$815,000",JAC,Jacksonville Jaguars,AFC South
+866,2013,Matt Slauson,G,"$815,000",CHI,Chicago Bears,NFC North
+867,2013,Johnathan Franklin,RB,"$810,468",GB,Green Bay Packers,NFC North
+868,2013,Stedman Bailey,WR,"$808,305",STL,St. Louis Rams,NFC West
+869,2013,William Gholston,DE,"$805,544",TB,Tampa Bay Buccaneers,NFC South
+870,2013,Gavin Escobar,TE,"$805,000",DAL,Dallas Cowboys,NFC East
+871,2013,Malliciah Goodman,DE,"$802,088",ATL,Atlanta Falcons,NFC South
+872,2013,Brooks Reed,DE,"$802,000",HOU,Houston Texans,AFC South
+873,2013,Patrick Robinson,CB,"$800,000",NO,New Orleans Saints,NFC South
+874,2013,Keith Rivers,OLB,"$800,000",NYG,New  York Giants,NFC East
+875,2013,Jared Odrick,DE,"$800,000",MIA,Miami Dolphins,AFC East
+876,2013,Quinton Patton,WR,"$796,500",SF,San Francisco 49ers,NFC West
+877,2013,Kyle Rudolph,TE,"$795,896",MIN,Minnesota Vikings,NFC North
+878,2013,John Simon,OLB,"$790,652",BAL,Baltimore Ravens,AFC North
+879,2013,Quinton Coples,OLB,"$790,127",NYJ,New York Jets,AFC East
+880,2013,Dre Kirkpatrick,CB,"$781,954",CIN,Cincinnati Bengals,AFC North
+881,2013,Ryan Harris,LT,"$780,000",HOU,Houston Texans,AFC South
+882,2013,Steven Hauschka,K,"$780,000",SEA,Seattle Seahawks,NFC West
+883,2013,Mike Pollak,G,"$780,000",CIN,Cincinnati Bengals,AFC North
+884,2013,LaRod Stephens-Howling,RB,"$780,000",PIT,Pittsburgh Steelers,AFC North
+885,2013,Lawrence Sidbury,OLB,"$780,000",IND,Indianapolis Colts,AFC South
+886,2013,Jordan Senn,OLB,"$780,000",CAR,Carolina Panthers,NFC South
+887,2013,Nick Folk,K,"$780,000",NYJ,New York Jets,AFC East
+888,2013,Ryan Mundy,SS,"$780,000",NYG,New  York Giants,NFC East
+889,2013,Louis Murphy,WR,"$780,000",NYG,New  York Giants,NFC East
+890,2013,James Ihedigbo,SS,"$780,000",BAL,Baltimore Ravens,AFC North
+891,2013,Aaron Ross,CB,"$780,000",NYG,New  York Giants,NFC East
+892,2013,Tony Fiammetta,FB,"$780,000",CHI,Chicago Bears,NFC North
+893,2013,Zackary Bowman,CB,"$780,000",CHI,Chicago Bears,NFC North
+894,2013,Dante Rosario,TE,"$780,000",CHI,Chicago Bears,NFC North
+895,2013,Rahim Moore,FS,"$779,375",DEN,Denver Broncos,AFC West
+896,2013,Phillip Adams,CB,"$775,000",OAK,Oakland Raiders,AFC West
+897,2013,Chris Ogbonnaya,RB,"$775,000",CLE,Cleveland Browns,AFC North
+898,2013,Tom Crabtree,TE,"$775,000",TB,Tampa Bay Buccaneers,NFC South
+899,2013,Brandon Browner,CB,"$773,756",SEA,Seattle Seahawks,NFC West
+900,2013,Melvin Ingram,OLB,"$771,738",SD,San Diego Chargers,AFC West
+901,2013,Orlando Franklin,G,"$771,000",DEN,Denver Broncos,AFC West
+902,2013,Tyrann Mathieu,FS,"$769,375",ARI,Arizona Cardinals,NFC West
+903,2013,Shea McClellin,OLB,"$765,609",CHI,Chicago Bears,NFC North
+904,2013,Will Herring,LB,"$765,000",NO,New Orleans Saints,NFC South
+905,2013,Julian Edelman,WR,"$765,000",NE,New England Patriots,AFC East
+906,2013,Craig Steltz,S,"$765,000",CHI,Chicago Bears,NFC North
+907,2013,Jason Trusnik,ILB,"$765,000",MIA,Miami Dolphins,AFC East
+908,2013,Kendall Wright,WR,"$763,566",TEN,Tennessee Titans,AFC South
+909,2013,Alex Okafor,DE,"$762,428",ARI,Arizona Cardinals,NFC West
+910,2013,Chandler Jones,OLB,"$761,522",NE,New England Patriots,AFC East
+911,2013,Tanner Purdum,LS,"$760,000",NYJ,New York Jets,AFC East
+912,2013,Lance Kendricks,TE,"$759,118",STL,St. Louis Rams,NFC West
+913,2013,Brandon Weeden,QB,"$757,436",CLE,Cleveland Browns,AFC North
+914,2013,Riley Reiff,LT,"$753,350",DET,Detroit Lions,NFC North
+915,2013,Stefen Wisniewski,C,"$750,946",OAK,Oakland Raiders,AFC West
+916,2013,Tom Johnson,DT,"$750,000",NO,New Orleans Saints,NFC South
+917,2013,Oniel Cousins,G,"$750,000",CLE,Cleveland Browns,AFC North
+918,2013,Gary Barnidge,TE,"$750,000",CLE,Cleveland Browns,AFC North
+919,2013,David DeCastro,G,"$745,177",PIT,Pittsburgh Steelers,AFC North
+920,2013,Edmund Kugbila,G,"$744,456",CAR,Carolina Panthers,NFC South
+921,2013,Benjamin Ijalana,RT,"$742,772",NYJ,New York Jets,AFC East
+922,2013,Dont'a Hightower,OLB,"$741,091",NE,New England Patriots,AFC East
+923,2013,Ramon Humber,OLB,"$740,000",NO,New Orleans Saints,NFC South
+924,2013,Bryan Kehl,ILB,"$740,000",WAS,Washington Commanders,NFC East
+925,2013,J.J. Jansen,LS,"$740,000",CAR,Carolina Panthers,NFC South
+926,2013,Brett Goode,LS,"$740,000",GB,Green Bay Packers,NFC North
+927,2013,Blake Costanzo,OLB,"$740,000",CHI,Chicago Bears,NFC North
+928,2013,Whitney Mercilus,OLB,"$737,004",HOU,Houston Texans,AFC South
+929,2013,Akeem Jordan,ILB,"$735,000",KC,Kansas City Chiefs,AFC West
+930,2013,Marcus Gilchrist,SS,"$734,600",SD,San Diego Chargers,AFC West
+931,2013,Kevin Zeitler,G,"$732,918",CIN,Cincinnati Bengals,AFC North
+932,2013,Nick Perry,OLB,"$730,875",GB,Green Bay Packers,NFC North
+933,2013,Danny McCray,SS,"$730,000",DAL,Dallas Cowboys,NFC East
+934,2013,Chris Cook,CB,"$730,000",MIN,Minnesota Vikings,NFC North
+935,2013,Jason Phillips,ILB,"$730,000",PHI,Philadelphia Eagles,NFC East
+936,2013,Josh Mauga,ILB,"$730,000",NYJ,New York Jets,AFC East
+937,2013,Reggie Walker,ILB,"$730,000",SD,San Diego Chargers,AFC West
+938,2013,Paul Fanaika,G,"$730,000",ARI,Arizona Cardinals,NFC West
+939,2013,Da'Quan Bowers,DT,"$725,512",TB,Tampa Bay Buccaneers,NFC South
+940,2013,Edgar Jones,OLB,"$725,000",DAL,Dallas Cowboys,NFC East
+941,2013,Allen Barbre,G,"$725,000",PHI,Philadelphia Eagles,NFC East
+942,2013,Thomas Gafford,LS,"$725,000",KC,Kansas City Chiefs,AFC West
+943,2013,Rob Francois,ILB,"$725,000",GB,Green Bay Packers,NFC North
+944,2013,Sean Porter,ILB,"$717,300",CIN,Cincinnati Bengals,AFC North
+945,2013,Dan Carpenter,K,"$715,000",BUF,Buffalo Bills,AFC East
+946,2013,Jackie Battle,FB,"$715,000",TEN,Tennessee Titans,AFC South
+947,2013,Michael Adams,S,"$715,000",TB,Tampa Bay Buccaneers,NFC South
+948,2013,John Wendling,S,"$715,000",DET,Detroit Lions,NFC North
+949,2013,Robert Meachem,WR,"$715,000",NO,New Orleans Saints,NFC South
+950,2013,Guy Whimper,G,"$715,000",PIT,Pittsburgh Steelers,AFC North
+951,2013,Husain Abdullah,FS,"$715,000",KC,Kansas City Chiefs,AFC West
+952,2013,Quintin Demps,SS,"$715,000",KC,Kansas City Chiefs,AFC West
+953,2013,Graham Gano,K,"$715,000",CAR,Carolina Panthers,NFC South
+954,2013,Leger Douzable,DT,"$715,000",NYJ,New York Jets,AFC East
+955,2013,Johnny Jolly,DE,"$715,000",GB,Green Bay Packers,NFC North
+956,2013,Mike Gibson,C,"$715,000",ARI,Arizona Cardinals,NFC West
+957,2013,Kory Sperry,TE,"$715,000",ARI,Arizona Cardinals,NFC West
+958,2013,Brian Hoyer,QB,"$715,000",CLE,Cleveland Browns,AFC North
+959,2013,Tony Carter,CB,"$715,000",DEN,Denver Broncos,AFC West
+960,2013,Darius Reynaud,RB,"$715,000",NYJ,New York Jets,AFC East
+961,2013,Steve Vallos,C,"$715,000",DEN,Denver Broncos,AFC West
+962,2013,Will Blackmon,CB,"$715,000",JAC,Jacksonville Jaguars,AFC South
+963,2013,Eben Britton,RT,"$715,000",CHI,Chicago Bears,NFC North
+964,2013,Harrison Smith,FS,"$714,479",MIN,Minnesota Vikings,NFC North
+965,2013,Phillip Thomas,SS,"$713,204",WAS,Washington Commanders,NFC East
+966,2013,Stephen Paea,DT,"$710,082",CHI,Chicago Bears,NFC North
+967,2013,A.J.  Jenkins,WR,"$705,797",KC,Kansas City Chiefs,AFC West
+968,2013,Levine Toilolo,TE,"$705,584",ATL,Atlanta Falcons,NFC South
+969,2013,Devin Taylor,DE,"$705,584",DET,Detroit Lions,NFC North
+970,2013,Marcus Lattimore,RB,"$705,584",SF,San Francisco 49ers,NFC West
+971,2013,Kyle Juszczyk,FB,"$705,584",BAL,Baltimore Ravens,AFC North
+972,2013,Terrell Thomas,CB,"$700,000",NYG,New  York Giants,NFC East
+973,2013,Devin McCourty,FS,"$700,000",NE,New England Patriots,AFC East
+974,2013,Geoff Schwartz,G,"$700,000",KC,Kansas City Chiefs,AFC West
+975,2013,Aaron Berry,CB,"$700,000",NYJ,New York Jets,AFC East
+976,2013,Doug Martin,RB,"$698,524",TB,Tampa Bay Buccaneers,NFC South
+977,2013,Mikel Leshoure,RB,"$697,198",DET,Detroit Lions,NFC North
+978,2013,Nate Allen,FS,"$697,000",PHI,Philadelphia Eagles,NFC East
+979,2013,Trevardo Williams,DE,"$695,612",HOU,Houston Texans,AFC South
+980,2013,Antone Smith,RB,"$695,000",ATL,Atlanta Falcons,NFC South
+981,2013,David Wilson,RB,"$693,841",NYG,New  York Giants,NFC East
+982,2013,Rodney Hudson,C,"$693,736",KC,Kansas City Chiefs,AFC West
+983,2013,Shane Vereen,RB,"$689,650",NE,New England Patriots,AFC East
+984,2013,Torrey Smith,WR,"$683,112",BAL,Baltimore Ravens,AFC North
+985,2013,Kellen Davis,TE,"$682,941",SEA,Seattle Seahawks,NFC West
+986,2013,LeGarrette Blount,RB,"$680,000",NE,New England Patriots,AFC East
+987,2013,T.J. Ward,SS,"$680,000",CLE,Cleveland Browns,AFC North
+988,2013,Greg Little,WR,"$677,500",CLE,Cleveland Browns,AFC North
+989,2013,Rich Ohrnberger,C,"$675,000",SD,San Diego Chargers,AFC West
+990,2013,Brandon Harris,CB,"$674,938",HOU,Houston Texans,AFC South
+991,2013,Matthew Mulligan,TE,"$672,941",NE,New England Patriots,AFC East
+992,2013,Jonathan Scott,LT,"$672,941",CHI,Chicago Bears,NFC North
+993,2013,Jonas Mouton,ILB,"$671,670",SD,San Diego Chargers,AFC West
+994,2013,Seth Olsen,G,"$670,000",MIN,Minnesota Vikings,NFC North
+995,2013,Daniel Thomas,RB,"$669,217",MIA,Miami Dolphins,AFC East
+996,2013,Marcus Gilbert,RT,"$668,402",PIT,Pittsburgh Steelers,AFC North
+997,2013,Randall Cobb,WR,"$666,766",GB,Green Bay Packers,NFC North
+998,2013,David Johnson,TE,"$665,000",PIT,Pittsburgh Steelers,AFC North
+999,2013,Rob Gronkowski,TE,"$660,000",NE,New England Patriots,AFC East
+1000,2013,Lamarr Houston,OLB,"$660,000",OAK,Oakland Raiders,AFC West
