@@ -47,7 +47,7 @@ Gathered data of top 1000 paid players each year over the past 10 years via web 
 1. My hypothesis was correct and the quarterback position was the highest paid role earning, $5.6 billion in the 10 year span and being 11% of the entire market. The lowest paid position was actually the long snapper position earning only $166 million in the 10 year span while only being 0.36% of the market
 2. The player market exceeded my expectations and increased a total of 79.23%. 
 3. The season with the highest increase turned out to be the 2019-2020 season, and surprisingly the market did have a decrease in 2020-2021 most likely due to covid and fans not being able to attend games. 
-4. The highest paid position in 1 year ended up being the safety position in the 2022 season garnering an increase of 220% from 2021.
+4. The highest paid position in 1 year ended up being the safety position in the 2017 season garnering an increase of 320% from 2016.
 
 ## Interesting Findings
 1. The position that has grown the most within the 10 year span was the Safety position, growing 337%. 
