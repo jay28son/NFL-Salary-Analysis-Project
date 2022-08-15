@@ -55,3 +55,4 @@ Gathered data of top 1000 paid players each year over the past 10 years via web 
 
 # Future Goals
 1. Create SQL queries to see if theres any correlation between divisions/teams paying a certain position more.
+2. Learn Machine Learning to try and predict future NFL Player Markets.
